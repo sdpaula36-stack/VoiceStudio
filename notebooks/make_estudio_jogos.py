@@ -1,4 +1,4 @@
-"""Gera notebooks/Estudio_Jogos_Colab.ipynb (vozes + efeitos: Barraco e Pé na Tábua).
+"""Gera notebooks/Estudio_Jogos_Colab.ipynb (vozes + efeitos: Barraco, Pé na Tábua e Clank).
 
 Uso: python make_nb.py notebooks/Estudio_Jogos_Colab.ipynb <pe-na-tabua>/src/story/dialogos.json
 """
@@ -103,7 +103,7 @@ def code(s):
 md(r'''
 # Estúdio de jogos no Colab: vozes e efeitos sonoros
 
-Gera, numa GPU grátis do Google Colab, as **vozes** (VoiceStudio) e os **efeitos sonoros** (Stable Audio Open) dos jogos **Barraco do Bairro** e **Pé na Tábua**. Escolha o jogo na célula 2. Tudo é salvo no seu Google Drive, em `MyDrive/EstudioJogos/<jogo>/`.
+Gera, numa GPU grátis do Google Colab, as **vozes** (VoiceStudio) e os **efeitos sonoros** (Stable Audio Open) dos jogos **Barraco do Bairro**, **Pé na Tábua** e **Clank** (no Clank, só efeitos: rode 1, 2, 8, 9 e 10). Escolha o jogo na célula 2. Tudo é salvo no seu Google Drive, em `MyDrive/EstudioJogos/<jogo>/`.
 
 **Antes de começar**
 
@@ -147,7 +147,7 @@ from google.colab import drive
 
 drive.mount("/content/drive")
 
-JOGO = "pe-na-tabua"   # escolha o jogo: "barraco" ou "pe-na-tabua"
+JOGO = "clank"   # escolha o jogo: "barraco", "pe-na-tabua" ou "clank" (só efeitos)
 SAIDA = f"/content/drive/MyDrive/EstudioJogos/{JOGO}"
 PASTA_WAV = os.path.join(SAIDA, "wav")   # originais, qualidade máxima
 PASTA_MP3 = os.path.join(SAIDA, "mp3")   # pronto para tools/preparar-sons.py
@@ -421,6 +421,9 @@ ROTEIROS["barraco"] = {
 # "fx": "radio" passa a voz por um filtro de rádio no MP3 (célula 7).
 ROTEIROS["pe-na-tabua"] = ''' + PE_ROTEIRO + r'''
 
+# Clank: só efeitos sonoros, sem falas (pule as células 3 a 7).
+ROTEIROS["clank"] = {}
+
 PERSONAGENS = ROTEIROS[JOGO]
 
 # Barraco: a Dark Cida usa a voz da Dona Cida com efeitos (célula 7): estes
@@ -628,6 +631,33 @@ EFEITOS_POR_JOGO["pe-na-tabua"] = [
     ("ambiente_areia",    "desert sandstorm wind with sand hissing", 8.0),
     ("ambiente_toquio",   "busy city at night, distant traffic and neon buzz", 8.0),
     ("ambiente_gelo",     "ice cracking and creaking on a frozen fjord, cold wind", 8.0),
+]
+EFEITOS_POR_JOGO["clank"] = [
+    # Hoje tudo é sintetizado em src/ui/sintese.js. O id é o nome do som lá;
+    # cada versão vira uma variante nova em escuta.html para comparar.
+    # Momentos
+    ("dragao",     "huge dragon roar echoing in a stone cavern, deep and menacing", 3.0),
+    ("asas",       "giant leathery dragon wings flapping in a cave", 2.0),
+    ("fantasma",   "ghostly wail echoing in a crypt, eerie and hollow", 2.5),
+    ("dano",       "heavy blunt impact on leather armor, painful thud", 0.6),
+    ("tesouro",    "treasure chest lid opening with sparkling magical chimes", 2.0),
+    # Mesa
+    ("clank",      "metal armor and iron gear clanking loudly as someone stumbles", 1.0),
+    ("bolsa",      "small wooden cubes shaken inside a leather pouch", 1.0),
+    ("moeda",      "a few gold coins clinking on a wooden table", 0.8),
+    ("carta",      "playing card flicked onto a wooden table", 0.5),
+    ("compra",     "drawing a single card from a deck, paper slide", 0.4),
+    ("embaralhar", "shuffling a deck of playing cards", 1.0),
+    ("passo",      "footsteps on a stone dungeon floor, two steps, echo", 0.8),
+    ("peca",       "heavy stone slab dragged and set down with a thud", 1.5),
+    # Eventos do ambiente
+    ("goteira",    "single water drop falling into a puddle in a cave, echo", 0.8),
+    ("ossos",      "old bones rattling and rolling on stone", 1.2),
+    ("correntes",  "iron chains rattling in a dungeon", 1.5),
+    ("batida",     "slow heavy heartbeat, two deep beats", 1.0),
+    # Camadas contínuas (laços)
+    ("vento",      "cold wind blowing through underground catacombs, seamless loop", 8.0),
+    ("respiracao", "sleeping dragon slow deep breathing and low rumble in a cave, seamless loop", 8.0),
 ]
 EFEITOS = EFEITOS_POR_JOGO[JOGO]
 VERSOES = 2
