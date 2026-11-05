@@ -1,0 +1,45 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 3,
+  "titulo": "Emília fala!",
+  "nota": "Adaptação livre para o piloto. Conferir os fatos com uma edição do texto original antes de distribuir.",
+  "vozes": {
+    "emilia":   {"voz": "female, young adult, very high pitch", "semente": 261},
+    "nastacia": {"voz": "female, middle-aged, low pitch",       "semente": 271}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo três: Emília fala!", 0.95, 1.2],
+    ["narrador", "No capítulo passado, Narizinho ganhou um vestido da Dona Aranha e conheceu o Doutor Caramujo.", 1.0, 0.4],
+    ["narrador", "O doutor deu para a Emília uma pílula falante. E a boca de pano da boneca começou a mexer...", 0.95, 1.2],
+
+    ["emilia", "Estou com um gosto horrível de sapo na boca!", 1.05, 0.9],
+    ["narrador", "Todo mundo levou um susto. A Emília estava falando!", 1.05, 0.5],
+    ["narizinho", "Emília! Você fala! Você fala de verdade!", 1.1, 0.5],
+    ["emilia", "Claro que falo. Eu sempre pensei um monte de coisas. Só faltava a boca funcionar!", 1.05, 0.6],
+    ["narrador", "E a Emília não parou mais. Falava, falava, falava, igual a uma torneira aberta.", 1.05, 0.5],
+    ["emilia", "Esse príncipe é muito molhado. Esse caranguejo é muito bravo. E esse doutor tem cara de quem come alface no café da manhã!", 1.1, 0.6],
+    ["caramujo", "Hum. Acho que a pílula era forte demais.", 0.95, 0.6],
+    ["narrador", "Narizinho ficou um pouco envergonhada. Mas também não conseguia parar de rir.", 1.0, 0.5],
+    ["narizinho", "Emília, fale com educação! Eles são nossos amigos.", 1.0, 0.5],
+    ["emilia", "Está bem, está bem. Muito obrigada pela pílula, senhor doutor. Mas da próxima vez, faça com gosto de goiabada!", 1.05, 0.9],
+
+    ["narrador", "O príncipe achou tudo muito engraçado e resolveu fazer uma festa.", 1.0, 0.4],
+    ["principe", "Hoje tem baile no palácio! Para comemorar a boneca que aprendeu a falar!", 1.05, 0.6],
+    ["narrador", "Os peixes tocaram música com as bolhas: blub, blub, blub. Os camarões dançaram em fila. E até o Major mexeu as garras no ritmo.", 1.05, 0.5],
+    ["narrador", "Narizinho dançou com o príncipe, de vestido azul. E Emília dançou sozinha, girando, girando, e falando sem parar.", 1.0, 0.9],
+
+    ["narrador", "No meio da festa, de repente, Narizinho ouviu uma voz que vinha lá de cima. De muito longe.", 0.9, 0.8],
+    ["nastacia", "Narizinho! Vem lanchar, menina! Tem bolinho quentinho!", 0.95, 0.8],
+    ["narizinho", "É a Tia Nastácia! Preciso voltar para casa.", 1.0, 0.5],
+    ["principe", "Já vai? Mas a festa mal começou!", 1.0, 0.5],
+    ["narizinho", "Eu volto, prometo. Obrigada por tudo, príncipe!", 1.0, 0.8],
+    ["narrador", "Narizinho fechou os olhos. Quando abriu de novo... estava deitada na grama, na beira do riacho.", 0.9, 0.8],
+    ["narrador", "Será que tinha sido tudo um sonho?", 0.85, 1.0],
+    ["narrador", "Ela olhou para a boneca no colo. E a boneca olhou de volta para ela.", 0.9, 0.8],
+    ["emilia", "Que foi? Nunca viu boneca falar, não?", 1.05, 1.0],
+    ["narrador", "Não tinha sido sonho! Narizinho saiu correndo para casa, com a Emília falando sem parar.", 1.1, 0.5],
+    ["narrador", "E o que será que a Dona Benta e a Tia Nastácia vão dizer quando ouvirem a Emília falar?", 0.95, 0.6],
+    ["narrador", "Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}
