@@ -1,0 +1,49 @@
+{
+  "livro": "Reinações de Narizinho",
+  "capitulo": 2,
+  "titulo": "O palácio de conchas",
+  "nota": "Adaptação livre para o piloto. Conferir os fatos com uma edição do texto original antes de distribuir.",
+  "vozes": {
+    "aranha":   {"voz": "female, middle-aged, high pitch", "semente": 241},
+    "caramujo": {"voz": "male, elderly, low pitch",        "semente": 251}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo dois: O palácio de conchas.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, Narizinho dormiu na beira do riacho e acordou com um peixinho de coroa em cima do nariz.", 1.0, 0.4],
+    ["narrador", "Era o Príncipe Escamado. Ele convidou Narizinho para conhecer o Reino das Águas Claras. E ela mergulhou, com Emília no colo!", 1.0, 1.2],
+
+    ["narrador", "Debaixo da água, Narizinho percebeu uma coisa incrível. Ela conseguia respirar! E nem estava molhada!", 1.05, 0.6],
+    ["narrador", "Em volta dela passavam peixes amarelos, peixes azuis, peixes listrados. Uns grandes, outros do tamanho de um grão de feijão.", 1.0, 0.5],
+    ["narrador", "E lá na frente, brilhando como um castelo de festa, estava o palácio de conchas.", 0.95, 0.8],
+    ["narizinho", "Que lindo! Parece feito de pérolas!", 1.05, 0.6],
+    ["principe", "Seja bem-vinda ao meu palácio, Narizinho. Aqui você é a minha convidada de honra.", 1.0, 0.7],
+    ["narrador", "Na porta do palácio, quem estava de guarda? Ele mesmo: o Major Agarra-e-Não-Larga-Mais, com as garras para cima.", 1.0, 0.4],
+    ["major", "Alto lá! Quem vem com o príncipe pode passar. Mas a boneca de pano fica de olho fechado!", 1.0, 0.6],
+    ["narrador", "Narizinho riu. Emília não podia fechar os olhos, porque eles eram costurados com linha preta.", 1.0, 0.9],
+
+    ["narrador", "Lá dentro, o príncipe levou Narizinho até uma salinha cheia de fios e agulhas.", 1.0, 0.4],
+    ["narrador", "Era o ateliê da Dona Aranha, a costureira mais famosa do reino. Ela tinha oito patas, e cada pata segurava uma agulha diferente.", 1.0, 0.5],
+    ["aranha", "Ora, ora, uma menina de verdade! Fique paradinha, que eu vou fazer um vestido de festa para você.", 1.0, 0.6],
+    ["narrador", "E as oito patas começaram a costurar, depressa, depressa, depressa! Zip, zip, zip!", 1.1, 0.5],
+    ["narrador", "Em um minuto, o vestido estava pronto. Era azul como o céu, com bolinhas de espuma do mar.", 1.0, 0.5],
+    ["narizinho", "Dona Aranha, é o vestido mais bonito que eu já vi!", 1.05, 0.5],
+    ["aranha", "Fiz com fio de teia e luz da lua. Cuidado para não sujar de lama!", 1.0, 1.0],
+
+    ["narrador", "Depois, o príncipe disse que queria apresentar um amigo muito importante.", 1.0, 0.4],
+    ["narrador", "Bateram numa porta pequenininha. Toc, toc, toc.", 0.95, 0.8],
+    ["narrador", "A porta abriu bem devagar... e apareceu um caramujo de óculos, com uma maleta preta e cara de sabido.", 0.9, 0.5],
+    ["caramujo", "Boa tarde, boa tarde. Eu sou o Doutor Caramujo, o médico do reino. Quem está doente aqui?", 0.95, 0.6],
+    ["principe", "Ninguém está doente, doutor. Mas a boneca da Narizinho não fala.", 1.0, 0.5],
+    ["caramujo", "Não fala? Hum... Deixe-me ver.", 0.95, 0.6],
+    ["narrador", "O doutor olhou a boca de Emília com uma lupa. Olhou de um lado. Olhou do outro.", 0.95, 0.5],
+    ["caramujo", "Já sei o que é. Esta boneca tem falta de fala. Mas eu tenho o remédio certo!", 1.0, 0.6],
+    ["narrador", "Ele abriu a maleta preta e tirou um vidrinho cheio de bolinhas coloridas.", 1.0, 0.4],
+    ["caramujo", "São as minhas pílulas falantes. Uma só, e qualquer um fala pelos cotovelos!", 1.0, 0.8],
+    ["narrador", "Narizinho segurou Emília bem firme. O doutor pegou uma pílula e colocou na boca da boneca.", 0.95, 0.5],
+    ["narrador", "Emília engoliu. Gulp!", 0.95, 1.2],
+    ["narrador", "Todo mundo ficou olhando. O príncipe, a Dona Aranha, o Major, o doutor... e Narizinho, de olhos arregalados.", 0.9, 0.8],
+    ["narrador", "Um segundo. Dois segundos. Três segundos...", 0.85, 1.0],
+    ["narrador", "E então a boca de pano da Emília começou a mexer.", 0.85, 1.2],
+    ["narrador", "Qual será a primeira palavra da Emília? Você vai descobrir no próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

@@ -1,16 +1,24 @@
-"""Gera notebooks/audiolivro/Audiolivro_Piloto_Colab.ipynb a partir do roteiro JSON.
+"""Gera notebooks/audiolivro/Audiolivro_Piloto_Colab.ipynb a partir dos roteiros JSON.
 
-Uso: python -I notebooks/audiolivro/make_audiolivro.py \
-        notebooks/audiolivro/narizinho_cap01.json notebooks/audiolivro/Audiolivro_Piloto_Colab.ipynb
+Uso: python -I notebooks/audiolivro/make_audiolivro.py notebooks/audiolivro/Audiolivro_Piloto_Colab.ipynb \
+        notebooks/audiolivro/narizinho_cap01.json notebooks/audiolivro/narizinho_cap02.json ...
 """
 import json
 import pprint
 import sys
 
-ROTEIRO, OUT = sys.argv[1], sys.argv[2]
-rot = json.load(open(ROTEIRO, encoding="utf-8"))
-VOZES = pprint.pformat(rot["vozes"], width=100, sort_dicts=False)
-TRECHOS = "[\n" + "".join(f"    {json.dumps(t, ensure_ascii=False)},\n" for t in rot["trechos"]) + "]"
+OUT = sys.argv[1]
+caps = sorted((json.load(open(p, encoding="utf-8")) for p in sys.argv[2:]), key=lambda c: c["capitulo"])
+rot = caps[0]
+vozes = {}
+for c in caps:
+    vozes.update(c["vozes"])
+VOZES = pprint.pformat(vozes, width=100, sort_dicts=False)
+CAPITULOS = "{\n" + "".join(
+    f"    {c['capitulo']}: {{\"titulo\": {json.dumps(c['titulo'], ensure_ascii=False)}, \"trechos\": [\n"
+    + "".join(f"        {json.dumps(t, ensure_ascii=False)},\n" for t in c["trechos"]) + "    ]},\n"
+    for c in caps) + "}"
+ULTIMO = caps[-1]["capitulo"]
 cells = []
 
 
@@ -24,15 +32,17 @@ def code(s):
 
 
 md(f'''
-# Piloto de audiolivro adaptado: {rot["livro"]}, capítulo {rot["capitulo"]}
+# Piloto de audiolivro adaptado: {rot["livro"]}
 
-Narra, numa GPU grátis do Google Colab, o capítulo **"{rot["titulo"]}"**, uma adaptação para crianças e adolescentes com deficiência visual, síndrome de Down, autismo e TDAH. O guia de adaptação e de narração está em `notebooks/audiolivro/GUIA.md`.
+Narra, numa GPU grátis do Google Colab, os capítulos 1 a {ULTIMO} de *{rot["livro"]}*, numa adaptação para crianças e adolescentes com deficiência visual, síndrome de Down, autismo e TDAH. O guia de adaptação e de narração está em `notebooks/audiolivro/GUIA.md`.
 
 **Antes de começar:** menu `Ambiente de execução → Alterar o tipo de ambiente de execução → GPU T4`. Depois rode as células de cima para baixo. Rodar de novo qualquer célula é seguro.
 
-**Saída** (no seu Google Drive, em `MyDrive/Audiolivros/narizinho/cap01/`):
-- `cap01_A_so_voz.mp3`: só a narração, para quem é sensível a sons;
-- `cap01_B_com_ambiente.mp3`: narração com vinheta suave e som de riacho bem baixinho.
+**Saída** (no seu Google Drive, em `MyDrive/Audiolivros/narizinho/capNN/`), para cada capítulo:
+- `capNN_A_so_voz.mp3`: só a narração, para quem é sensível a sons;
+- `capNN_B_com_ambiente.mp3`: narração com vinheta suave e som de riacho bem baixinho.
+
+Escolha os capítulos na célula 2 (`CAPITULOS_PARA_GERAR`). As vozes ficam em `narizinho/vozes/` e são as mesmas em todos os capítulos.
 
 **Licença:** a voz padrão (OmniVoice) é de uso **não comercial** (CC-BY-NC). Serve para um piloto gratuito. As vozes são sintéticas e originais, sem clonar ninguém.
 
@@ -55,12 +65,12 @@ import os
 from google.colab import drive
 drive.mount("/content/drive")
 
-SAIDA = "/content/drive/MyDrive/Audiolivros/narizinho/cap01"
-PASTA_VOZES = os.path.join(SAIDA, "vozes")       # uma fala de referência por personagem
-PASTA_TRECHOS = os.path.join(SAIDA, "trechos")   # um .wav por trecho do roteiro
-for p in (PASTA_VOZES, PASTA_TRECHOS):
-    os.makedirs(p, exist_ok=True)
-print("Os arquivos vão para:", SAIDA)
+CAPITULOS_PARA_GERAR = @@CAPS@@   # quais capítulos narrar (ex.: [2, 3])
+
+LIVRO = "/content/drive/MyDrive/Audiolivros/narizinho"
+PASTA_VOZES = os.path.join(LIVRO, "vozes")   # uma fala de referência por personagem
+os.makedirs(PASTA_VOZES, exist_ok=True)
+print("Os arquivos vão para:", LIVRO)
 ''')
 
 code(r'''
@@ -169,6 +179,7 @@ Cada trecho é `[personagem, texto, velocidade, pausa depois em segundos]`.
 - **velocidade:** 1.0 é normal; até 1.1 na ação; 0.85 a 0.9 no suspense e no sono.
 - **pausa:** o silêncio depois do trecho. Pausas maiores antes das revelações prendem a atenção.
 - **voz** aceita só estes termos: `male`/`female`; `child`, `teenager`, `young adult`, `middle-aged`, `elderly`; `very low pitch` … `very high pitch`; `whisper`.
+- A voz de cada personagem nasce da fala mais longa dele no **primeiro** capítulo em que aparece, e é a mesma em todos os outros.
 
 Edite à vontade. Os trechos que você mudar são gerados de novo na célula 7.
 ''')
@@ -179,16 +190,17 @@ code(f'''
 # AUTORIZOU por escrito o uso da voz. Nunca use a voz de um dublador ou artista.
 VOZES = {VOZES}
 
-TRECHOS = {TRECHOS}
+CAPITULOS = {CAPITULOS}
 
-palavras = sum(len(t[1].split()) for t in TRECHOS)
-print(f"{{len(TRECHOS)}} trechos, {{palavras}} palavras, cerca de "
-      f"{{palavras / 130 + sum(t[3] for t in TRECHOS) / 60:.1f}} min de áudio.")
+for n, c in CAPITULOS.items():
+    palavras = sum(len(t[1].split()) for t in c["trechos"])
+    print(f"Capítulo {{n}}, {{c['titulo']}}: {{len(c['trechos'])}} trechos, cerca de "
+          f"{{palavras / 130 + sum(t[3] for t in c['trechos']) / 60:.1f}} min.")
 ''')
 
 code(r'''
 # ── 6. Criar as vozes e ouvir (troque a semente de quem não ficou bom) ──────
-import hashlib, os, subprocess, requests
+import hashlib, os, shutil, requests
 from IPython.display import Audio, display
 
 def gerar(texto, destino, **campos):
@@ -205,9 +217,14 @@ def chave(*partes):
 
 REF = {}   # personagem -> (wav de referência, texto)
 for nome, v in VOZES.items():
-    # A fala mais longa do personagem vira a referência da voz.
-    texto = max((t[1] for t in TRECHOS if t[0] == nome), key=len)
-    wav = os.path.join(PASTA_VOZES, f"{nome}_{chave(v, texto)}.wav")
+    # A fala mais longa do personagem no primeiro capítulo em que ele aparece.
+    texto = next(max(falas, key=len) for _, c in sorted(CAPITULOS.items())
+                 if (falas := [t[1] for t in c["trechos"] if t[0] == nome]))
+    arq = f"{nome}_{chave(v, texto)}.wav"
+    wav = os.path.join(PASTA_VOZES, arq)
+    antigo = os.path.join(LIVRO, "cap01", "vozes", arq)   # versão do primeiro teste
+    if not os.path.exists(wav) and os.path.exists(antigo):
+        shutil.copy(antigo, wav)
     if not os.path.exists(wav):
         if v.get("amostra"):
             with open(v["amostra"], "rb") as a:
@@ -220,84 +237,94 @@ for nome, v in VOZES.items():
 ''')
 
 code(r'''
-# ── 7. Narrar todos os trechos (~5-15 s cada) ───────────────────────────────
-import os
-
-arquivos = []
-for i, (quem, texto, vel, pausa) in enumerate(TRECHOS, 1):
-    ref_wav, ref_texto = REF[quem]
-    wav = os.path.join(PASTA_TRECHOS, f"{i:03d}_{quem}_{chave(ref_wav, texto, vel)}.wav")
-    if not os.path.exists(wav):
-        with open(ref_wav, "rb") as ref:
-            gerar(texto, wav, seed=VOZES[quem]["semente"], ref_text=ref_texto, speed=vel,
-                  files={"ref_audio": ("ref.wav", ref, "audio/wav")})
-        print(f"{i:03d} {quem}: {texto}")
-    arquivos.append((wav, pausa))
-print(f"\n{len(arquivos)} trechos prontos.")
-
-# Para ouvir um trecho específico: display(Audio(arquivos[N - 1][0]))
-# Se um trecho ficou ruim, apague o .wav dele na pasta trechos/ e rode esta célula de novo.
-''')
-
-code(r'''
-# ── 8. Montar as duas versões (A: só voz; B: com vinheta e riacho) ──────────
-import subprocess
+# ── 7. Narrar e montar cada capítulo (A: só voz; B: com vinheta e riacho) ───
+import os, subprocess
 import numpy as np
 import soundfile as sf
 from IPython.display import Audio, display
 
-partes, SR = [], None
-for wav, pausa in arquivos:
-    a, sr = sf.read(wav, dtype="float32", always_2d=True)
-    SR = SR or sr
-    assert sr == SR, f"taxa de amostragem diferente em {wav}"
-    partes += [a.mean(axis=1), np.zeros(int(pausa * SR), dtype="float32")]
-voz = np.concatenate(partes)
+def narrar(n):
+    pasta = os.path.join(LIVRO, f"cap{n:02d}", "trechos")
+    os.makedirs(pasta, exist_ok=True)
+    arquivos = []
+    for i, (quem, texto, vel, pausa) in enumerate(CAPITULOS[n]["trechos"], 1):
+        ref_wav, ref_texto = REF[quem]
+        wav = os.path.join(pasta, f"{i:03d}_{quem}_{chave(os.path.basename(ref_wav), texto, vel)}.wav")
+        if not os.path.exists(wav):
+            with open(ref_wav, "rb") as ref:
+                gerar(texto, wav, seed=VOZES[quem]["semente"], ref_text=ref_texto, speed=vel,
+                      files={"ref_audio": ("ref.wav", ref, "audio/wav")})
+            print(f"{n}.{i:03d} {quem}: {texto}")
+        arquivos.append((wav, pausa))
+    return arquivos
 
-def tom(freq, dur, vol):
-    t = np.arange(int(dur * SR)) / SR
+def tom(freq, dur, vol, sr):
+    t = np.arange(int(dur * sr)) / sr
     return (vol * np.sin(2 * np.pi * freq * t) * np.exp(-3 * t)).astype("float32")
 
-def vinheta():
+def vinheta(sr):
     # Três notas suaves (dó, mi, sol), sem ataque forte.
-    v = np.zeros(int(2.2 * SR), dtype="float32")
+    v = np.zeros(int(2.2 * sr), dtype="float32")
     for k, f in enumerate([523.25, 659.25, 783.99]):
-        n = tom(f, 1.4, 0.12)
-        ini = int(k * 0.35 * SR)
-        v[ini:ini + len(n)] += n
+        nota = tom(f, 1.4, 0.12, sr)
+        ini = int(k * 0.35 * sr)
+        v[ini:ini + len(nota)] += nota
     return v
 
-def riacho(n):
+def riacho(n, sr):
     # Ruído suave filtrado, que lembra água correndo, bem baixo e com entrada lenta.
     rng = np.random.default_rng(7)
     r = np.convolve(rng.standard_normal(n + 400).astype("float32"),
                     np.ones(40, dtype="float32") / 40, mode="valid")[:n]
-    r *= 0.01 * (1 + 0.3 * np.sin(2 * np.pi * 0.15 * np.arange(n) / SR))
-    fade = min(n // 2, 4 * SR)
+    r *= 0.01 * (1 + 0.3 * np.sin(2 * np.pi * 0.15 * np.arange(n) / sr))
+    fade = min(n // 2, 4 * sr)
     r[:fade] *= np.linspace(0, 1, fade)
     r[-fade:] *= np.linspace(1, 0, fade)
     return r
 
-um_seg = np.zeros(SR, dtype="float32")
-versao_a = np.concatenate([um_seg, voz, um_seg])
-versao_b = np.concatenate([vinheta(), um_seg, voz + riacho(len(voz)), um_seg, vinheta()])
-
-def exportar(audio, nome):
-    tmp = os.path.join(SAIDA, nome + ".wav")
-    sf.write(tmp, audio, SR)
-    mp3 = os.path.join(SAIDA, nome + ".mp3")
+def exportar(audio, sr, pasta, nome):
+    tmp = os.path.join(pasta, nome + ".wav")
+    sf.write(tmp, audio, sr)
+    mp3 = os.path.join(pasta, nome + ".mp3")
     # Volume normalizado para fone e caixinha: -16 LUFS, pico máximo -1.5 dBTP.
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp,
                     "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100",
                     "-codec:a", "libmp3lame", "-q:a", "2", mp3], check=True)
-    print(f"{nome}.mp3: {len(audio) / SR / 60:.1f} min")
+    print(f"{nome}.mp3: {len(audio) / sr / 60:.1f} min")
     display(Audio(mp3))
 
-exportar(versao_a, "cap01_A_so_voz")
-exportar(versao_b, "cap01_B_com_ambiente")
-print("\nPronto! Os arquivos estão no Drive, em", SAIDA)
+def montar(n, arquivos):
+    partes, sr = [], None
+    for wav, pausa in arquivos:
+        a, s = sf.read(wav, dtype="float32", always_2d=True)
+        sr = sr or s
+        assert s == sr, f"taxa de amostragem diferente em {wav}"
+        partes += [a.mean(axis=1), np.zeros(int(pausa * sr), dtype="float32")]
+    voz = np.concatenate(partes)
+    um_seg = np.zeros(sr, dtype="float32")
+    pasta = os.path.join(LIVRO, f"cap{n:02d}")
+    exportar(np.concatenate([um_seg, voz, um_seg]), sr, pasta, f"cap{n:02d}_A_so_voz")
+    exportar(np.concatenate([vinheta(sr), um_seg, voz + riacho(len(voz), sr), um_seg, vinheta(sr)]),
+             sr, pasta, f"cap{n:02d}_B_com_ambiente")
+
+REFAZER = False   # True: narra de novo capítulos que já têm os dois MP3 prontos
+
+for n in CAPITULOS_PARA_GERAR:
+    print(f"\n=== Capítulo {n}: {CAPITULOS[n]['titulo']} ===")
+    prontos = [os.path.join(LIVRO, f"cap{n:02d}", f"cap{n:02d}_{v}.mp3")
+               for v in ("A_so_voz", "B_com_ambiente")]
+    if not REFAZER and all(map(os.path.exists, prontos)):
+        print("Já estava pronto (para refazer, use REFAZER = True).")
+        continue
+    montar(n, narrar(n))
+print("\nPronto! Os arquivos estão no Drive, em", LIVRO)
+
+# Se um trecho ficou ruim, apague o .wav dele na pasta capNN/trechos/ e rode esta célula de novo.
 ''')
 
+for c in cells:
+    c["source"] = [l.replace("@@CAPS@@", "[" + ", ".join(str(c2["capitulo"]) for c2 in caps) + "]")
+                   for l in c["source"]]
 nb = {"cells": cells, "metadata": {"accelerator": "GPU", "colab": {"gpuType": "T4", "provenance": []},
       "kernelspec": {"display_name": "Python 3", "name": "python3"}, "language_info": {"name": "python"}},
       "nbformat": 4, "nbformat_minor": 0}
