@@ -19,6 +19,10 @@ CAPITULOS = "{\n" + "".join(
     + "".join(f"        {json.dumps(t, ensure_ascii=False)},\n" for t in c["trechos"]) + "    ]},\n"
     for c in caps) + "}"
 ULTIMO = caps[-1]["capitulo"]
+# Pasta do livro no Drive: campo "pasta" do JSON ou o título sem acentos.
+import re, unicodedata
+PASTA = rot.get("pasta") or re.sub(r"[^a-z0-9]+", "_", unicodedata.normalize("NFKD", rot["livro"])
+                                   .encode("ascii", "ignore").decode().lower()).strip("_")
 cells = []
 
 
@@ -38,11 +42,11 @@ Narra, numa GPU grátis do Google Colab, os capítulos 1 a {ULTIMO} de *{rot["li
 
 **Antes de começar:** menu `Ambiente de execução → Alterar o tipo de ambiente de execução → GPU T4`. Depois rode as células de cima para baixo. Rodar de novo qualquer célula é seguro.
 
-**Saída** (no seu Google Drive, em `MyDrive/Audiolivros/narizinho/capNN/`), para cada capítulo:
+**Saída** (no seu Google Drive, em `MyDrive/Audiolivros/{PASTA}/capNN/`), para cada capítulo:
 - `capNN_A_so_voz.mp3`: só a narração, para quem é sensível a sons;
 - `capNN_B_com_ambiente.mp3`: narração com vinheta suave e som de riacho bem baixinho.
 
-Escolha os capítulos na célula 2 (`CAPITULOS_PARA_GERAR`). As vozes ficam em `narizinho/vozes/` e são as mesmas em todos os capítulos.
+Escolha os capítulos na célula 2 (`CAPITULOS_PARA_GERAR`). As vozes ficam em `{PASTA}/vozes/` e são as mesmas em todos os capítulos.
 
 **Licença:** a voz padrão (OmniVoice) é de uso **não comercial** (CC-BY-NC). Serve para um piloto gratuito. As vozes são sintéticas e originais, sem clonar ninguém.
 
@@ -67,7 +71,7 @@ drive.mount("/content/drive")
 
 CAPITULOS_PARA_GERAR = @@CAPS@@   # quais capítulos narrar (ex.: [2, 3])
 
-LIVRO = "/content/drive/MyDrive/Audiolivros/narizinho"
+LIVRO = "/content/drive/MyDrive/Audiolivros/@@PASTA@@"
 PASTA_VOZES = os.path.join(LIVRO, "vozes")   # uma fala de referência por personagem
 os.makedirs(PASTA_VOZES, exist_ok=True)
 print("Os arquivos vão para:", LIVRO)
@@ -323,7 +327,7 @@ print("\nPronto! Os arquivos estão no Drive, em", LIVRO)
 ''')
 
 for c in cells:
-    c["source"] = [l.replace("@@CAPS@@", "[" + ", ".join(str(c2["capitulo"]) for c2 in caps) + "]")
+    c["source"] = [l.replace("@@PASTA@@", PASTA).replace("@@CAPS@@", "[" + ", ".join(str(c2["capitulo"]) for c2 in caps) + "]")
                    for l in c["source"]]
 nb = {"cells": cells, "metadata": {"accelerator": "GPU", "colab": {"gpuType": "T4", "provenance": []},
       "kernelspec": {"display_name": "Python 3", "name": "python3"}, "language_info": {"name": "python"}},
