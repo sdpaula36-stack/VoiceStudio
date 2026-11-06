@@ -33,7 +33,7 @@ import urllib.request
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 CATALOGO = os.path.join(AQUI, "livros.json")
-BRANCH_DO_ESTUDIO = "claude/project-thread-ty74lo"   # onde este arquivo mora no fork
+BRANCH_DO_ESTUDIO = "main"   # onde este arquivo mora no fork
 
 LICENCAS = ("k2-fsa/OmniVoice", "eustlb/higgs-audio-v2-tokenizer")
 TERMOS_DE_VOZ = {"male", "female", "child", "teenager", "young adult", "middle-aged", "elderly",

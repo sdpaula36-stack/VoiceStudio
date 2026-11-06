@@ -12,7 +12,7 @@ Um notebook e um script para todos os livros, PCD e pessoais. A parte criativa (
 ## Narrar
 
 Abra no Colab:
-https://colab.research.google.com/github/sdpaula36-stack/VoiceStudio/blob/claude/project-thread-ty74lo/notebooks/estudio-audiolivros/Estudio_Audiolivros_Colab.ipynb
+https://colab.research.google.com/github/sdpaula36-stack/VoiceStudio/blob/main/notebooks/estudio-audiolivros/Estudio_Audiolivros_Colab.ipynb
 
 1. `Ambiente de execução → Alterar o tipo → GPU T4`.
 2. Na célula 0, escolha o livro. Deixe `CAPITULOS` vazio para narrar só o que falta.
