@@ -1,0 +1,225 @@
+{
+ "livro": "Sherlock Holmes: O Carbúnculo Azul",
+ "pasta": "sherlock",
+ "autor": "Arthur Conan Doyle (domínio público; adaptado do original em inglês, The Adventure of the Blue Carbuncle, 1892)",
+ "capitulo": 6,
+ "titulo": "O segredo do ganso",
+ "ambiente": "nenhum",
+ "nota": "Adaptação de The Blue Carbuncle, final: a confissão de James Ryder e o perdão de Natal.",
+ "vozes": {
+  "ryder": {
+   "voz": "male, young adult, very high pitch",
+   "semente": 401
+  },
+  "maggie": {
+   "voz": "female, middle-aged, moderate pitch",
+   "semente": 411
+  }
+ },
+ "trechos": [
+  [
+   "narrador",
+   "Sherlock Holmes: O Carbúnculo Azul. Parte três: O segredo do ganso.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "Na parte passada, Holmes descobriu que o ganso com a pedra veio da senhora Oakshott.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "E, no mercado, um homem nervoso perguntava pelos gansos dela.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Holmes chega perto do homem. Ele é baixinho, magro e está tremendo.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Desculpe. Eu ouvi a sua pergunta. Acho que posso ajudar o senhor a achar esse ganso.",
+   1.0,
+   0.5
+  ],
+  [
+   "ryder",
+   "O senhor sabe onde ele está? Por favor, me diga!",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes leva o homem até a casa dele, na Rua Baker. Lá, na sala quentinha, pergunta o nome dele.",
+   1.0,
+   0.5
+  ],
+  [
+   "ryder",
+   "Meu nome é... James Ryder. Eu trabalho no hotel.",
+   0.95,
+   0.6
+  ],
+  [
+   "narrador",
+   "No hotel! O mesmo hotel de onde a pedra foi roubada.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Holmes abre a mão devagar. Ali está a pedra azul, brilhando.",
+   0.9,
+   0.6
+  ],
+  [
+   "holmes",
+   "É isto que o senhor procura, Ryder?",
+   0.9,
+   0.8
+  ],
+  [
+   "narrador",
+   "O Ryder fica branco de susto. Quase cai no chão.",
+   0.95,
+   0.6
+  ],
+  [
+   "holmes",
+   "Eu já sei de tudo, Ryder. Foi o senhor que roubou a pedra da condessa. E deixou a culpa cair no encanador, o Horner.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "O Ryder começa a chorar. Ele está com medo e com vergonha. E conta a história toda.",
+   0.95,
+   0.6
+  ],
+  [
+   "ryder",
+   "Depois do roubo, eu fiquei com medo de a polícia me revistar. Então fui para a casa da minha irmã, a senhora Oakshott. Ela cria gansos.",
+   1.0,
+   0.5
+  ],
+  [
+   "ryder",
+   "Tive uma ideia: esconder a pedra dentro de um ganso. Peguei um ganso branco, de rabo listrado, e fiz ele engolir a pedra.",
+   1.0,
+   0.5
+  ],
+  [
+   "ryder",
+   "Mas o ganso se soltou e correu para o meio dos outros. Aí a minha irmã apareceu.",
+   1.0,
+   0.4
+  ],
+  [
+   "maggie",
+   "Jem, o que você está fazendo com esse ganso?",
+   1.0,
+   0.5
+  ],
+  [
+   "ryder",
+   "Eu disse que queria aquele ganso de presente de Natal. O branco, de rabo listrado.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Ele levou o ganso para casa. Mas, quando abriu o papo, não tinha pedra nenhuma!",
+   1.05,
+   0.6
+  ],
+  [
+   "ryder",
+   "Voltei correndo. A minha irmã disse que tinha dois gansos brancos de rabo listrado, iguaizinhos. E o outro já tinha ido para o mercado.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Até agora: o Ryder escondeu a pedra num ganso, mas levou o ganso errado. O ganso certo foi para o mercado, depois para o senhor Baker, e depois para o Peterson.",
+   0.95,
+   1.2
+  ],
+  [
+   "ryder",
+   "Por favor, senhor Holmes, me perdoe. Eu nunca fiz nada errado antes. Nunca mais vou fazer.",
+   0.95,
+   1.0
+  ],
+  [
+   "narrador",
+   "Se você fosse o Holmes, o que você faria com o Ryder?",
+   0.95,
+   2.5
+  ],
+  [
+   "narrador",
+   "Holmes fica quieto, pensando. Depois levanta e abre a porta.",
+   0.9,
+   0.6
+  ],
+  [
+   "holmes",
+   "Vá embora, Ryder.",
+   0.9,
+   0.6
+  ],
+  [
+   "narrador",
+   "O Ryder sai correndo escada abaixo. Tum, tum, tum, e a porta da rua bate.",
+   1.05,
+   0.8
+  ],
+  [
+   "watson",
+   "Holmes, você deixou o ladrão ir embora?",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Deixei, Watson. Sem o Ryder para acusar, o encanador Horner vai ser solto, porque ele não fez nada.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "E o Ryder levou um susto tão grande que não vai mais roubar. Além disso, é Natal. Natal é tempo de perdoar.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "E a pedra azul? Holmes guarda a pedra para devolver à condessa.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Para lembrar: a pedra foi roubada pelo Ryder, escondida num ganso, e encontrada por Holmes seguindo o caminho do ganso para trás.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "O encanador Horner vai para casa, livre. E Holmes fica feliz, porque resolveu mais um mistério.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Mas Sherlock Holmes ainda tem muitas aventuras pela frente. Até lá!",
+   1.0,
+   0.8
+  ]
+ ]
+}

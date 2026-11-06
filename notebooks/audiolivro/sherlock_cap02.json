@@ -1,0 +1,216 @@
+{
+ "livro": "Sherlock Holmes: A Liga dos Cabeças Vermelhas",
+ "pasta": "sherlock",
+ "autor": "Arthur Conan Doyle (domínio público; adaptado do original em inglês, The Red-Headed League, 1891)",
+ "capitulo": 2,
+ "titulo": "As pistas na praça",
+ "ambiente": "nenhum",
+ "nota": "Adaptação de The Red-Headed League, segunda parte: a Liga desaparece e Holmes investiga a praça Saxe-Coburg.",
+ "vozes": {},
+ "trechos": [
+  [
+   "narrador",
+   "Sherlock Holmes: A Liga dos Cabeças Vermelhas. Capítulo dois: As pistas na praça.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "No capítulo passado, o senhor Wilson, de cabelo bem vermelho, ganhou um emprego estranho: copiar uma enciclopédia, longe da loja dele.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Depois de oito semanas, a porta do escritório amanheceu trancada. A Liga dos Cabeças Vermelhas tinha acabado.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Agora, o senhor Wilson está na sala de Sherlock Holmes. Ele está bravo e triste.",
+   1.0,
+   0.5
+  ],
+  [
+   "wilson",
+   "Eu perguntei ao dono do prédio. Ele disse que nunca ouviu falar de Duncan Ross nem de Liga nenhuma!",
+   1.05,
+   0.5
+  ],
+  [
+   "wilson",
+   "Eu perdi o meu emprego, senhor Holmes. Quero saber quem fez essa brincadeira comigo, e por quê.",
+   1.0,
+   0.7
+  ],
+  [
+   "holmes",
+   "Vou descobrir, senhor Wilson. Primeiro, me fale mais do seu ajudante, o Spaulding.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Watson estranha. Por que Holmes quer saber do ajudante, e não da Liga?",
+   0.95,
+   0.8
+  ],
+  [
+   "wilson",
+   "O Spaulding tem uns trinta anos. É baixo, rápido, e tem uma mancha branca na testa.",
+   1.0,
+   0.5
+  ],
+  [
+   "wilson",
+   "Ele gosta muito de tirar fotografias. Passa horas lá embaixo, no porão da loja. Porão é um quarto debaixo da casa.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes fica animado. Os olhos dele brilham.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Obrigado, senhor Wilson. Até segunda-feira, eu terei uma resposta.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "O senhor Wilson vai embora. Holmes senta na poltrona, fecha os olhos e fica pensando, quietinho, por muito tempo.",
+   0.9,
+   0.6
+  ],
+  [
+   "narrador",
+   "Watson até acha que o amigo dormiu. Mas não! Holmes pula da poltrona.",
+   1.05,
+   0.4
+  ],
+  [
+   "holmes",
+   "Watson, vamos até a praça do senhor Wilson. Quero ver as coisas com os meus próprios olhos.",
+   1.05,
+   0.8
+  ],
+  [
+   "narrador",
+   "Até agora: a Liga sumiu, o senhor Wilson perdeu o emprego, e Holmes ficou muito interessado no ajudante que passa horas no porão.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "A praça Saxe-Coburg é pequena e cinzenta. As casas são velhas, e a loja do senhor Wilson tem uma placa na porta.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes faz uma coisa esquisita. Ele bate com a bengala no chão da calçada, na frente da loja. Toc, toc, toc.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Ele está escutando o som do chão. Sabe por quê? Porque um chão oco, com um buraco embaixo, faz um som diferente.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Depois, Holmes bate na porta da loja. Quem abre é o ajudante, o Spaulding.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Bom dia. O senhor pode me ensinar o caminho para uma rua chamada Strand?",
+   1.0,
+   0.5
+  ],
+  [
+   "spaulding",
+   "Terceira rua à direita, quarta à esquerda.",
+   1.05,
+   0.5
+  ],
+  [
+   "narrador",
+   "O ajudante fecha a porta bem rápido. Holmes não queria saber o caminho de verdade. Ele queria olhar para o Spaulding.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Você viu os joelhos da calça dele, Watson? Estão gastos e sujos de terra.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Por que alguém teria terra nos joelhos da calça? Pense um pouquinho.",
+   0.95,
+   2.5
+  ],
+  [
+   "narrador",
+   "Depois, os dois amigos viram a esquina e olham a rua de trás da praça.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Essa rua é bem diferente: cheia de gente, de carruagens e de lojas bonitas. E bem atrás da loja do senhor Wilson, tem um banco.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Banco é o lugar onde as pessoas guardam dinheiro. E esse banco guarda muito dinheiro.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Holmes fica sério de repente.",
+   0.9,
+   0.5
+  ],
+  [
+   "holmes",
+   "Watson, um crime vai acontecer hoje à noite. Preciso da sua ajuda. Venha à minha casa às dez horas.",
+   0.95,
+   0.8
+  ],
+  [
+   "watson",
+   "Que crime, Holmes? Eu não entendi nada!",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Hoje à noite, você vai entender. Hoje é sábado, e isso deixa tudo mais urgente.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Para lembrar: Holmes bateu no chão da calçada, viu terra nos joelhos do ajudante e descobriu um banco atrás da loja.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Que crime será esse? Isso fica para o próximo capítulo. Até lá!",
+   1.0,
+   0.8
+  ]
+ ]
+}

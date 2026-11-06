@@ -1,0 +1,53 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 13,
+  "titulo": "Uma carta dentro da concha",
+  "ambiente": "riacho",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Casamento de Narizinho, partes I e II. Texto conferido com a 1ª edição no Wikisource.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo treze: Uma carta dentro da concha.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a Emília casou com o Rabicó, mas o casamento deu errado. E o Rabicó escapou de novo do forno.", 1.0, 0.4],
+    ["narrador", "Enquanto isso, no fundo do riacho, o Príncipe Escamado estava doente de tristeza.", 1.0, 1.0, "agua"],
+
+    ["narrador", "Desde que Narizinho foi embora, o príncipe não comia, não dormia e só suspirava. Ficou tão magro que as escamas pareciam papel.", 0.95, 0.5],
+    ["narrador", "Ele passava horas olhando para o trono onde Narizinho tinha sentado no dia do baile.", 0.95, 0.6],
+    ["narrador", "Então chamaram o Doutor Caramujo. O doutor olhou a língua do príncipe e mediu o pulso.", 1.0, 0.5],
+    ["caramujo", "Vossa Majestade está com narizinho-arrebitadite. É uma doença muito séria. O único remédio é casar com uma certa menina.", 0.95, 0.6],
+    ["principe", "Você tem razão, doutor. Minha doença não é do corpo. É saudade da Narizinho!", 0.95, 0.6],
+    ["caramujo", "Então deixe comigo, Majestade. Vou pedir a mão dela em casamento.", 1.0, 0.6],
+    ["narrador", "O príncipe prometeu: se desse certo, o doutor ia virar duque, o Duque da Pílula! O Doutor Caramujo saiu todo contente.", 1.0, 0.8],
+    ["narrador", "Quem escreveu a carta foi a Dona Lula. A lula é um bicho do mar que tem tinta dentro do corpo. Por isso era a escrevente do reino.", 1.0, 0.5],
+    ["narrador", "A carta foi fechada dentro de uma concha, para não molhar. E uns peixinhos escoteiros levaram a concha, rolando pelo fundo do riacho.", 1.0, 0.6],
+    ["narrador", "Por que será que a carta foi dentro de uma concha?", 0.95, 2.5],
+    ["narrador", "Porque, embaixo da água, o papel ia molhar e a tinta ia apagar!", 1.0, 1.0, "transicao"],
+
+    ["narrador", "Até agora: o príncipe está doente de saudade, e uma carta dentro de uma concha está viajando até o sítio.", 0.95, 0.8],
+    ["narrador", "Os peixinhos deixaram a concha entre duas pedras, na beira do riacho, perto do pé de ingá.", 1.0, 0.5],
+    ["narrador", "Logo apareceu Pedrinho, com a vara de pescar. Ele viu a concha, sacudiu perto do ouvido e escutou um barulhinho de papel lá dentro.", 1.0, 0.5],
+    ["pedrinho", "Uma carta! Narizinho! Tem uma carta para você!", 1.1, 0.5],
+    ["narrador", "Narizinho estava na cozinha, ajudando Tia Nastácia a enrolar rosquinhas de polvilho. Ela limpou as mãos e leu a carta.", 1.0, 0.5],
+    ["narrador", "A carta dizia: Nosso príncipe está doente de saudade. A menina aceita casar com ele e salvar o Reino das Águas Claras?", 0.95, 0.8],
+    ["narizinho", "Pedrinho, responde que sim! Assim que acabar estas rosquinhas, eu vou casar com ele.", 1.05, 0.6],
+    ["dona_benta", "Casar com quem, menina? Que história é essa?", 1.0, 0.5],
+    ["narizinho", "Com o Príncipe Escamado, vovó! Ele me pediu em casamento e eu aceitei.", 1.0, 0.5],
+    ["dona_benta", "Mas, minha filha, ele é um peixe!", 1.0, 0.5],
+    ["narizinho", "Ele é um príncipe, vovó! E a Emília, que é boneca, não casou com o Rabicó, que é leitão?", 1.05, 0.6],
+    ["narrador", "Dona Benta olhou para Tia Nastácia, sem saber se a neta falava de verdade ou de brincadeira.", 1.0, 0.5],
+    ["dona_benta", "Este sítio está virando um livro de histórias. Daqui a pouco aparece aqui um neto-peixe!", 1.0, 0.6],
+    ["nastacia", "Credo, Dona Benta! Se isso acontecer, eu preciso de óculos novos, para não fritar o bisneto da senhora pensando que é traíra!", 1.0, 0.8],
+    ["narrador", "Pedrinho escreveu a resposta, guardou na concha e deixou a concha no mesmo lugar. Os peixinhos levaram de volta, rolando pelo fundo do rio.", 1.0, 0.8],
+
+    ["narrador", "No palácio, o príncipe abriu a concha. A resposta tinha uma palavra só: Sim! Com ponto de exclamação!", 1.05, 0.5],
+    ["narrador", "O príncipe ficou tão feliz que pulou no trono, igual a um peixe fora da água.", 1.05, 0.5],
+    ["principe", "Não é um sim qualquer! Tem ponto de exclamação! Quer dizer que ela aceitou com alegria!", 1.1, 0.8, "festa"],
+    ["narrador", "Daí em diante, o príncipe escreveu cartas de amor sem parar. As sardinhas fizeram uma fila no fundo do rio e passavam as cartas de uma para outra, como tijolos.", 1.0, 0.5],
+    ["narrador", "Narizinho respondia com presentes: uma flor, um grilinho verde. E mandou também uma rosquinha de polvilho, enrolada por ela mesma.", 1.0, 0.5],
+    ["narrador", "O príncipe não comeu a rosquinha. Mandou enfeitar com diamantes, e a rosquinha virou a coroa dele!", 1.0, 1.0],
+
+    ["narrador", "Resumindo: o príncipe pediu Narizinho em casamento numa carta dentro de uma concha, e ela disse sim.", 0.95, 0.8],
+    ["narrador", "Agora todos vão viajar para o fundo do mar: Narizinho, Pedrinho, a Emília, o Rabicó e um visconde que ficou muito sabido.", 1.0, 0.6],
+    ["narrador", "Como será essa viagem? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

@@ -1,0 +1,295 @@
+{
+ "livro": "Sherlock Holmes: A Liga dos Cabeças Vermelhas",
+ "pasta": "sherlock",
+ "autor": "Arthur Conan Doyle (domínio público; adaptado do original em inglês, The Red-Headed League, 1891)",
+ "capitulo": 1,
+ "titulo": "Um anúncio muito estranho",
+ "ambiente": "nenhum",
+ "nota": "Adaptação de The Red-Headed League (Conan Doyle), primeira parte: a visita de Jabez Wilson e o emprego na Liga.",
+ "vozes": {
+  "narrador": {
+   "voz": "male, young adult, moderate pitch",
+   "semente": 201
+  },
+  "holmes": {
+   "voz": "male, young adult, low pitch",
+   "semente": 301
+  },
+  "watson": {
+   "voz": "male, middle-aged, moderate pitch",
+   "semente": 311
+  },
+  "wilson": {
+   "voz": "male, elderly, moderate pitch",
+   "semente": 321
+  },
+  "ross": {
+   "voz": "male, middle-aged, high pitch",
+   "semente": 331
+  },
+  "spaulding": {
+   "voz": "male, young adult, low pitch",
+   "semente": 341
+  }
+ },
+ "trechos": [
+  [
+   "narrador",
+   "Sherlock Holmes: A Liga dos Cabeças Vermelhas. Capítulo um: Um anúncio muito estranho.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "Esta história acontece em Londres, uma cidade da Inglaterra, há mais de cem anos.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Naquele tempo, as ruas têm carruagens puxadas por cavalos. À noite, as luzes das ruas são lampiões a gás.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Numa casa da Rua Baker mora Sherlock Holmes. Holmes é um detetive. Detetive é a pessoa que descobre segredos e resolve mistérios.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes é alto e magro. Ele presta atenção em tudo, até nas coisas bem pequenas.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "O melhor amigo de Holmes é o doutor Watson. Watson é médico e ajuda Holmes nos mistérios.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Um dia, Watson chega à casa de Holmes. Na sala, encontra um senhor gordo, de rosto vermelho.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "O cabelo desse senhor é muito, muito vermelho. Vermelho como fogo.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Watson! Você chegou na hora certa. Este é o senhor Wilson. Ele me trouxe um mistério.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes olha para o senhor Wilson de cima a baixo. Depois, sorri.",
+   0.95,
+   0.6
+  ],
+  [
+   "holmes",
+   "O senhor já trabalhou com as mãos, carregando coisas pesadas. E já esteve na China.",
+   1.0,
+   0.6
+  ],
+  [
+   "wilson",
+   "Como o senhor sabe disso? Eu não contei nada!",
+   1.05,
+   0.6
+  ],
+  [
+   "holmes",
+   "A sua mão direita é maior que a esquerda. Isso acontece com quem faz força com essa mão por muitos anos.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "E no seu pulso tem a tatuagem de um peixe cor-de-rosa. Esse tipo de tatuagem só se faz na China.",
+   1.0,
+   0.7
+  ],
+  [
+   "narrador",
+   "Viu só? Holmes não adivinha. Ele olha as pistas e pensa no porquê de cada uma.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "O senhor Wilson fica mais calmo e começa a contar a história dele.",
+   1.0,
+   0.5
+  ],
+  [
+   "wilson",
+   "Eu tenho uma lojinha pequena. Ela fica numa praça chamada Saxe-Coburg.",
+   1.0,
+   0.5
+  ],
+  [
+   "wilson",
+   "Tenho um ajudante, o Vicente Spaulding. Ele trabalha muito bem e quer ganhar só metade do salário.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Lembre desse detalhe, porque ele é importante: o ajudante quer ganhar só a metade. Um pouco estranho, não é?",
+   0.95,
+   0.9
+  ],
+  [
+   "wilson",
+   "Um dia, o Spaulding chegou correndo com um jornal na mão.",
+   1.05,
+   0.4
+  ],
+  [
+   "spaulding",
+   "Senhor Wilson! Olhe este anúncio! A Liga dos Cabeças Vermelhas está procurando um homem de cabelo vermelho!",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "Liga quer dizer um grupo de pessoas. E esse grupo só aceita gente de cabelo vermelho.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "O anúncio diz assim: a Liga paga quatro libras por semana para um trabalho bem fácil. Naquele tempo, era muito dinheiro.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "O senhor Wilson precisa de dinheiro, porque a loja vende pouco. Por isso, ele vai até o endereço do anúncio.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Lá, a rua está cheia de homens de cabelo vermelho. Tem cabelo cor de laranja, cor de tijolo, cor de cenoura.",
+   1.05,
+   0.5
+  ],
+  [
+   "narrador",
+   "Mas nenhum cabelo é tão vermelho quanto o do senhor Wilson.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Num escritório pequeno, espera um homem também de cabelo vermelho. O nome dele é Duncan Ross.",
+   1.0,
+   0.5
+  ],
+  [
+   "ross",
+   "Que cabelo maravilhoso! O emprego é seu.",
+   1.05,
+   0.5
+  ],
+  [
+   "narrador",
+   "Para ter certeza, o senhor Ross puxa o cabelo do senhor Wilson com as duas mãos. Com força!",
+   1.05,
+   0.4
+  ],
+  [
+   "wilson",
+   "Ai!",
+   1.1,
+   0.4
+  ],
+  [
+   "ross",
+   "Desculpe. Eu precisava ver se o cabelo era de verdade, e não uma peruca.",
+   1.0,
+   0.7
+  ],
+  [
+   "narrador",
+   "Até agora: o senhor Wilson tem cabelo vermelho e ganhou um emprego fácil e bem pago. Mas por que alguém pagaria tanto por um trabalho tão fácil?",
+   0.95,
+   1.2
+  ],
+  [
+   "ross",
+   "O trabalho é copiar uma enciclopédia. Enciclopédia é um livro enorme, que explica as coisas do mundo, de A a Z.",
+   1.0,
+   0.5
+  ],
+  [
+   "ross",
+   "O senhor vem todo dia, das dez da manhã às duas da tarde. E não pode sair da sala de jeito nenhum. Se sair, perde o emprego.",
+   1.0,
+   0.7
+  ],
+  [
+   "narrador",
+   "O senhor Wilson aceita. Ele sabe que o ajudante Spaulding pode cuidar da loja enquanto ele está fora.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "E assim, todo dia, ele escreve, escreve e escreve. Copia palavras com a letra A: abelha, arco, armadura.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Todo sábado, ele recebe as quatro libras. O senhor Wilson está muito feliz.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Passam oito semanas. Ele já encheu muitas folhas de papel.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "O que você acha que vai acontecer com esse emprego tão bom?",
+   0.95,
+   2.5
+  ],
+  [
+   "narrador",
+   "Para lembrar: o senhor Wilson copia uma enciclopédia todos os dias, longe da loja, e ganha bem por isso.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Até que, numa manhã, ele chega ao escritório e a porta está trancada. Na porta, tem um pequeno cartão pregado.",
+   0.9,
+   0.6
+  ],
+  [
+   "narrador",
+   "No cartão está escrito: a Liga dos Cabeças Vermelhas acabou.",
+   0.85,
+   1.6
+  ],
+  [
+   "narrador",
+   "Para onde foi a Liga? E por que ela sumiu? Isso fica para o próximo capítulo. Até lá!",
+   1.0,
+   0.8
+  ]
+ ]
+}

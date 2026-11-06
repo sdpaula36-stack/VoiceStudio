@@ -1,0 +1,221 @@
+{
+ "livro": "Sherlock Holmes: O Carbúnculo Azul",
+ "pasta": "sherlock",
+ "autor": "Arthur Conan Doyle (domínio público; adaptado do original em inglês, The Adventure of the Blue Carbuncle, 1892)",
+ "capitulo": 4,
+ "titulo": "O chapéu e o ganso",
+ "ambiente": "nenhum",
+ "nota": "Adaptação de The Blue Carbuncle (Conan Doyle), primeira parte: o chapéu, o ganso e a pedra roubada.",
+ "vozes": {
+  "peterson": {
+   "voz": "male, middle-aged, high pitch",
+   "semente": 371
+  }
+ },
+ "trechos": [
+  [
+   "narrador",
+   "Sherlock Holmes: O Carbúnculo Azul. Parte um: O chapéu e o ganso.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "É Natal em Londres, há mais de cem anos. Faz muito frio, e as janelas estão cobertas de gelo.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "O doutor Watson vai visitar o amigo, o detetive Sherlock Holmes, para desejar feliz Natal.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Holmes está sentado na poltrona. Na frente dele, numa cadeira, tem um chapéu preto, velho e todo amassado.",
+   1.0,
+   0.6
+  ],
+  [
+   "watson",
+   "Holmes, por que você está olhando para esse chapéu velho?",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Porque este chapéu é uma pista, Watson. Ele chegou aqui junto com um ganso.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Ganso é uma ave grande e branca, parecida com um pato. Naquele tempo, muita gente comia ganso no Natal.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Holmes conta o que aconteceu. Ontem, de madrugada, um homem chamado Peterson voltava para casa.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "O Peterson é o porteiro de um prédio, e é muito honesto. Na rua, ele viu um senhor alto carregando um ganso nas costas.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Uns rapazes começaram a brigar com esse senhor. O Peterson correu para ajudar.",
+   1.05,
+   0.5
+  ],
+  [
+   "narrador",
+   "Mas o senhor levou um susto e fugiu correndo. E deixou para trás o chapéu e o ganso!",
+   1.05,
+   0.7
+  ],
+  [
+   "narrador",
+   "No pé do ganso tinha um cartãozinho escrito: para a senhora de Henry Baker.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Mas em Londres tem centenas de homens chamados Henry Baker. Por isso, o chapéu vai me ajudar a descobrir qual deles é o dono.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Holmes pega uma lupa. Lupa é uma lente que deixa as coisas pequenas bem grandes.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Veja, Watson. O chapéu é enorme. Quando eu ponho na cabeça, ele cai até o meu nariz. Então o dono tem uma cabeça muito grande.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Dentro do chapéu tem pedacinhos de cabelo cinza, bem curtinhos. Então o dono é um senhor de cabelo grisalho, que cortou o cabelo há poucos dias.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "E tem cinco manchas de vela, de cera derretida. Então o dono sobe a escada de casa à noite com uma vela na mão. A casa dele não tem luz a gás.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Viu só? Holmes olha cada pista e pensa: por que isso está assim?",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Até agora: um senhor chamado Henry Baker fugiu e deixou para trás um chapéu e um ganso. Holmes quer encontrar o dono.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "De repente, a porta se abre com força. É o Peterson, vermelho, sem fôlego!",
+   1.1,
+   0.4
+  ],
+  [
+   "peterson",
+   "Senhor Holmes! O ganso! Olhe o que a minha mulher achou dentro do ganso!",
+   1.1,
+   0.5
+  ],
+  [
+   "narrador",
+   "A mulher do Peterson ia preparar o ganso para o almoço de Natal. No papo da ave, ela encontrou uma coisa.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Papo é uma bolsinha no pescoço das aves, onde fica a comida que elas engolem.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Na mão do Peterson tem uma pedra azul, menor que um feijão. Ela brilha tanto que parece ter uma luz dentro.",
+   0.95,
+   0.8
+  ],
+  [
+   "watson",
+   "Holmes! É o carbúnculo azul da condessa!",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "Carbúnculo é uma pedra preciosa. E essa pedra é famosa e vale muito, muito dinheiro.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Ela foi roubada há cinco dias, num hotel. A dona é uma condessa, uma senhora rica e importante.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "A polícia prendeu um encanador, o John Horner, porque ele tinha consertado uma coisa no quarto da condessa naquele dia.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Mas o Horner chora e jura que não roubou nada.",
+   0.95,
+   0.8
+  ],
+  [
+   "holmes",
+   "Então a pedra foi roubada no hotel e apareceu dentro de um ganso. Precisamos descobrir o caminho que ela fez.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Como você acha que uma pedra preciosa foi parar dentro de um ganso?",
+   0.95,
+   2.5
+  ],
+  [
+   "narrador",
+   "Para lembrar: a pedra roubada da condessa estava dentro do ganso do senhor Henry Baker.",
+   0.95,
+   0.8
+  ],
+  [
+   "holmes",
+   "Peterson, ponha um anúncio no jornal. Assim: Henry Baker pode buscar o chapéu e o ganso hoje, às seis e meia, na Rua Baker.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Será que o senhor Henry Baker é o ladrão? Isso fica para a próxima parte. Até lá!",
+   1.0,
+   0.8
+  ]
+ ]
+}

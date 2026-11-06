@@ -1,0 +1,261 @@
+{
+ "livro": "Sherlock Holmes: A Liga dos Cabeças Vermelhas",
+ "pasta": "sherlock",
+ "autor": "Arthur Conan Doyle (domínio público; adaptado do original em inglês, The Red-Headed League, 1891)",
+ "capitulo": 3,
+ "titulo": "Escuro no porão do banco",
+ "ambiente": "nenhum",
+ "nota": "Adaptação de The Red-Headed League, final: a espera no porão do banco, a prisão de John Clay e a explicação de Holmes.",
+ "vozes": {
+  "jones": {
+   "voz": "male, middle-aged, very low pitch",
+   "semente": 351
+  },
+  "merryweather": {
+   "voz": "male, elderly, low pitch",
+   "semente": 361
+  }
+ },
+ "trechos": [
+  [
+   "narrador",
+   "Sherlock Holmes: A Liga dos Cabeças Vermelhas. Capítulo três: Escuro no porão do banco.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "No capítulo passado, Holmes encontrou pistas na praça do senhor Wilson: terra nos joelhos do ajudante e um banco bem atrás da loja.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "E Holmes disse: hoje à noite, um crime vai acontecer.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "São dez horas da noite. Na casa de Holmes estão mais dois homens.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Um é o inspetor Jones, da polícia. O outro é o senhor Merryweather, o chefe do banco.",
+   1.0,
+   0.5
+  ],
+  [
+   "jones",
+   "Senhor Holmes, espero que o senhor tenha razão. Estou atrás de um ladrão muito esperto, o John Clay, há muitos anos.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Hoje, inspetor, o senhor vai encontrar o John Clay. Eu prometo.",
+   0.95,
+   0.7
+  ],
+  [
+   "narrador",
+   "Os quatro vão de carruagem até o banco. O senhor Merryweather abre uma porta e eles descem uma escada de pedra.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Lá embaixo fica o porão do banco. É grande, frio e úmido, com cheiro de terra. O chão é de pedras grandes.",
+   0.95,
+   0.6
+  ],
+  [
+   "narrador",
+   "O porão está cheio de caixas de madeira. Dentro delas, tem milhares de moedas de ouro.",
+   1.0,
+   0.5
+  ],
+  [
+   "merryweather",
+   "São trinta mil moedas de ouro. Chegaram da França e ainda estão aqui, no porão.",
+   1.0,
+   0.7
+  ],
+  [
+   "narrador",
+   "Agora você já sabe o que o ladrão quer. Ele quer o ouro do banco.",
+   1.0,
+   0.8
+  ],
+  [
+   "holmes",
+   "Vamos esperar no escuro. E ninguém faz barulho.",
+   0.9,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes cobre a lanterna. Fica tudo preto. Tão escuro que Watson não enxerga nem a própria mão.",
+   0.9,
+   0.6
+  ],
+  [
+   "narrador",
+   "Watson só escuta a respiração dos amigos. Ele sente medo e frio, mas fica bem quietinho.",
+   0.85,
+   0.8
+  ],
+  [
+   "narrador",
+   "Passa uma hora. Mais um pouco. Silêncio.",
+   0.85,
+   1.4
+  ],
+  [
+   "narrador",
+   "De repente, aparece uma luzinha no chão. Uma das pedras grandes está se mexendo!",
+   1.05,
+   0.5
+  ],
+  [
+   "narrador",
+   "A pedra sobe, e de um buraco sai uma mão branca, depois uma cabeça. É o ajudante do senhor Wilson, o Spaulding!",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "Ele sobe para o porão e diz baixinho para um amigo que ainda está no buraco:",
+   0.95,
+   0.4
+  ],
+  [
+   "spaulding",
+   "Tudo certo! Pegue os sacos.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Nessa hora, Holmes pula e segura o braço do Spaulding com força!",
+   1.1,
+   0.4
+  ],
+  [
+   "spaulding",
+   "Pule, Archie! Fuja!",
+   1.1,
+   0.5
+  ],
+  [
+   "narrador",
+   "O amigo dele, o Archie, foge de volta pelo buraco. Mas não adianta: a polícia já está esperando do outro lado.",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "O inspetor Jones prende o Spaulding. E sabe qual é o nome verdadeiro dele? John Clay, o ladrão que a polícia procura há anos!",
+   1.0,
+   0.9
+  ],
+  [
+   "narrador",
+   "Até agora: o ajudante do senhor Wilson era um ladrão famoso, e ele foi preso no porão do banco.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "Mais tarde, em casa, Watson pede para Holmes explicar tudo. Holmes explica, uma pista de cada vez.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Primeiro, Watson: por que o ajudante queria ganhar só metade do salário? Porque ele não queria o dinheiro. Ele queria a loja.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Por que ele ficava tanto no porão? Porque estava cavando um túnel, um caminho debaixo da terra, até o banco.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Por isso os joelhos da calça estavam sujos de terra. Quem cava fica de joelhos.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "E quando bati no chão da calçada, o som não era oco. Então o túnel não ia para a frente da loja. Ia para trás, para o banco.",
+   1.0,
+   0.8
+  ],
+  [
+   "watson",
+   "E a Liga dos Cabeças Vermelhas?",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Foi tudo inventado pelo Clay e pelo amigo dele, que se fez de Duncan Ross. Eles precisavam tirar o senhor Wilson da loja, todo dia, das dez às duas.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Assim, eles podiam cavar sem ninguém ouvir. Quando o túnel ficou pronto, não precisavam mais da Liga. Por isso ela acabou.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "E escolheram o sábado porque o banco fica fechado até segunda. O roubo só seria descoberto dois dias depois.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Por que você acha que os ladrões escolheram justo o senhor Wilson?",
+   0.95,
+   2.5
+  ],
+  [
+   "narrador",
+   "Isso mesmo: porque ele tinha a loja bem atrás do banco. E porque o cabelo vermelho dele servia de desculpa para a Liga.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Para lembrar: a Liga era uma armadilha para tirar o senhor Wilson da loja, enquanto os ladrões cavavam um túnel até o ouro do banco.",
+   0.95,
+   0.8
+  ],
+  [
+   "watson",
+   "Holmes, você é incrível.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes sorri. Ele está feliz, porque resolver mistérios é o que ele mais gosta de fazer.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "E esta aventura termina aqui. Mas Sherlock Holmes ainda vai resolver muitos outros mistérios. Até lá!",
+   1.0,
+   0.8
+  ]
+ ]
+}

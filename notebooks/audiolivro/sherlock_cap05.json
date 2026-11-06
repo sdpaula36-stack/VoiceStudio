@@ -1,0 +1,219 @@
+{
+ "livro": "Sherlock Holmes: O Carbúnculo Azul",
+ "pasta": "sherlock",
+ "autor": "Arthur Conan Doyle (domínio público; adaptado do original em inglês, The Adventure of the Blue Carbuncle, 1892)",
+ "capitulo": 5,
+ "titulo": "Atrás do ganso",
+ "ambiente": "nenhum",
+ "nota": "Adaptação de The Blue Carbuncle, segunda parte: Henry Baker, a pensão Alpha e o vendedor Breckinridge.",
+ "vozes": {
+  "baker": {
+   "voz": "male, elderly, very low pitch",
+   "semente": 381
+  },
+  "breckinridge": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 391
+  }
+ },
+ "trechos": [
+  [
+   "narrador",
+   "Sherlock Holmes: O Carbúnculo Azul. Parte dois: Atrás do ganso.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "Na parte passada, a mulher do Peterson achou uma pedra preciosa azul dentro de um ganso. A pedra tinha sido roubada de uma condessa.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "O ganso era de um senhor chamado Henry Baker. Holmes pôs um anúncio no jornal para chamar esse senhor.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "São seis e meia da tarde. Toc, toc. Alguém bate na porta.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Entra um senhor grandão, de cabeça enorme e cabelo grisalho. É o senhor Henry Baker, igualzinho ao que Holmes descobriu pelo chapéu.",
+   1.0,
+   0.6
+  ],
+  [
+   "baker",
+   "Boa noite. Vim buscar o meu chapéu e o meu ganso.",
+   0.95,
+   0.5
+  ],
+  [
+   "holmes",
+   "Aqui está o seu chapéu. O ganso, nós tivemos que comer, porque ia estragar. Mas compramos outro ganso para o senhor, bem gordo.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Se quiser, também guardamos as penas e o papo do seu ganso antigo.",
+   1.0,
+   0.6
+  ],
+  [
+   "baker",
+   "Não, obrigado. Para que eu ia querer isso? O ganso novo está ótimo.",
+   1.0,
+   0.7
+  ],
+  [
+   "narrador",
+   "Holmes fica feliz. Sabe por quê?",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Porque, se o senhor Baker soubesse da pedra, ele ia querer o papo do ganso antigo. Então ele não é o ladrão!",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Senhor Baker, onde o senhor comprou aquele ganso?",
+   1.0,
+   0.5
+  ],
+  [
+   "baker",
+   "Na pensão Alpha, perto do museu. O dono da pensão faz um clube: a gente paga um pouquinho toda semana e ganha um ganso no Natal.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "O senhor Baker agradece e vai embora com o ganso novo, todo contente.",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Até agora: o senhor Baker não é o ladrão. O ganso dele veio da pensão Alpha. Holmes quer seguir o caminho do ganso para trás.",
+   0.95,
+   1.2
+  ],
+  [
+   "narrador",
+   "Holmes e Watson vestem os casacos e saem na noite gelada. Os passos deles fazem barulho na calçada: tec, tec, tec.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Na pensão Alpha, o dono explica que comprou os gansos de um vendedor do mercado, chamado Breckinridge.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Então Holmes e Watson vão ao mercado. A barraca do Breckinridge está quase fechando.",
+   1.0,
+   0.5
+  ],
+  [
+   "holmes",
+   "Boa noite. De quem o senhor comprou os gansos que vendeu para a pensão Alpha?",
+   1.0,
+   0.5
+  ],
+  [
+   "breckinridge",
+   "De novo essa pergunta? Todo mundo quer saber dos meus gansos! Não vou contar nada!",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "O Breckinridge está bravo. Holmes olha para ele e vê um jornal de apostas no bolso do casaco.",
+   1.0,
+   0.5
+  ],
+  [
+   "narrador",
+   "Aposta é quando duas pessoas discordam e combinam: quem estiver errado paga uma moeda para o outro.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes pensa: quem lê jornal de apostas adora apostar. Então, em vez de perguntar, ele faz uma aposta.",
+   1.0,
+   0.6
+  ],
+  [
+   "holmes",
+   "Eu aposto uma moeda que aqueles gansos vieram de uma fazenda, lá no campo.",
+   1.0,
+   0.5
+  ],
+  [
+   "breckinridge",
+   "Pois vai perder! Eles vieram aqui da cidade. Eu vou provar!",
+   1.05,
+   0.6
+  ],
+  [
+   "narrador",
+   "O Breckinridge pega um caderno grande e lê em voz alta:",
+   1.0,
+   0.4
+  ],
+  [
+   "breckinridge",
+   "Vinte e quatro gansos, da senhora Oakshott, da Rua Brixton. Vendidos para a pensão Alpha.",
+   1.0,
+   0.6
+  ],
+  [
+   "narrador",
+   "Holmes paga a moeda e faz cara de quem perdeu. Mas, por dentro, está feliz: agora ele sabe de onde veio o ganso!",
+   1.0,
+   0.8
+  ],
+  [
+   "narrador",
+   "Por que Holmes ficou feliz, mesmo perdendo a aposta?",
+   0.95,
+   2.5
+  ],
+  [
+   "narrador",
+   "Para lembrar: o ganso foi da senhora Oakshott para o mercado, do mercado para a pensão Alpha, e da pensão para o senhor Baker.",
+   0.95,
+   0.8
+  ],
+  [
+   "narrador",
+   "Quando Holmes e Watson estão saindo, escutam uma voz nervosa na barraca. É um homem baixinho, perguntando:",
+   0.95,
+   0.4
+  ],
+  [
+   "narrador",
+   "Para onde foram os gansos da senhora Oakshott?",
+   0.9,
+   1.4
+  ],
+  [
+   "narrador",
+   "Quem é esse homem? E por que ele quer tanto aqueles gansos? Isso fica para a próxima parte. Até lá!",
+   1.0,
+   0.8
+  ]
+ ]
+}

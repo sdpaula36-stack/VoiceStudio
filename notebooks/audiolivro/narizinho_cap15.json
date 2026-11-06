@@ -1,0 +1,62 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 15,
+  "titulo": "O vestido da cor do mar",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Casamento de Narizinho, partes V a VII. Texto conferido com a 1ª edição no Wikisource. Suavizado: o polvo leva um choquinho e foge.",
+  "vozes": {
+    "sardinha": {"voz": "female, young adult, moderate pitch", "semente": 381}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo quinze: O vestido da cor do mar.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, todos viajaram de coche até o palácio do príncipe, para o casamento de Narizinho.", 1.0, 0.4],
+    ["narrador", "Narizinho foi escolher o vestido. E Pedrinho foi passear com o visconde e o Rabicó.", 1.0, 1.0],
+
+    ["narrador", "No caminho, o Rabicó viu um ouriço-do-mar, uma bolinha cheia de espinhos. E pensou que era comida. Nhoc!", 1.05, 0.5],
+    ["rabico", "Ai, ai, ai! Espetou a minha boca!", 1.1, 0.5],
+    ["narrador", "Pedrinho tirou os espinhos, com muito cuidado. O Rabicó, chorando, disse que estava com fome. Então Pedrinho deixou ele comer o brinco de amendoim.", 1.0, 0.6],
+    ["narrador", "Logo depois, eles acharam um navio velho, afundado na areia. Entraram por um buraco no casco.", 1.0, 0.5],
+    ["rabico", "Achei uma raiz de mandioca! Que delícia!", 1.1, 0.5],
+    ["narrador", "Mas não era mandioca. Era o braço de um polvo! O Rabicó mordeu, e o polvo enrolou o leitão com os braços compridos.", 1.0, 0.6],
+    ["narrador", "Pedrinho pensou depressa e pediu ajuda a uma sardinha que estava olhando.", 1.0, 0.4],
+    ["pedrinho", "Senhorita sardinha, corra ao palácio e diga ao príncipe que o marquês está preso por um polvo!", 1.05, 0.5],
+    ["narrador", "Mas antes de ela sair, o visconde segurou a sardinha pelo rabinho.", 1.0, 0.4],
+    ["visconde", "Senhorita, qual é o seu nome científico?", 0.95, 0.5],
+    ["sardinha", "Malcriado!", 1.05, 0.5],
+    ["narrador", "A sardinha pensou que era brincadeira de mau gosto e saiu nadando, brava, para levar o recado.", 1.0, 1.0, "transicao"],
+
+    ["narrador", "Enquanto isso, na casa da Dona Aranha, ela mostrava o vestido de casamento.", 1.0, 0.5],
+    ["narrador", "Não era de seda nem de renda. Era feito da cor do mar. E nele nadavam peixinhos de verdade: vermelhos, azuis, dourados, redondos, compridos.", 0.95, 0.6],
+    ["narrador", "Os peixinhos nadavam sem parar, entre algas que balançavam. Por isso o vestido mudava o tempo todo.", 0.95, 0.5],
+    ["narrador", "Narizinho achou tão lindo que ficou tonta e precisou sentar. A Emília quis saber tudo.", 1.0, 0.4],
+    ["emilia", "Quem faz este tecido, Dona Aranha?", 1.0, 0.4],
+    ["aranha", "A fada Miragem. Eu corto com a tesoura da Imaginação e costuro com a agulha da Fantasia e a linha do Sonho.", 0.95, 0.6],
+    ["emilia", "E quanto custa o metro?", 1.05, 0.6],
+    ["narizinho", "Fica quieta, Emília! Os peixinhos vão se assustar e fugir do vestido!", 1.0, 0.8],
+    ["narrador", "Nessa hora, o príncipe entrou, assustado: o Rabicó estava preso por um polvo! Ele já tinha mandado os soldados.", 1.0, 0.6],
+
+    ["narrador", "Até agora: o Rabicó está preso pelo polvo, e Narizinho ganhou o vestido mais lindo do mundo.", 0.95, 0.8],
+    ["narrador", "Os soldados do príncipe eram caranguejos de casca dura. Para chegar depressa, vieram montados em peixes elétricos, que dão choque.", 1.0, 0.5],
+    ["narrador", "Os caranguejos encostaram as garras no polvo e deram um choquinho. O polvo levou um susto, soltou o Rabicó e foi embora.", 1.0, 0.6],
+    ["narrador", "O Rabicó estava salvo. Mas ainda gritava: coin, coin! Por que será?", 0.95, 2.5],
+    ["narrador", "Porque um siri, que é um caranguejinho pequeno, tinha prendido a ponta do rabo dele!", 1.0, 0.5],
+    ["pedrinho", "Fica assim mesmo, marquês. Esse siri no rabo é mais bonito que laço de fita!", 1.05, 0.8],
+    ["narrador", "Quando chegaram ao palácio, o casamento já tinha começado. Narizinho mandou começar tudo de novo, para os amigos verem.", 1.0, 0.5],
+    ["narrador", "Narizinho entrou com o vestido da cor do mar e uma coroa de pérolas. O príncipe veio ao lado, com um manto de escamas.", 1.0, 0.5],
+    ["narrador", "Sereias, que são moças com rabo de peixe, cantavam músicas lindas. E Pedrinho pensou: a vovó diz que sereia não existe!", 1.0, 0.6],
+    ["narrador", "Então a Emília viu o siri no rabo do marido e desmaiou de vergonha!", 1.05, 0.5],
+    ["narrador", "O Doutor Caramujo tirou o siri do rabo do Rabicó e encostou no nariz da Emília. E a boneca acordou na hora.", 1.0, 0.6],
+    ["emilia", "Onde estou? Estou vendo o mundo cheio de perninhas!", 1.0, 0.8],
+    ["narrador", "Eram as perninhas do siri, pendurado no nariz dela! Todos riram.", 1.0, 0.8],
+    ["narrador", "Por fim, um caranguejo-ermitão, que vive dentro de uma concha emprestada, casou os noivos. Narizinho virou princesa!", 1.0, 1.0, "festa"],
+    ["narrador", "Faltava só pôr a coroa na cabeça do príncipe. Mas... cadê a coroa? A coroa de rosquinha tinha sumido!", 1.0, 0.5],
+    ["narrador", "O príncipe ficou tão bravo que todo mundo saiu correndo. Narizinho e os amigos correram também, e só pararam no sítio, pingando água.", 1.05, 0.6],
+    ["emilia", "Eu vi, Narizinho! Foi o Rabicó que comeu a coroa!", 1.1, 0.6],
+    ["narrador", "E tinha sido mesmo...", 0.95, 1.0],
+
+    ["narrador", "Resumindo: Narizinho casou com o príncipe, mas o Rabicó comeu a coroa, e a festa acabou em correria.", 0.95, 0.8],
+    ["narrador", "Dias depois, numa tarde quente, apareceu no sítio um visitante de bigodes, que andava em duas patas e falava muito bonito.", 0.9, 0.8],
+    ["narrador", "Quem será? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}
