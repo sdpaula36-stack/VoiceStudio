@@ -33,6 +33,7 @@ Para acrescentar uma lição: data, o que aconteceu, o que fazer, e onde ficou a
 |---|---|---|
 | 2026-11-06 | Os nomes dos `.wav` (vozes e trechos) são um código da voz, do texto e da velocidade. Mudar a forma de calcular faz o Colab narrar tudo de novo. | `juntar()` e `chave()` iguais aos notebooks antigos; conferido em 06/11 (2.218 arquivos de Narizinho, Sherlock e Subsolo com o mesmo nome) |
 | 2026-11-06 | Primeiro teste real no Colab: Narizinho (40 caps prontos) não narrou nada, reaproveitou as vozes e organizou o Drive. | Conferido pelo usuário |
+| 2026-11-06 | Primeira narração longa pelo notebook único: Subsolo Parte II (caps 12-21, 131 min de áudio guiado) numa sessão só, sem queda, em no máximo 2h10 (começou ~18h, pronto antes das 20h10). Conta: ~1 min de GPU por minuto de áudio. Livro inteiro: 21/21, guiada 3,6 h, limpa 3,2 h. | `situacao.md` mostra o total |
 | 2026-11-06 | Um capítulo está pronto quando as duas versões em MP3 existem; o resto é pulado. | `escolher()` e `pronto()` |
 | 2026-11-06 | Se a sessão cai no meio de uma gravação, ficava um arquivo pela metade que depois era reaproveitado. | `gerar()` e `exportar()` gravam em `.parcial` e só renomeiam no fim |
 | 2026-11-06 | O notebook PCD antigo deixava um `.wav` grande de cada versão no Drive. | `exportar()` usa uma pasta temporária fora do Drive |
