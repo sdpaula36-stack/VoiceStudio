@@ -1,0 +1,24 @@
+{
+ "_leia": "Catálogo de livros do estúdio. Cada livro diz onde estão os roteiros (branch e pasta do fork). tipo: 'pcd' (versões A só voz e B com sonoplastia leve) ou 'pessoal' (versões guiada e limpa).",
+ "narizinho": {
+  "titulo": "Reinações de Narizinho (Monteiro Lobato)",
+  "tipo": "pcd",
+  "pasta": "narizinho",
+  "roteiros": {"branch": "claude/project-thread-wm77ja", "dir": "notebooks/audiolivro", "prefixo": "narizinho_cap"},
+  "fonte": {"site": "wikisource", "lingua": "pt", "pagina": "As Reinações de Narizinho"}
+ },
+ "sherlock": {
+  "titulo": "Sherlock Holmes (Conan Doyle)",
+  "tipo": "pcd",
+  "pasta": "sherlock",
+  "roteiros": {"branch": "claude/project-thread-wm77ja", "dir": "notebooks/audiolivro", "prefixo": "sherlock_cap"},
+  "fonte": {"site": "gutenberg", "id": 1661}
+ },
+ "subsolo": {
+  "titulo": "Memórias do Subsolo (Dostoiévski)",
+  "tipo": "pessoal",
+  "pasta": "subsolo",
+  "roteiros": {"branch": "claude/project-thread-xlgms3", "dir": "notebooks/audiolivros-pessoais/livros/subsolo/roteiros", "prefixo": "subsolo_cap"},
+  "fonte": {"site": "wikisource", "lingua": "ru", "pagina": "Записки из подполья (Достоевский)"}
+ }
+}
