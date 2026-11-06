@@ -1,0 +1,482 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 17,
+ "titulo": "Liza",
+ "original": "Parte II, capítulo VI",
+ "cortes": [
+  "Parte II, cap. VI: o noivo e a pena (10 falas).",
+  "Parte II, cap. VI: os ciúmes do pai que casa a filha (8 frases).",
+  "Parte II, cap. VI: brigas e reconciliações de recém-casados (20 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo seis da Parte dois. Duas horas da manhã, no quarto do bordel. O narrador acorda ao lado de Liza, uma moça de vinte anos, e começa a falar com ela. Primeiro por tédio; depois, por um jogo de poder.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo seis.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Em algum lugar atrás do tabique, como se sob uma pressão forte, como se alguém o estrangulasse, o relógio rouquejou. Depois de um rouquejo longo e antinatural, seguiu-se uma batida fininha, nojentinha, e inesperadamente rápida, como se alguém tivesse pulado de repente para a frente.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Bateram duas horas.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu voltei a mim, embora não dormisse: só estava deitado, meio desacordado. No quarto estreito, apertado e baixo, atulhado com um enorme guarda-roupa e cheio de caixas de papelão, trapos e toda espécie de tralha de roupa, estava quase completamente escuro.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "O toco de vela na mesa, no fundo do quarto, estava se apagando de vez.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu não demorei a voltar a mim; tudo, de uma vez, sem esforço, me voltou à memória, como se estivesse me espreitando para se atirar de novo sobre mim. Mas era estranho: tudo o que tinha me acontecido naquele dia parecia agora, ao acordar, já passado havia muito, muito tempo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "De repente, vi a meu lado dois olhos abertos, que me examinavam com curiosidade e teimosia. O olhar era friamente indiferente, sombrio, como de uma completa estranha; era pesado suportá-lo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Uma ideia sombria nasceu no meu cérebro e percorreu o meu corpo inteiro com uma sensação ruim, parecida com a de quando se entra num subsolo úmido e abafado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Lembrei-me também de que, durante duas horas, eu não tinha dito a essa criatura uma só palavra, e não tinha achado isso nem um pouco necessário.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Agora, de repente, me apareceu com nitidez a ideia absurda, repugnante como uma aranha, da devassidão que, sem amor, grosseira e sem-vergonha, começa direto por aquilo que coroa o amor verdadeiro.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Como você se chama? perguntei, seco, para acabar logo. Liza, respondeu ela, quase sussurrando, mas sem nenhuma simpatia, e desviou os olhos.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Hoje o tempo... neve... que nojo! disse eu, quase para mim mesmo, com a mão atrás da cabeça, olhando para o teto. Ela não respondeu. Era tudo horrível.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Você é daqui? Não. De onde? De Riga, disse ela, de má vontade. Alemã? Russa. Faz tempo que está aqui? Onde? Na casa. Duas semanas.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "A vela apagou de vez; eu já não conseguia distinguir o rosto dela. Tem pai e mãe? Sim... não... tenho. Onde eles estão? Lá... em Riga. Quantos anos você tem? Vinte. E por que saiu da casa deles? Por nada. Esse por nada queria dizer: me deixe em paz, que enjoo. Ficamos calados.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Deus sabe por que eu não ia embora. As imagens de todo o dia que passou começaram, sozinhas, sem a minha vontade, a desfilar na minha memória. De repente me lembrei de uma cena que eu tinha visto de manhã na rua.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Hoje estavam carregando um caixão, e quase o deixaram cair, disse eu em voz alta, sem querer começar conversa nenhuma, quase sem querer. Um caixão? Sim, na Praça do Feno; tiravam de um porão. De um porão? Não de um porão, de um andar de baixo... sabe, embaixo... de uma casa ruim...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Tanta sujeira em volta... cheirava mal... era nojento.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "É ruim enterrar hoje! recomecei, só para não ficar calado. Ruim por quê? A neve, a umidade... Eu bocejei. Tanto faz, disse ela de repente, depois de um silêncio.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não, é nojento. Os coveiros, com certeza, praguejavam porque a neve molhava. E na cova, com certeza, havia água. Por que água na cova? perguntou ela, com alguma curiosidade, mas falando ainda mais áspero e entrecortado que antes. De repente, algo começou a me instigar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ora, água, no fundo, um palmo. Aqui, no Vólkovo, não se cava uma cova seca. O lugar é de água. Aqui é tudo pântano. Põem direto na água. Eu mesmo vi... muitas vezes... Nem uma vez eu tinha visto, e nunca tinha estado no Vólkovo; só tinha ouvido contar.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Será que para você tanto faz, morrer? E por que eu vou morrer? respondeu ela, como se defendendo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Algum dia você vai morrer, e vai morrer exatamente como aquela morta de hoje. Era... também uma moça... Morreu tísica. Uma rapariga morreria no hospital... Ela já sabe disso, pensei; e disse rapariga, e não moça.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ela devia à dona, retruquei, cada vez mais instigado pela discussão, e trabalhou para ela quase até o fim, embora estivesse tísica. Os cocheiros em volta contavam isso aos soldados. Riam. Ainda iam beber à memória dela na taverna. Aqui também eu menti muito.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Silêncio, um silêncio profundo. Ela nem se mexia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Você agora é jovem, bonita, fresca; é por isso que te dão valor. Mas daqui a um ano dessa vida você não vai ser a mesma, vai murchar. Daqui a um ano? De qualquer modo, daqui a um ano você vai valer menos, continuei, com malícia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Você vai sair daqui para algum lugar mais baixo, outra casa. Mais um ano, uma terceira casa, cada vez mais baixo, e daqui a uns sete anos você chega ao porão da Praça do Feno. E isso ainda seria bom. O azar é se, além disso, aparecer alguma doença, uma fraqueza do peito...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Numa vida dessas, a doença não passa. E então você morre.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois então eu morro, respondeu ela, já com raiva, e se mexeu depressa. Mas dá pena. De quem? Da vida, dá pena.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele pergunta se ela teve noivo, diz que tem pena dela, e ela o corta.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "E você, o que pensa? Está num bom caminho, hein? Eu não penso nada. O ruim é justamente não pensar. Acorde, enquanto há tempo. E ainda há tempo. Você ainda é jovem, bonita; podia amar, casar, ser feliz...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Nem todas as casadas são felizes, cortou ela, no mesmo tom grosseiro e apressado de antes.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nem todas, é claro; mas mesmo assim é muito melhor do que aqui. Sem comparação. E com amor pode-se viver até sem felicidade. Mesmo na dor a vida é boa; é bom viver no mundo, seja como for. E aqui, o que há, além do... fedor? Fui!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu me virei com nojo; já não estava raciocinando a frio. Eu mesmo começava a sentir o que dizia, e me inflamava. Eu já ansiava por expor as minhas ideiazinhas queridas, curtidas no canto. Alguma coisa de repente se acendeu em mim, algum objetivo apareceu.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não olhe para mim só porque estou aqui; eu não sou exemplo para você. Talvez eu seja pior que você. Aliás, eu entrei aqui bêbado, apressei-me ainda assim a me justificar. E depois, homem não é exemplo para mulher.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "É diferente; eu, embora me suje e me manche, não sou escravo de ninguém; vim, fui embora, e não estou mais aqui.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas você, desde o começo, é escrava. Sim, escrava! Você entrega tudo, toda a vontade. E depois vai querer romper essas correntes, mas não vai dar: elas vão te enrolar cada vez mais. É uma corrente maldita. Eu a conheço.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Diga cá: você com certeza já deve à dona? Pois então, está vendo! acrescentei, embora ela não me respondesse, só escutasse calada, com todo o seu ser. Aí está a corrente! Nunca vai conseguir se resgatar. Vão dar um jeito. É o mesmo que vender a alma ao diabo...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E, além disso, eu... talvez também seja infeliz, como você sabe? e me meta na lama de propósito, também de angústia. Uns bebem de desgosto; pois eu estou aqui de desgosto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Me diga, o que há de bom nisso: nós dois... nos juntamos... há pouco, e não dissemos uma palavra um ao outro o tempo todo, e só depois você começou a me examinar, como uma selvagem; e eu a você também.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "É assim que se ama? É assim que um ser humano deve se juntar a outro? Isso é só uma monstruosidade, é isso!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Sim! concordou ela, brusca e apressada. Até me surpreendeu a pressa desse sim. Então, talvez, também na cabeça dela andasse a mesma ideia, quando ela me examinava há pouco? Então, ela também já é capaz de algumas ideias?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Diabos, isso é curioso, isso é parentesco, eu pensava, quase esfregando as mãos. E como não dar conta de uma alma tão jovem?... O que mais me arrebatava era o jogo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Ela virou a cabeça para mais perto de mim e, pareceu-me no escuro, apoiou-a na mão. Talvez estivesse me examinando. Como lamentei não conseguir ver os olhos dela. Eu ouvia a sua respiração profunda.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por que você veio para cá? comecei, já com uma certa autoridade. Por nada... E como seria bom viver na casa do pai! Quente, à vontade; o seu ninho. E se for pior que isso?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Preciso acertar o tom, passou-me pela cabeça; com sentimentalismo, talvez não se ganhe muito. Mas isso só passou. Juro que ela de fato me interessava. Além disso, eu estava meio amolecido e predisposto. E a velhacaria convive tão facilmente com o sentimento.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Quem diz o contrário! apressei-me a responder. Tudo acontece. Eu tenho certeza de que alguém te ofendeu, e de que eles têm mais culpa diante de você do que você diante deles. Eu não sei nada da sua história, mas uma moça como você com certeza não veio parar aqui por gosto...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que moça como eu? sussurrou ela, mal se ouvindo; mas eu ouvi. Diabos, estou bajulando. Isso é nojento. Ou talvez seja bom... Ela se calava.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Veja, Liza, vou falar de mim! Se eu tivesse família desde a infância, não seria como sou agora. Penso nisso muitas vezes. Por pior que seja numa família, são pai e mãe, e não inimigos, não estranhos. Ao menos uma vez por ano eles te mostram amor.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Eu cresci sem família; por isso, com certeza, saí assim... sem sentimento.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Talvez ela nem entenda, eu pensava, e é ridículo: moral. Se eu fosse pai e tivesse uma filha, acho que ia amar a filha mais que os filhos, palavra, comecei de lado, como se não fosse sobre aquilo, para distraí-la. Confesso que eu corava. Por quê? perguntou ela. Ah, então está ouvindo!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu conheci um pai que era um homem severo, duro, e diante da filha ficava de joelhos, beijava-lhe as mãos e os pés, não se cansava de admirá-la. Ela dormia de cansaço, e ele acordava e ia beijá-la dormindo, e fazer o sinal da cruz sobre ela.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Andava de sobrecasaca ensebada, avarento com todos, mas para ela comprava com o último dinheiro.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: ele fala dos ciúmes de um pai na hora de casar a filha.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Outros ficam contentes de vender a filha, em vez de casá-la com honra, disse ela de repente. Ah! então é isso!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Isso, Liza, é nas famílias malditas, onde não há nem Deus nem amor, retomei com ardor; e onde não há amor, também não há juízo. Você, pelo visto, não viu nada de bom na sua família, para falar assim. Hum... Isso tudo acontece mais por pobreza.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E entre os senhores é melhor, por acaso? Na pobreza também gente honesta vive bem.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Hum... sim. Talvez. E depois, Liza: o homem só gosta de contar as suas tristezas, e não conta a sua felicidade. Se contasse como deve, veria que para cada destino há uma reserva dela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E se na família tudo der certo, se Deus abençoar, se o marido for bom, te amar, te mimar, não sair do teu lado! como é bom numa família assim! Mesmo com tristeza, às vezes, é bom; e onde não há tristeza?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: ele fala das brigas e reconciliações dos recém-casados, dos ciúmes, e de que o amor é um segredo do casal.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "E, quando vêm os filhos, qualquer tempo, mesmo o mais difícil, parece felicidade; é só amar e ter coragem.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Os filhos crescem, você sente que é exemplo para eles, que é apoio; que, mesmo depois que você morrer, eles vão carregar a vida inteira os seus sentimentos e ideias, a sua imagem e semelhança.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Dizem que ter filhos é pesado? Quem diz isso? É uma felicidade do céu! Você gosta de criancinhas, Liza? Eu gosto terrivelmente. Sabe, um menininho rosado, mamando no seu peito; e que coração de marido não se volta para a mulher, vendo-a sentada com o filho dele!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O bebê rosado, gordinho, se esparrama, se espreguiça; as perninhas e os bracinhos roliços, as unhinhas limpinhas, tão pequenininhas que dá vontade de rir, os olhinhos, como se ele já entendesse tudo. E mamando, puxa o seu peito com a mãozinha, brinca.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O pai se aproxima, ele larga o peito, se dobra todo para trás, olha para o pai, ri, como se fosse Deus sabe que engraçado, e volta, volta a mamar. Será que não é toda a felicidade, quando os três, marido, mulher e filho, estão juntos? Por esses minutos se pode perdoar muita coisa.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Não, Liza, primeiro é preciso aprender a viver, e só depois acusar os outros!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Com quadrinhos, com esses quadrinhos é que eu tenho de pegar você! pensei comigo, embora, juro por Deus, falasse com sentimento; e de repente corei. E se ela cair na gargalhada, onde é que eu me enfio? Essa ideia me deixou furioso. O silêncio continuava. Eu queria até empurrá-la.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O senhor, alguma coisa... começou ela de repente, e parou. Mas eu já tinha entendido tudo:",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "na voz dela já tremia outra coisa, não ríspida, não grosseira e não teimosa como há pouco, mas algo macio e envergonhado, tão envergonhado que eu mesmo, de repente, fiquei envergonhado diante dela, culpado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O quê? perguntei, com uma curiosidade terna. Mas o senhor... O quê? O senhor, alguma coisa... fala como num livro, disse ela; e algo como um deboche, de repente, soou de novo na voz dela.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Aquela observação me beliscou dolorosamente. Não era o que eu esperava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu nem entendi que ela se mascarava de deboche de propósito; que essa é a última artimanha comum das pessoas pudicas e castas de coração, em cuja alma alguém se mete com grosseria e insistência, e que, por orgulho, não se entregam até o último minuto,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "e têm medo de expressar diante de você o que sentem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pela timidez com que ela se aproximou do deboche, em várias tentativas, até se decidir a dizê-lo, eu devia ter adivinhado. Mas não adivinhei, e um sentimento mau me tomou. Espere só, pensei.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Repare: lembra do poema de Nekrássov, da epígrafe? O homem que, com a palavra ardente, tira a mulher caída das trevas. Aqui é essa cena, só que às avessas. O narrador faz o discurso salvador, mas por jogo, e sabendo que é jogo.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E Liza o desmascara com uma frase só: o senhor fala como num livro. É o mesmo diagnóstico da Parte um: o homem do subsolo vive de literatura. Detalhe de época: a Praça do Feno, Sennaia, era o bairro mais miserável de Petersburgo; o mesmo de Crime e Castigo, dois anos depois.",
+   1.0,
+   1.5
+  ]
+ ]
+}

@@ -1,0 +1,472 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 20,
+ "titulo": "Que o mundo acabe",
+ "original": "Parte II, capítulo IX",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo nove da Parte dois. Liza está no apartamento dele. É o capítulo da confissão mais brutal do livro, e da frase mais famosa: que o mundo acabe, contanto que eu tome o meu chá. Vai sem cortes.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo nove.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E na minha casa, com ousadia e liberdade, entra como dona plena! Da mesma poesia.",
+   0.9,
+   1.0
+  ],
+  [
+   "leitor",
+   "Eu estava diante dela, aniquilado, desonrado, repugnantemente envergonhado, e, parece, sorria, fazendo todo o esforço para me cobrir com as abas do meu roupãozinho acolchoado e peludo; exatinho como eu tinha imaginado pouco antes, no desânimo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Apollon, depois de ficar uns dois minutos parado ao nosso lado, saiu; mas não fiquei mais aliviado. O pior era que ela também, de repente, ficou envergonhada, tanto que eu nem esperava. Olhando para mim, é claro.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Sente-se, disse eu maquinalmente, e puxei para ela uma cadeira junto à mesa; eu mesmo me sentei no sofá. Ela se sentou imediatamente, obediente, me olhando de olhos arregalados e, evidentemente, esperando de mim alguma coisa agora mesmo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Foi essa ingenuidade da espera que me deixou furioso; mas eu me contive.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Era aí que eu devia fazer força para não notar nada, como se tudo estivesse normal; e ela... E eu senti, vagamente, que ela ia me pagar caro por tudo isso.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Você me encontrou numa situação estranha, Liza, comecei, gaguejando, e sabendo que era justamente assim que não se devia começar. Não, não, não pense nada! gritei, vendo que ela de repente corou. Eu não me envergonho da minha pobreza... Ao contrário, olho para a minha pobreza com orgulho.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Sou pobre, mas nobre... Pode-se ser pobre e nobre, eu murmurava. Aliás... quer chá?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não..., começou ela. Espere! Eu pulei e corri até Apollon. Era preciso sumir em algum lugar.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Apollon, sussurrei numa pressa febril, jogando diante dele os sete rublos que tinham ficado o tempo todo no meu punho; aqui está o seu salário; está vendo, eu pago; mas em troca você tem de me salvar: traga imediatamente da taverna chá e dez torradas.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Se você não quiser ir, vai fazer um homem infeliz! Você não sabe que mulher é essa... É tudo! Você talvez pense alguma coisa... Mas você não sabe que mulher é essa!...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Apollon, que já tinha se sentado para trabalhar e já tinha posto de novo os óculos, primeiro, sem largar a agulha, olhou de lado para o dinheiro, em silêncio; depois, sem me dar nenhuma atenção e sem me responder nada, continuou a lidar com a linha, que ainda enfiava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Esperei uns três minutos, de pé diante dele, com os braços cruzados à Napoleão. As minhas têmporas estavam molhadas de suor; eu estava pálido, eu sentia. Mas, graças a Deus, ele deve ter ficado com pena, olhando para mim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Terminada a linha, ele se levantou devagar, afastou a cadeira devagar, tirou os óculos devagar, contou o dinheiro devagar e, por fim, perguntando-me por cima do ombro se era para trazer a porção inteira, saiu devagar do quarto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quando eu voltava para Liza, me ocorreu no caminho: e se eu fugisse assim como estou, de roupãozinho, para onde os olhos me levarem, e seja o que Deus quiser.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Sentei-me de novo. Ela me olhava com inquietação. Ficamos calados alguns minutos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu vou matá-lo! gritei de repente, batendo com força o punho na mesa, tanto que a tinta espirrou do tinteiro. Ah, o que é isso! gritou ela, estremecendo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu vou matá-lo, matá-lo! eu guinchava, batendo na mesa, completamente fora de mim, e entendendo perfeitamente, ao mesmo tempo, como é tolo estar assim fora de si. Você não sabe, Liza, o que esse carrasco é para mim. Ele é o meu carrasco... Ele foi agora buscar as torradas; ele...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E de repente eu me desfiz em lágrimas. Foi um ataque. Que vergonha eu sentia entre os soluços; mas já não conseguia contê-los. Ela se assustou. O que o senhor tem? o que é isso? gritava ela, se agitando à minha volta.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Água, me dê água, ali! eu murmurava com voz fraca, consciente, aliás, de que bem podia passar sem a água, e sem murmurar com voz fraca. Mas eu estava, como se diz, representando, para salvar as aparências, embora o ataque fosse verdadeiro.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Ela me deu água, olhando para mim como perdida. Naquele minuto Apollon trouxe o chá. De repente me pareceu que aquele chá comum e prosaico era terrivelmente indecente e mesquinho depois de tudo o que tinha acontecido, e eu corei. Liza olhava para Apollon até com medo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Ele saiu sem olhar para nós.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Liza, você me despreza? disse eu, olhando-a de frente, tremendo de impaciência por saber o que ela pensava. Ela ficou confusa, e não soube responder nada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Tome o chá! disse eu, com raiva. Eu estava com raiva de mim mesmo, mas, é claro, quem tinha de pagar era ela. Uma raiva terrível contra ela ferveu de repente no meu coração; acho que a mataria. Para me vingar dela, jurei em pensamento não lhe dizer uma palavra o tempo todo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Ela é a causa de tudo, eu pensava.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O nosso silêncio já durava uns cinco minutos. O chá estava na mesa; não tocávamos nele: eu cheguei a ponto de não querer começar a beber de propósito, para pesar ainda mais sobre ela; e para ela era constrangedor começar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Várias vezes ela me olhou com uma perplexidade triste. Eu me calava, teimoso. O principal mártir era, é claro, eu mesmo, porque tinha plena consciência de toda a baixeza repugnante da minha tolice raivosa, e ao mesmo tempo não conseguia de jeito nenhum me conter.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu quero... sair de lá... de vez, começou ela, para interromper de algum modo o silêncio. Mas, coitada! era justamente disso que não se devia falar, num minuto já tão tolo, com um homem já tão tolo como eu.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Até o meu coração doeu de pena da falta de jeito dela, e da franqueza desnecessária. Mas alguma coisa monstruosa abafou imediatamente em mim toda a pena; e até me instigou ainda mais: que se dane tudo no mundo! Passaram mais cinco minutos.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Será que eu atrapalhei o senhor? começou ela, tímida, mal se ouvindo, e começou a se levantar. Mas, assim que vi esse primeiro lampejo de dignidade ofendida, eu tremi de raiva e imediatamente explodi.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Para que você veio aqui, me diga, por favor? comecei, sufocando, e sem nem cuidar da ordem lógica das minhas palavras. Eu queria dizer tudo de uma vez, numa rajada; nem me preocupava por onde começar.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Por que você veio? Responda! Responda! eu gritava, quase fora de mim. Eu vou te dizer, minha cara, por que você veio. Você veio porque eu te disse naquela vez palavras de pena. Pois você se enterneceu, e de novo quis palavras de pena. Pois saiba, saiba que eu naquela vez ri de você.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E rio agora. Por que você está tremendo? Sim, eu ri!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu tinha sido ofendido antes, no jantar, por aqueles que chegaram lá antes de mim. Fui até vocês para espancar um deles, o oficial; mas não deu, não o encontrei; e era preciso descontar a ofensa em alguém, recuperar o que era meu; você apareceu, e eu despejei em você a raiva e zombei.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Me humilharam, e eu quis humilhar; me reduziram a um trapo, e eu quis mostrar poder... Foi isso o que houve; e você já pensou que eu tinha ido lá de propósito para te salvar, não é? Você pensou isso? Pensou isso?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu sabia que ela talvez se confundisse e não entendesse os detalhes; mas sabia também que ela ia entender muito bem a essência. E foi o que aconteceu.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Ela ficou pálida como um lenço, quis dizer alguma coisa, os lábios se contorceram de dor; mas, como se a tivessem cortado com um machado, caiu na cadeira.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E todo o tempo depois ela me escutou de boca aberta, olhos arregalados, tremendo de um medo terrível. O cinismo, o cinismo das minhas palavras a esmagou...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Salvar! continuei, pulando da cadeira e correndo diante dela pelo quarto, para lá e para cá. Salvar do quê? Talvez eu seja pior que você. Por que você não me jogou na cara, quando eu te passava sermões: e você, por que veio aqui? Para pregar moral?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Poder, poder era o que eu queria então, jogo eu queria, conseguir as suas lágrimas, a sua humilhação, a sua histeria; era disso que eu precisava então! Eu mesmo não aguentei, porque sou um lixo; me assustei, e o diabo sabe para que te dei, como um tolo, o endereço.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois depois, antes mesmo de chegar em casa, eu já te xingava de tudo por causa desse endereço. Eu já te odiava, porque tinha mentido para você. Porque eu só sei brincar com as palavras, sonhar na cabeça; mas na realidade, sabe do que eu preciso? Que vocês todos sumam, é disso!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu preciso de sossego. Eu, para que não me incomodem, vendo agora mesmo o mundo inteiro por um copeque. Que o mundo acabe, ou que eu fique sem tomar o meu chá? Eu digo: que o mundo acabe, contanto que eu sempre tome o meu chá. Você sabia disso, ou não?",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Pois eu sei que sou um patife, um canalha, um egoísta, um preguiçoso. Eu tremi esses três dias de medo de que você viesse.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E sabe o que me inquietava mais nesses três dias? Que eu tinha me apresentado como um herói diante de você, e agora, de repente, você ia me ver nesse roupãozinho rasgado, mendigo, nojento.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu disse há pouco que não me envergonho da minha pobreza; pois saiba que me envergonho, me envergonho mais que de tudo, tenho mais medo disso que de tudo, mais do que se eu roubasse, porque sou vaidoso como se tivessem me arrancado a pele, e só o ar já me dói.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Será que nem agora você adivinhou que eu nunca vou te perdoar por ter me encontrado nesse roupãozinho, quando eu me atirava como um cachorrinho raivoso sobre Apollon? O ressuscitador, o ex-herói, se atira como um vira-lata sarnento e desgrenhado sobre o seu lacaio, e o lacaio ri dele!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E as lágrimas de há pouco, que eu não consegui segurar diante de você, como uma mulher envergonhada, eu nunca vou te perdoar! E isto que estou te confessando agora, também nunca vou te perdoar!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Sim, você, só você vai responder por tudo isso, porque apareceu assim, porque eu sou um canalha, porque sou o mais nojento, o mais ridículo, o mais mesquinho, o mais tolo, o mais invejoso de todos os vermes da terra, que não são nada melhores que eu, mas que, o diabo sabe por quê,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "nunca ficam envergonhados;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e eu, a vida inteira, vou levar piparotes de qualquer lêndea; esse é o meu traço!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E que me importa que você não vá entender nada disso! E que me importa, que me importa você, e se você está se perdendo lá ou não? Você entende como eu agora, depois de te dizer isso, vou te odiar por você ter estado aqui e ter ouvido?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Um homem só fala assim uma vez na vida, e mesmo assim numa histeria!... O que mais você quer? Por que, depois de tudo isso, você ainda fica aí na minha frente, me torturando, e não vai embora?",
+   0.95,
+   1.2
+  ],
+  [
+   "leitor",
+   "Mas aí aconteceu de repente uma circunstância estranha.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu estava tão acostumado a pensar e a imaginar tudo como nos livros, e a figurar tudo no mundo do jeito que eu mesmo tinha composto antes nos sonhos, que nem entendi de imediato essa circunstância estranha.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E o que aconteceu foi isto: Liza, ofendida e esmagada por mim, entendeu muito mais do que eu imaginava. Ela entendeu, de tudo aquilo, o que uma mulher sempre entende primeiro, se ama sinceramente: que eu mesmo era infeliz.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "O sentimento assustado e ofendido deu lugar, no rosto dela, primeiro a um espanto doloroso. Quando eu comecei a me chamar de canalha e patife, e as minhas lágrimas correram, eu disse toda essa tirada chorando, o rosto inteiro dela se contraiu numa espécie de convulsão.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ela quis se levantar, me deter; e quando eu terminei, ela não prestou atenção aos meus gritos, por que você está aqui, por que não vai embora, mas ao fato de que devia ter sido muito pesado para mim mesmo dizer tudo aquilo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E ela era tão maltratada, coitada; ela se considerava infinitamente abaixo de mim; como é que ela ia se enfurecer, se ofender?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "De repente ela pulou da cadeira, num impulso irresistível e, toda inclinada para mim, mas ainda tímida, sem ousar sair do lugar, estendeu os braços para mim... Aí o coração também se virou em mim.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Então ela se atirou de repente para mim, envolveu o meu pescoço com os braços e começou a chorar. Eu também não aguentei, e solucei como nunca tinha me acontecido...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Não me deixam... Eu não consigo ser... bom! mal consegui dizer; depois fui até o sofá, caí nele de bruços, e por um quarto de hora solucei numa histeria de verdade. Ela se colou a mim, me abraçou, e ficou como que imóvel nesse abraço.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas o problema era que a histeria tinha de passar. E então, eu escrevo a verdade nojenta, deitado de bruços no sofá, com o rosto enfiado com força na minha almofada de couro ordinária, comecei aos poucos, de longe, sem querer, mas sem poder evitar,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "a sentir que agora ia ser constrangedor levantar a cabeça e olhar Liza direto nos olhos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Do que eu tinha vergonha? Não sei, mas tinha vergonha. Veio-me também à cabeça transtornada que os papéis agora tinham se invertido de vez, que a heroína agora era ela, e eu uma criatura tão humilhada e esmagada quanto ela tinha sido diante de mim naquela noite, quatro dias antes...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E tudo isso me veio ainda nos minutos em que eu estava deitado de bruços no sofá!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Meu Deus! será que eu, então, tive inveja dela?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Não sei; até hoje ainda não consigo decidir; e então, é claro, conseguia entender isso menos ainda que agora. Sem poder e tirania sobre alguém, eu não consigo viver... Mas... mas com raciocínios não se explica nada; portanto, não há o que raciocinar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu, porém, me venci e levantei a cabeça; algum dia era preciso levantá-la... E então, até hoje tenho certeza de que, justamente porque eu tinha vergonha de olhar para ela, se acendeu e se inflamou de repente no meu coração outro sentimento... um sentimento de domínio e de posse.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os meus olhos brilharam de paixão, e eu apertei com força as mãos dela. Como eu a odiava, e como me sentia atraído por ela naquele minuto! Um sentimento reforçava o outro. Aquilo parecia quase uma vingança!...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "No rosto dela apareceu primeiro como que uma perplexidade, como que até medo, mas só por um instante. Ela me abraçou, extasiada e ardente.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "A frase do chá é a resposta final à Parte um. Lá, ele defendia a vontade livre contra o palácio de cristal; aqui vemos o que essa vontade quer quando está sozinha: sossego, e que o mundo acabe.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E repare na inversão. Liza entende que ele é infeliz, e o abraça. É a epígrafe de Nekrássov de novo, mas com os papéis trocados: agora quem é salvo é ele. E ele não suporta ser salvo.",
+   1.0,
+   0.3
+  ],
+  [
+   "comentarista",
+   "A cena final, aqui, é contada com pudor, mas o sentido é claro: ele transforma o abraço num ato de domínio.",
+   1.0,
+   1.5
+  ]
+ ]
+}

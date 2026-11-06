@@ -1,0 +1,412 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 14,
+ "titulo": "O jantar de despedida",
+ "original": "Parte II, capítulo III",
+ "cortes": [
+  "Parte II, cap. III: o que se soube de Zvérkov depois da escola (7 frases).",
+  "Parte II, cap. III: Ferfítchkin cochicha sobre o dinheiro e os colegas saem (3 falas).",
+  "Parte II, cap. III: a desculpa gaguejada a Símonov e a pressa dele em sair (6 frases).",
+  "Parte II, cap. III: o culto do sucesso entre os colegas de escola (10 frases).",
+  "Parte II, cap. III: as botas, a roupa gasta e a mancha amarela na calça (10 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo três da Parte dois. Na casa de Símonov, o narrador encontra dois antigos colegas combinando um jantar de despedida para um terceiro, Zvérkov. Ninguém o convidou. Ele se convida.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo três.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Encontrei na casa dele mais dois colegas de escola. Discutiam, pelo visto, um assunto importante. Nenhum deles prestou quase nenhuma atenção à minha chegada, o que era até estranho, porque fazia anos que eu não os via. Evidentemente, me consideravam uma espécie de mosca, das mais comuns.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nem na escola me tratavam assim, embora lá todos me odiassem. Eu entendia, é claro, que eles deviam me desprezar agora pelo fracasso da minha carreira, e porque eu tinha decaído muito, andava malvestido, e assim por diante. Mas mesmo assim eu não esperava um desprezo desse tamanho.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "A conversa, séria e até acalorada, era sobre um jantar de despedida que esses senhores queriam dar, no dia seguinte mesmo, em sociedade, ao colega Zvérkov, oficial, que partia para uma província distante. Monsieur Zvérkov também tinha sido o tempo todo meu colega de escola.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nas classes de baixo, ele era só um menino bonitinho e brincalhão, que todos amavam. Eu, aliás, o odiava também nas classes de baixo, e justamente por ser um menino bonitinho e brincalhão.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Estudava sempre mal, e cada vez pior; mas saiu da escola com sucesso, porque tinha proteção. No último ano recebeu uma herança, duzentas almas, e como quase todos nós éramos pobres, ele até se gabava diante de nós.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Era vulgar no mais alto grau, mas, mesmo assim, um bom sujeito, até quando se gabava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu odiava o som brusco da voz dele, que nunca duvidava de si, a adoração pelos próprios gracejos, que saíam terrivelmente tolos;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "eu odiava o seu rosto bonito mas tolinho, pelo qual, aliás, eu trocaria de bom grado o meu rosto inteligente, e as maneiras desenvoltas de oficial dos anos quarenta.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Lembro que eu, sempre calado, de repente me atraquei com Zvérkov quando ele, conversando com os colegas sobre as futuras aventuras, declarou que não ia deixar sem atenção nenhuma moça da sua aldeia, que aquilo era o direito do senhor;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e que os mujiques, se ousassem protestar, ele mandava açoitar todos, e dobrava o tributo de todos aqueles canalhas barbudos. Os nossos grosseirões aplaudiram; e eu me atraquei com ele, nada por pena das moças e dos pais delas, mas simplesmente porque aplaudiam um inseto daqueles.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu venci naquela hora; mas Zvérkov, embora tolo, era alegre e atrevido, e por isso riu da coisa, e de tal jeito que, para dizer a verdade, eu não venci de todo: o riso ficou do lado dele.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: o que ele soube de Zvérkov depois da escola: as farras, a carreira, o encontro no teatro, e o começo da gordura.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Dos dois convidados de Símonov, um era Ferfítchkin, um alemão russo, baixinho, com cara de macaco, um tolo que zombava de todos, meu pior inimigo desde as classes de baixo, baixo, atrevido, fanfarrãozinho, e covarde no fundo da alma.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O outro, Trudoliúbov, era uma pessoa sem nada de notável, um rapaz militar, alto, de fisionomia fria, bastante honesto, mas que se curvava diante de todo sucesso, e só era capaz de falar de promoções.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Então, se for a sete rublos cada, começou Trudoliúbov, somos três, vinte e um rublos, dá para jantar bem. Zvérkov, é claro, não paga.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas é claro, já que somos nós que o convidamos, decidiu Símonov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Então: três, com Zvérkov quatro, vinte e um rublos, no Hôtel de Paris, amanhã às cinco horas, concluiu de vez Símonov, que tinham escolhido como organizador.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Como vinte e um? disse eu, um tanto agitado, até, pelo visto, ofendido. Se contarem comigo, não vão ser vinte e um, mas vinte e oito rublos.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Pareceu-me que oferecer-me assim, de repente e tão inesperadamente, ia ser até muito bonito, e que todos seriam vencidos de uma vez e olhariam para mim com respeito.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor também quer? observou Símonov, descontente, evitando de algum modo olhar para mim. Ele me conhecia de cor. Me deixou furioso que ele me conhecesse de cor.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por que não? Eu também sou colega, me parece, e confesso que até me ofende ter sido deixado de lado, borbulhei de novo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E onde é que íamos procurar o senhor? meteu-se grosseiramente Ferfítchkin.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor sempre se deu mal com Zvérkov, acrescentou Trudoliúbov, franzindo a testa. Mas eu já tinha agarrado a ideia, e não largava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Parece-me que ninguém tem o direito de julgar isso, respondi, com a voz tremendo, como se Deus sabe o que tivesse acontecido. Talvez eu queira justamente agora porque antes nos dávamos mal.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ora, quem é que entende o senhor... essas elevações..., sorriu Trudoliúbov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor está inscrito, decidiu Símonov, virando-se para mim. Amanhã às cinco, no Hôtel de Paris; não se engane.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: Ferfítchkin cochicha sobre o dinheiro, e os dois saem irritados, quase sem se despedir.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Hum... sim... então, amanhã. O dinheiro, o senhor vai entregar agora? É só para eu saber com certeza, murmurou Símonov, constrangido.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me inflamei, mas, me inflamando, lembrei que, desde tempos imemoriais, eu devia a Símonov quinze rublos, coisa que, aliás, eu nunca tinha esquecido, mas também nunca tinha pago.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: a desculpa gaguejada, e Símonov andando pela sala até confessar que precisa sair.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Ah, meu Deus! Por que o senhor não di-zi-a! gritei, agarrando o boné, com um ar espantosamente desenvolto, chegado Deus sabe de onde.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Então amanhã às cinco em ponto! gritou ele para mim na escada: estava contente demais por eu ir embora. E eu estava enfurecido.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas que diabo me deu para me oferecer! eu rangia os dentes, andando pela rua. E por esse canalha, esse leitão do Zvérkov! É claro que não preciso ir; é claro, que se dane: estou amarrado, por acaso? Amanhã mesmo aviso Símonov pelo correio da cidade...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas eu estava furioso justamente porque sabia com certeza que eu ia; que ia de propósito; e quanto mais sem tato, quanto mais inconveniente fosse ir, mais depressa eu ia.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E havia até um obstáculo concreto para não ir: não havia dinheiro. Eu tinha ao todo nove rublos. Mas sete deles eu precisava pagar no dia seguinte a Apollon, o meu criado, como salário do mês. Mas desse canalha, dessa minha praga, eu vou falar depois.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Aliás, eu sabia que, mesmo assim, não ia pagar, e ia sem falta.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Naquela noite tive os sonhos mais monstruosos. Não admira: a noite inteira me esmagaram as lembranças dos anos de trabalhos forçados da minha vida de escola.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Fui enfiado nessa escola por parentes distantes, de quem eu dependia, e de quem desde então não tive mais notícia; enfiado órfão, já humilhado pelas censuras deles, já pensativo, calado, olhando para tudo como um bicho.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os colegas me receberam com zombarias maldosas e impiedosas, porque eu não me parecia com nenhum deles. Mas eu não conseguia suportar as zombarias. Eu os odiei imediatamente, e me tranquei longe de todos num orgulho assustado, ferido e desmedido.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eles riam cinicamente do meu rosto, da minha figura desajeitada; e, no entanto, que caras tolas eles mesmos tinham!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele descreve como os colegas cultuavam o sucesso e a patente desde os dezesseis anos, e riam de tudo o que era justo mas humilhado.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu os odiava terrivelmente, embora talvez fosse pior do que eles. Eles me pagavam na mesma moeda, e não escondiam o nojo que tinham de mim. Mas eu já não queria o amor deles; ao contrário, eu ansiava sem parar pela humilhação deles.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Para me livrar das zombarias, comecei de propósito a estudar o melhor possível, e cheguei ao grupo dos primeiros. Isso impôs respeito. As zombarias pararam, mas ficou a hostilidade, e se estabeleceram relações frias e tensas.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "No fim, eu mesmo não aguentei: com os anos crescia a necessidade de gente, de amigos. Tentei me aproximar de alguns; mas essa aproximação sempre saía artificial, e acabava sozinha. Uma vez eu tive até um amigo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas eu já era um déspota na alma; eu queria dominar sem limites a alma dele; queria incutir nele o desprezo pelo ambiente em volta; exigi dele uma ruptura altiva e definitiva com esse ambiente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu o assustei com a minha amizade apaixonada; eu o levava às lágrimas, às convulsões; ele era uma alma ingênua, que se entregava; mas quando ele se entregou a mim por inteiro, eu imediatamente o odiei e o afastei de mim;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "como se eu só precisasse dele para conseguir uma vitória sobre ele, só para que ele se submetesse.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "E o diabo sabe por que, depois disso, eu fui me arrastar até a casa desse Símonov!",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "De manhã pulei cedo da cama, agitado, como se tudo aquilo fosse começar a acontecer agora mesmo. Eu acreditava que estava chegando, e chegaria sem falta naquele mesmo dia, uma virada radical na minha vida.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele limpa as botas escondido de Apollon, examina a roupa gasta e descobre uma enorme mancha amarela no joelho da calça.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu imaginava com desespero com que altivez e frieza me receberia esse canalha do Zvérkov; com que desprezo obtuso me olharia o tapado do Trudoliúbov; como o inseto do Ferfítchkin daria risadinhas à minha custa, para agradar Zvérkov;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "como Símonov entenderia tudo muito bem consigo mesmo, e como me desprezaria pela baixeza da minha vaidade e da minha covardia; e, principalmente, como tudo aquilo seria mesquinho, nada literário, banal.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O melhor, é claro, seria não ir de jeito nenhum. Mas isso era o mais impossível de tudo. Eu passaria a vida inteira me provocando: e então, ficou com medo, ficou com medo da realidade, ficou com medo!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "No acesso mais forte da febre covarde, eu sonhava levar a melhor, vencer, arrebatar, obrigá-los a gostar de mim, nem que fosse pela elevação das ideias e pela inteligência indiscutível. Eles abandonariam Zvérkov, ele ficaria de lado, calado e envergonhado, e eu esmagaria Zvérkov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas o mais maldoso e ofensivo para mim era que eu sabia, já naquela hora, sabia por inteiro e com certeza, que no fundo eu não precisava de nada disso; que no fundo eu nem queria esmagá-los, submetê-los, atraí-los;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "e que, por esse resultado todo, se eu o alcançasse, eu mesmo, o primeiro, não daria um tostão.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Oh, como eu rezava a Deus para que esse dia passasse logo! Numa angústia indizível, eu ia até a janela, abria o postigo e olhava a névoa turva da neve molhada que caía espessa...",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Por fim, o meu reloginho de parede, ordinário, chiou as cinco horas. Peguei o chapéu e, tentando não olhar para Apollon, que desde a manhã esperava o salário mas, por orgulho, não queria falar primeiro, escapuli pela porta,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e num cocheiro de luxo, que eu tinha alugado de propósito com o meu último meio rublo, cheguei como um senhor ao Hôtel de Paris.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Aqui aparece, pela primeira vez na história, a neve molhada do título. Ela cai justamente quando ele decide ir aonde não é querido. Uma leitura: a neve é o clima de Petersburgo, mas também o estado de espírito do narrador, úmido, pesado, sem forma.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Repare no amigo da escola. Ele quer dominar a alma do outro, e, quando o outro se entrega, o despreza. Guarde essa frase: ela é o mapa exato do que vai acontecer com Liza, no fim do livro.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E o direito do senhor, de que Zvérkov se gaba, ainda existia de fato: a servidão na Rússia só foi abolida em 1861, três anos antes do livro. As duzentas almas da herança dele são servos.",
+   1.0,
+   1.5
+  ]
+ ]
+}

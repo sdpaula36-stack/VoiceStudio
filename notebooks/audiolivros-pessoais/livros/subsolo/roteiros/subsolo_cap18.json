@@ -1,0 +1,450 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 18,
+ "titulo": "O discurso",
+ "original": "Parte II, capítulo VII",
+ "cortes": [
+  "Parte II, cap. VII: os amantes das moças da casa (12 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo sete da Parte dois. O narrador responde ao deboche de Liza com um discurso longo e terrível sobre o futuro dela. Ele sabe que está representando, e mesmo assim acerta em cheio.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo sete.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eh, chega, Liza, que livro que nada, se eu mesmo sinto nojo, como estranho. E nem como estranho. Tudo isso agora acordou na minha alma... Será, será que você mesma não sente nojo daqui? Não, pelo visto, o hábito conta muito! O diabo sabe o que o hábito pode fazer de um ser humano.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Será que você pensa a sério que nunca vai envelhecer, que vai ser bonita para sempre, e que vão te manter aqui pelos séculos dos séculos?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Você agora é jovem, bonita, boa, tem alma, tem sentimento; pois sabe que eu, assim que acordei há pouco, logo senti nojo de estar aqui com você! Só bêbado é que se vem parar aqui.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, se você estivesse em outro lugar, vivendo como vive a gente boa, eu talvez não te cortejasse: simplesmente me apaixonaria por você, ficaria feliz com um olhar seu, quanto mais com uma palavra; ficaria te esperando no portão, ficaria de joelhos diante de você;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "olharia para você como para a minha noiva, e ainda acharia uma honra.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aqui, eu sei que basta eu assobiar, e você, queira ou não, vem atrás de mim; e não sou eu que consulto a sua vontade, mas você a minha. O último dos mujiques, quando se emprega, não se escraviza por inteiro, e sabe que há um prazo. E onde está o seu prazo?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Pense só: o que é que você entrega aqui? O que escraviza? A alma, a alma, sobre a qual você não tem poder, você escraviza junto com o corpo! O seu amor, você entrega ao escárnio de qualquer bêbado! O amor! Mas é tudo, é um diamante, o tesouro de uma moça, o amor!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Para merecer esse amor, há quem esteja pronto a dar a alma, a ir para a morte. E quanto vale agora o seu amor? Você está toda comprada, inteira; e para que procurar amor, quando sem amor tudo é possível?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: ele fala dos amantes que as moças da casa podem ter, e que só zombam delas e as roubam.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "E por que, pensando bem, você perdeu a sua vida aqui? Porque te dão café e boa comida? Mas para que te alimentam? A outra, honesta, não engoliria esse pedaço, porque sabe para que a alimentam.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Você deve aqui, e vai continuar devendo até o fim dos fins, até o dia em que os fregueses começarem a ter nojo de você.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E isso vem logo, não confie na juventude. Aqui tudo voa a galope. E aí te põem na rua.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E não simplesmente te põem na rua: muito antes, começam a implicar, a censurar, a xingar, como se não fosse você que deu a ela a sua saúde, que perdeu de graça a juventude e a alma por ela, mas como se você é que a tivesse arruinado, posto na miséria, roubado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E não espere apoio: as suas colegas também vão te atacar, para agradar a ela, porque aqui todas estão na escravidão, há muito perderam a consciência e a pena.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E você vai deixar aqui tudo, tudo, sem reserva: a saúde, a juventude, a beleza, as esperanças; e aos vinte e dois anos vai parecer ter trinta e cinco, e ainda bem se não estiver doente, reze a Deus por isso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Você agora, decerto, pensa que não tem trabalho nenhum, que é só festa! Mas não há, nem nunca houve no mundo trabalho mais pesado, de mais galé. Só o coração, parece, se desfaria em lágrimas.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Você vai passar para outro lugar, depois para um terceiro, depois para mais algum, e vai chegar, enfim, à Praça do Feno. E lá já começam a bater em você à toa; essa é a gentileza de lá.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu vi uma vez lá, no Ano-Novo, uma delas, na porta. As próprias companheiras a tinham posto para fora, por zombaria, para congelar um pouco, porque ela berrava demais, e fecharam a porta atrás dela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Às nove da manhã ela já estava completamente bêbada, descabelada, seminua, toda espancada. O rosto empoado de branco, mas os olhos roxos; do nariz e dos dentes escorria sangue: algum cocheiro tinha acabado de consertá-la.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Estava sentada numa escadinha de pedra, tinha nas mãos um peixe salgado; ela berrava, lamentava alguma coisa sobre a sua sina, e batia com o peixe nos degraus da escada. E em volta da porta se juntavam cocheiros e soldados bêbados, que a provocavam.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Você não acredita que também vai ficar assim? Eu também não queria acreditar; mas como você sabe se, uns dez, oito anos atrás, essa mesma, a do peixe salgado, não chegou aqui de algum lugar fresquinha como um querubim, inocente, limpinha, sem conhecer o mal, corando a cada palavra?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez fosse como você, orgulhosa, suscetível, diferente das outras, com olhar de princesa, e sabendo ela mesma que uma felicidade inteira esperava aquele que a amasse e a quem ela amasse. Está vendo como acabou?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E se, naquele mesmo minuto, quando ela batia com o peixe nos degraus sujos, bêbada e descabelada, e se naquele minuto ela se lembrasse de todos os seus anos limpos de antes, na casa do pai, quando ainda ia à escola, e o filho do vizinho a esperava no caminho,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "jurava que ia amá-la a vida toda,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e quando os dois decidiram se amar para sempre, e se casar, assim que crescessem!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Não, Liza, sorte sua, sorte sua, se em algum lugar, num canto, num porão, como a de hoje, você morrer logo de tísica. No hospital, você diz? Está bem, levam; mas e se você ainda for útil à dona? A tísica é uma doença assim: até o último minuto a pessoa espera, e diz que está bem.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E isso convém à dona.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E quando você estiver morrendo, todos vão te largar, todos vão virar as costas; porque o que se tira de você então? Ainda vão te censurar por ocupar lugar à toa, por não morrer depressa.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Água, nem pedindo; vão te dar com xingamentos: quando é que você vai bater as botas, sua ordinária; não deixa dormir, geme, os fregueses têm nojo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "É verdade; eu mesmo ouvi essas palavras. Vão te enfiar, agonizante, no canto mais fedorento do porão: escuridão, umidade; o que você vai pensar então, deitada ali sozinha?",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Você morre, e vão te ajeitar às pressas, com mão estranha, resmungando, com impaciência; ninguém vai te abençoar, ninguém vai suspirar por você; só querem te tirar das costas o quanto antes.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Compram um caixão de tábuas, te carregam como carregaram hoje aquela coitada, e vão beber à sua memória na taverna.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Na cova, lama, lodo, neve molhada; vão fazer cerimônia para você, por acaso? Desce ela, Vaniukha; olha só, até aqui a sina dela foi de pernas para o ar, essa aí. Encurta as cordas, moleque. Assim está bom. Bom como? Olha, está de lado. Era gente também, ou não era? Bom, deixa, cobre.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E nem vão querer brigar muito por sua causa. Cobrem depressa com barro azul molhado, e vão para a taverna... E aí acaba a sua memória na terra; nos túmulos dos outros vêm os filhos, os pais, os maridos; e no seu, nem lágrima, nem suspiro, nem lembrança;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e ninguém, ninguém, nunca, no mundo inteiro, virá até você; o seu nome vai sumir da face da terra, como se você nunca tivesse existido nem nascido!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Lama e pântano; pode bater ali de noite, quando os mortos se levantam, na tampa do caixão: deixem, boa gente, que eu viva no mundo! Eu vivi e não vi a vida, a minha vida virou trapo de limpar; beberam-na numa taverna da Praça do Feno; deixem, boa gente, que eu viva no mundo mais uma vez!",
+   0.95,
+   1.2
+  ],
+  [
+   "leitor",
+   "Eu entrei tanto no patético que já se preparava em mim um espasmo na garganta, e... de repente parei, me levantei assustado e, inclinando a cabeça com medo, o coração batendo, comecei a escutar. Havia motivo para ficar perturbado.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Fazia tempo que eu pressentia que tinha revirado a alma dela e partido o seu coração; e quanto mais me certificava disso, mais queria alcançar o objetivo depressa e com toda a força. O jogo, o jogo me arrebatou; aliás, não só o jogo...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu sabia que falava de um jeito duro, artificial, até livresco; numa palavra, eu não sabia falar de outro jeito, senão como num livro. Mas isso não me perturbava; eu sabia, pressentia, que ia ser entendido, e que esse mesmo jeito livresco ainda podia ajudar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas agora, alcançado o efeito, de repente me acovardei. Não, nunca, nunca eu tinha sido testemunha de um desespero assim!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Ela estava deitada de bruços, com o rosto enfiado com força no travesseiro, abraçando-o com as duas mãos. O peito dela se rasgava. Todo o seu corpo jovem tremia, como em convulsões. Os soluços presos no peito a apertavam, a rasgavam, e de repente explodiam para fora em gritos e gemidos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Então ela se colava ainda mais ao travesseiro: não queria que ninguém ali, nem uma alma viva, soubesse do seu tormento e das suas lágrimas.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Ela mordia o travesseiro, mordeu a própria mão até sangrar, eu vi isso depois, ou, agarrando as tranças soltas, ficava imóvel no esforço, prendendo a respiração e cerrando os dentes.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu comecei a dizer alguma coisa, a pedir que se acalmasse, mas senti que não ousava; e de repente, eu mesmo, todo num calafrio, quase em pânico, me pus a me arrumar às apalpadelas para ir embora. Estava escuro; por mais que tentasse, não conseguia terminar logo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "De repente apalpei uma caixa de fósforos e um castiçal com uma vela inteira, nova. Assim que a luz iluminou o quarto, Liza saltou, sentou-se, e me olhou quase sem sentido, com o rosto contorcido e um sorriso meio louco.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me sentei ao lado dela e peguei as suas mãos; ela voltou a si, se atirou para mim, quis me abraçar, mas não ousou, e baixou a cabeça diante de mim, em silêncio.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Liza, minha amiga, eu fiz mal... me perdoe, comecei; mas ela apertou as minhas mãos nos dedos com tanta força que adivinhei que não era aquilo que eu devia dizer, e parei.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aqui está o meu endereço, Liza; venha me ver. Eu vou..., sussurrou ela, decidida, ainda sem levantar a cabeça. E agora eu vou, adeus... até logo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu me levantei, e ela também, e de repente ficou toda vermelha, estremeceu, pegou o xale que estava na cadeira e o jogou nos ombros, até o queixo. Depois disso, de novo sorriu de um jeito doentio, corou, e me olhou estranho. Doía em mim; eu tinha pressa de ir embora, de sumir.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Espere, disse ela de repente, já no vestíbulo, junto à porta, me segurando pelo capote; pôs a vela às pressas e saiu correndo. Voltou um minuto depois, com um olhar que parecia pedir perdão por alguma coisa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Já não era aquele rosto, aquele olhar de antes, sombrio, desconfiado e teimoso. O olhar agora era suplicante, macio, e ao mesmo tempo confiante, carinhoso, tímido. Assim olham as crianças para aqueles que amam muito, e a quem pedem alguma coisa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os olhos dela eram castanho-claros, olhos lindos, vivos, que sabiam refletir tanto o amor quanto o ódio sombrio.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Sem me explicar nada, como se eu, como um ser superior, tivesse de saber tudo sem explicação, ela me estendeu um papelzinho. O rosto inteiro dela se iluminou naquele instante, com o triunfo mais ingênuo, quase infantil.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu desdobrei. Era uma carta para ela, de algum estudante de medicina ou coisa assim: uma declaração de amor muito empolada, floreada, mas extremamente respeitosa.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Não lembro agora as expressões, mas lembro muito bem que, através do estilo elevado, transparecia um sentimento verdadeiro, que não se falsifica.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Quando terminei de ler, encontrei sobre mim o olhar dela, ardente, curioso e de uma impaciência infantil.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Em poucas palavras, às pressas, mas como que alegre e orgulhosa, ela me explicou que tinha ido a um baile, numa casa de família, de gente muito, muito boa, onde ainda não sabiam de nada, nada mesmo;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "porque ela ali ainda era nova, e só por enquanto... e ainda não tinha decidido ficar, e ia embora sem falta, assim que pagasse a dívida.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E lá estava esse estudante, dançou a noite toda, conversou com ela, e descobriu-se que ainda em Riga, ainda criança, a conhecia, brincavam juntos, só que muito tempo atrás;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "e conhecia os pais dela, mas disso ele não sabia nada, nada, nada, e nem desconfiava! E então, no dia seguinte ao baile, mandou essa carta... e... bom, é isso.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Ela baixou, um pouco envergonhada, os olhos brilhantes, quando terminou de contar.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Coitadinha, ela guardava a carta desse estudante como uma joia, e correu buscar essa sua única joia, sem querer que eu fosse embora sem saber que também ela era amada com honestidade e sinceridade, que também com ela falavam com respeito.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Com certeza, essa carta estava destinada a ficar numa caixinha, sem consequências.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas tanto faz; tenho certeza de que ela a guardaria a vida toda como uma joia, como o seu orgulho e a sua justificativa;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "e agora, num minuto assim, ela se lembrou e trouxe a carta para se orgulhar ingenuamente diante de mim, para se restabelecer aos meus olhos, para que eu também visse, para que eu também elogiasse.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu não disse nada, apertei a mão dela e saí. Eu queria tanto ir embora... Fiz o caminho todo a pé, embora a neve molhada ainda caísse em flocos. Eu estava exausto, esmagado, perplexo. Mas a verdade já brilhava por trás da perplexidade. A verdade nojenta!",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Algumas leituras. O discurso funciona porque é verdade, e ao mesmo tempo é mentira: os fatos que ele descreve existiam, mas ele os usa como arma. Lembre que, no capítulo anterior, ele confessou nunca ter visto a cova cheia de água, e ter mentido muito sobre a morta da Praça do Feno.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E, de novo, a epígrafe de Nekrássov. No poema, a mulher salva chora de vergonha; aqui Liza chora, e o salvador foge assustado. Dostoiévski pega o tema mais nobre da literatura social dos anos 1840 e mostra o que há por baixo dele.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "A carta do estudante é o contrário do discurso dele: uma linguagem empolada, mas com sentimento verdadeiro. E Liza a mostra para provar que alguém a respeita. Ele não diz nada. A verdade nojenta, que ele vai nomear, fica para o próximo capítulo.",
+   1.0,
+   1.5
+  ]
+ ]
+}

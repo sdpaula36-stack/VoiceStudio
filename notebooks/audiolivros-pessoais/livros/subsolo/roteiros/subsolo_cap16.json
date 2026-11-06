@@ -1,0 +1,358 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 16,
+ "titulo": "A corrida na neve",
+ "original": "Parte II, capítulo V",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo cinco da Parte dois. A corrida de trenó atrás dos colegas, que foram a um bordel. É um capítulo curto, e vai sem cortes. No fim, aparece Liza.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo cinco.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Então é isso, então é isso, enfim, o choque com a realidade, eu murmurava, descendo a escada a toda. Isso, pelo visto, já não é o papa deixando Roma e indo para o Brasil; isso, pelo visto, já não é o baile no lago de Como!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Você é um canalha, passou-me pela cabeça, se ri disso agora. Que seja! gritei, respondendo a mim mesmo. Agora já está tudo perdido!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Deles já não havia nem sinal; mas tanto fazia: eu sabia para onde tinham ido.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Na porta estava um cocheiro solitário, de aluguel noturno, de capote grosseiro, todo coberto pela neve molhada, que ainda caía, e parecia até quente. Estava abafado e úmido.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "O cavalinho dele, pequeno, peludo e malhado, também estava todo coberto de neve, e tossia; disso eu me lembro muito bem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me atirei no trenozinho de casca; mas, no instante em que levantei a perna para sentar, a lembrança de Símonov me dando os seis rublos me derrubou, e eu desabei no trenó como um saco.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Não! É preciso fazer muito para resgatar tudo isso! gritei. Mas eu resgato, ou morro aqui mesmo esta noite. Vamos!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Partimos. Um turbilhão inteiro girava na minha cabeça.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Implorar de joelhos a minha amizade, isso eles não vão fazer. Isso é uma miragem, uma miragem vulgar, repugnante, romântica e fantástica; o mesmo baile no lago de Como. E por isso eu tenho de dar uma bofetada em Zvérkov! Tenho a obrigação.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Então, está decidido; voo agora para lhe dar uma bofetada.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Toca! O cocheiro sacudiu as rédeas.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Assim que entrar, eu dou. Será preciso dizer umas palavras antes da bofetada, como prefácio? Não! Simplesmente entro e dou. Eles vão estar todos sentados na sala, e ele no sofá com Olímpia. Maldita Olímpia! Uma vez ela riu da minha cara e me recusou.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu arrasto Olímpia pelos cabelos, e Zvérkov pelas orelhas! Não, melhor por uma orelha só, e por essa orelha eu o levo pela sala inteira. Eles talvez comecem todos a me bater e me ponham para fora. Isso é até certo. Que seja!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mesmo assim, fui eu quem deu a bofetada primeiro: a iniciativa é minha; e, pelas leis da honra, isso é tudo. Ele já está marcado, e nenhuma surra vai lavar a bofetada, só um duelo. Ele vai ter de se bater.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E que eles me batam agora. Que batam, os sem nobreza! Trudoliúbov é que vai bater mais: ele é tão forte; Ferfítchkin vai se agarrar de lado, e com certeza nos cabelos. Mas que seja, que seja! Foi para isso que eu vim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aquelas cabeças de carneiro vão ser obrigadas, enfim, a entender o que há de trágico em tudo isso! Quando eles estiverem me arrastando para a porta, eu grito que, no fundo, eles não valem o meu dedo mindinho.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Toca, cocheiro, toca! gritei para ele. Ele até estremeceu e agitou o chicote. Eu tinha gritado de um jeito selvagem demais.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Ao amanhecer, nós nos batemos; isso já está decidido. Com o departamento, acabou. Ferfítchkin disse há pouco, em vez de departamento, lepartamento. Mas onde arranjar pistolas? Bobagem! Peço um adiantamento do salário e compro. E a pólvora, e as balas? Isso é com o padrinho.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E como dar conta de tudo isso até o amanhecer? E onde arranjo um padrinho? Eu não tenho conhecidos... Bobagem! gritei, rodopiando ainda mais. Bobagem!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O primeiro que eu encontrar na rua e a quem me dirigir é obrigado a ser meu padrinho, exatamente como é obrigado a tirar da água um afogado. Os casos mais excêntricos devem ser admitidos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mesmo que eu pedisse amanhã ao próprio diretor para ser meu padrinho, também ele deveria concordar, por puro sentimento cavalheiresco, e guardar segredo! Anton Antônytch...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "A verdade é que, naquele mesmo minuto, eu via com mais clareza e mais nitidez do que qualquer outra pessoa no mundo todo o absurdo mais ignóbil das minhas suposições, e o outro lado da medalha, mas...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Toca, cocheiro, toca, malandro, toca! Eh, patrão! disse aquela força da terra.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "De repente, um frio me percorreu.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E não seria melhor... não seria melhor... ir agora mesmo para casa? Oh, meu Deus! Por que, por que eu me ofereci ontem para esse jantar! Mas não, é impossível! E o passeio de três horas da mesa até a estufa?",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Não, eles, eles e mais ninguém, têm de me pagar por esse passeio! Eles têm de lavar essa desonra!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Toca! E se me entregarem à polícia? Não vão ousar! Vão ter medo do escândalo. E se Zvérkov, por desprezo, recusar o duelo? Isso é até certo; mas então eu vou lhes provar...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu corro então para a estação de posta, amanhã, quando ele estiver partindo, agarro-o pela perna, arranco-lhe o capote quando ele estiver subindo na carruagem. Cravo os dentes na mão dele, eu o mordo. Vejam todos até onde se pode levar um homem desesperado!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que ele me bata na cabeça, e todos os outros por trás. Eu grito para o público inteiro: vejam, aí vai um cachorrinho que parte para seduzir as circassianas com o meu cuspe na cara!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "É claro que, depois disso, tudo está acabado! O departamento sumiu da face da terra. Vão me prender, vão me julgar, vão me expulsar do serviço, vão me pôr na prisão, me mandar para a Sibéria, para o degredo. Não importa!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Daqui a quinze anos, eu me arrasto atrás dele, em farrapos, mendigo, quando me soltarem da prisão. Eu o encontro em alguma cidade de província. Ele vai estar casado e feliz. Vai ter uma filha já crescida...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu digo: olhe, monstro, olhe as minhas faces encovadas e os meus farrapos! Eu perdi tudo, a carreira, a felicidade, a arte, a ciência, a mulher amada, e tudo por sua causa. Aqui estão as pistolas. Eu vim descarregar a minha pistola e... e o perdoo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Então eu atiro para o alto, e de mim nunca mais se ouve falar...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu até comecei a chorar, embora soubesse com toda a exatidão, naquele mesmo instante, que tudo aquilo saía de Sílvio e do Baile de máscaras de Liérmontov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E de repente me deu uma vergonha terrível, tanta vergonha que fiz parar o cavalo, desci do trenó e fiquei de pé na neve, no meio da rua. O cocheiro me olhava espantado, suspirando.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Que fazer? Ir até lá não dava: saía uma bobagem; e largar o assunto também não dava, porque então ia sair... Senhor! Como é que se pode largar isso! E depois de tais ofensas!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não! exclamei, me atirando de novo no trenó. Isso está predestinado, é o destino! Toca, toca, para lá! E, na impaciência, dei um soco no pescoço do cocheiro.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas o que é isso, por que está batendo? gritou o homenzinho, chicoteando, porém, o pangaré, de modo que ele começou a dar coices com as patas de trás.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "A neve molhada caía em flocos; eu me descobri, não estava ligando para ela. Esqueci todo o resto, porque tinha decidido de vez pela bofetada, e sentia com horror que aquilo ia acontecer sem falta agora, já, e que nenhuma força ia conseguir parar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os lampiões desertos piscavam sombrios na névoa de neve, como tochas num enterro. A neve se enfiou debaixo do meu capote, debaixo da sobrecasaca, debaixo da gravata, e ali derretia; eu não me cobria: afinal, mesmo sem isso, tudo já estava perdido!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Por fim chegamos. Eu saltei quase sem consciência, subi correndo os degraus e comecei a bater na porta com as mãos e com os pés. Principalmente as pernas, nos joelhos, estavam terrivelmente fracas. Abriram depressa, como se soubessem da minha chegada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "De fato, Símonov tinha avisado que talvez viesse mais um; e ali era preciso avisar, e em geral tomar precauções. Era uma daquelas lojas de modas de então, que há muito tempo a polícia acabou. De dia, era mesmo uma loja; e de noite, quem tinha recomendação podia vir fazer visita.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Atravessei a passos rápidos a loja escura até a sala que eu conhecia, onde ardia uma vela só, e parei sem entender: não havia ninguém. Onde estão eles? perguntei a alguém. Mas eles, é claro, já tinham ido embora...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Diante de mim estava uma figura, com um sorriso tolo: a própria dona, que me conhecia um pouco. Um minuto depois a porta se abriu, e entrou outra figura.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Sem prestar atenção em nada, eu andava pela sala e, parece, falava sozinho. Era como se eu tivesse sido salvo da morte, e pressentia isso com alegria, com todo o meu ser: afinal, eu teria dado a bofetada, sem falta, sem falta teria dado a bofetada! Mas agora eles não estão, e...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Tudo sumiu, tudo mudou!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu olhava em volta. Ainda não conseguia me dar conta. Maquinalmente, olhei para a moça que tinha entrado: passou diante de mim um rosto fresco, jovem, um pouco pálido, com sobrancelhas escuras e retas, com um olhar sério e como que um pouco surpreso.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Aquilo me agradou na hora; eu a odiaria, se ela sorrisse.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Comecei a olhar com mais atenção, e como que com esforço: os pensamentos ainda não tinham se juntado todos. Havia algo de simples e bom naquele rosto, mas de um jeito estranhamente sério. Tenho certeza de que ela perdia com isso ali, e que nenhum daqueles tolos a notou.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aliás, não se podia chamá-la de beldade, embora fosse alta, forte, bem-feita de corpo. Vestida com extrema simplicidade. Algo de sórdido me mordeu; fui direto até ela...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Por acaso me olhei no espelho. O meu rosto transtornado me pareceu repugnante ao extremo: pálido, maldoso, vil, com os cabelos desgrenhados. Que seja, isso me alegra, pensei; me alegra justamente parecer repugnante para ela; isso me dá prazer...",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "As referências que ele mesmo confessa. Sílvio é o herói do conto O tiro, de Púchkin, de 1831: um homem que espera anos para se vingar de quem o ofendeu, e no fim desiste do tiro. O Baile de máscaras é um drama de Liérmontov, de 1835, de ciúme e vingança.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Ou seja: até a vingança dele é emprestada da literatura. A Parte um dizia isso em teoria; aqui ele chora com uma cena roubada de Púchkin, e sabe que é roubada enquanto chora.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E a neve molhada volta, agora como tochas de enterro. Repare na frase final: ele fica contente de parecer repugnante a ela. É o mesmo desejo da escola: não ser amado, mas dominar.",
+   1.0,
+   1.5
+  ]
+ ]
+}

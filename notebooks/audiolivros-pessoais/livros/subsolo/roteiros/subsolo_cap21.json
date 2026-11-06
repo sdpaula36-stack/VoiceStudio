@@ -1,0 +1,382 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 21,
+ "titulo": "A nota de cinco rublos",
+ "original": "Parte II, capítulo X",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo dez, o último. Um quarto de hora depois. Vai sem cortes, até a nota final, que não é do narrador, mas do autor.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo dez.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Um quarto de hora depois eu corria para lá e para cá pelo quarto, numa impaciência furiosa, a cada minuto ia até o biombo e espiava Liza pela frestinha. Ela estava sentada no chão, com a cabeça inclinada sobre a cama, e devia estar chorando. Mas não ia embora, e era isso que me irritava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Dessa vez ela já sabia tudo. Eu a tinha ofendido definitivamente, mas... não há o que contar. Ela adivinhou que o ímpeto da minha paixão tinha sido justamente uma vingança, uma nova humilhação para ela;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e que ao meu ódio de antes, quase sem objeto, se somava agora um ódio pessoal, invejoso, contra ela... Aliás, não afirmo que ela tenha entendido tudo isso com clareza; mas, em compensação, entendeu plenamente que eu sou um homem repugnante e, principalmente, incapaz de amá-la.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu sei, vão me dizer que isso é inverossímil: é inverossímil ser tão mau, tão tolo quanto eu; talvez acrescentem que era inverossímil não me apaixonar por ela, ou pelo menos não dar valor a esse amor. Por que inverossímil?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Em primeiro lugar, eu já não conseguia amar, porque, repito, amar, para mim, queria dizer tiranizar e ser moralmente superior. Eu, a vida inteira, não conseguia nem imaginar outro amor;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e cheguei a tal ponto que às vezes penso agora que o amor consiste justamente no direito, dado voluntariamente pelo ser amado, de tiranizá-lo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mesmo nos meus sonhos de subsolo, eu não imaginava o amor senão como uma luta; começava sempre pelo ódio e terminava pela submissão moral; e depois não conseguia nem imaginar o que fazer com o ser submetido.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E o que há de inverossímil nisso, quando eu já tinha conseguido me corromper moralmente a tal ponto, tinha me desacostumado tanto da vida viva, que há pouco inventei de censurar e envergonhar Liza por ter vindo ouvir palavras de pena;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e nem adivinhei que ela não tinha vindo para ouvir palavras de pena, mas para me amar; porque, para a mulher, é no amor que está toda a ressurreição, toda a salvação de qualquer perdição, e todo o renascimento, e de outro modo isso nem pode se manifestar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Aliás, eu não a odiava tanto assim, quando corria pelo quarto e espiava pela fresta atrás do biombo. Era só insuportavelmente pesado para mim que ela estivesse ali. Eu queria que ela sumisse. Eu desejava sossego, desejava ficar sozinho no subsolo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "A vida viva, por falta de costume, me esmagou tanto que até respirar ficou difícil.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas passaram mais alguns minutos, e ela ainda não se levantava, como se estivesse desacordada. Eu tive a falta de vergonha de bater de leve no biombo, para lembrá-la...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Ela de repente estremeceu, pulou do lugar e se atirou a procurar o lenço, o chapéu, o casaco, como se fugisse de mim para algum lugar...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Dois minutos depois, ela saiu devagar de trás do biombo e me olhou pesadamente. Eu sorri com raiva, aliás à força, por decoro, e desviei o rosto do seu olhar.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Adeus, disse ela, indo para a porta.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "De repente corri até ela, peguei a sua mão, abri, pus nela... e depois fechei de novo. Em seguida me virei imediatamente e pulei depressa para o outro canto, para pelo menos não ver...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu quis mentir agora mesmo: escrever que fiz aquilo sem querer, fora de mim, perdido, por tolice. Mas não quero mentir, e por isso digo diretamente que abri a mão dela e pus nela... por raiva.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Me veio a ideia de fazer isso quando eu corria para lá e para cá pelo quarto, e ela estava sentada atrás do biombo. Mas isto eu posso dizer com certeza: eu fiz essa crueldade, embora de propósito, não com o coração, mas com a minha cabeça ruim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Essa crueldade era tão postiça, tão cerebral, tão inventada de propósito, tão livresca, que eu mesmo não aguentei nem um minuto: primeiro pulei para o canto, para não ver, e depois, com vergonha e desespero, corri atrás de Liza. Abri a porta do vestíbulo e fiquei escutando.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Liza! Liza! gritei para a escada, mas sem coragem, a meia voz... Não houve resposta; pareceu-me ouvir os passos dela nos degraus de baixo. Liza! gritei mais alto. Nenhuma resposta.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas no mesmo minuto ouvi lá embaixo como a porta de vidro da rua, emperrada, se abriu pesadamente, rangendo, e bateu com força. O estrondo subiu pela escada.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Ela tinha ido embora. Voltei para o quarto, pensativo. Era terrivelmente pesado para mim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Parei junto à mesa, perto da cadeira onde ela tinha estado sentada, e fiquei olhando sem sentido para a frente. Passou um minuto; de repente eu estremeci inteiro: bem na minha frente, na mesa, eu vi...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Numa palavra, eu vi a nota azul de cinco rublos amassada, a mesma que um minuto antes eu tinha fechado na mão dela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Era aquela nota; não podia ser outra; não havia outra na casa. Ela, então, tinha conseguido jogá-la da mão na mesa no minuto em que eu pulei para o outro canto.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "E daí? Eu podia esperar que ela fizesse isso. Podia esperar? Não. Eu era tão egoísta, respeitava tão pouco as pessoas de verdade, que nem conseguia imaginar que ela também fosse fazer isso. Isso eu não suportei.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Um instante depois, como um louco, me atirei a me vestir, joguei em cima de mim o que consegui na pressa, e saí correndo atrás dela, a toda. Ela ainda não tinha conseguido andar nem duzentos passos quando eu saí correndo para a rua.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Estava silencioso; a neve caía em quantidade, quase na vertical, estendendo um travesseiro sobre a calçada e sobre a rua deserta. Não havia nenhum passante, não se ouvia nenhum som. Os lampiões tremeluziam, tristes e inúteis. Corri uns duzentos passos até o cruzamento e parei.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Para onde ela foi? E por que eu corro atrás dela? Por quê? Para cair diante dela, soluçar de arrependimento, beijar os seus pés, implorar perdão! Eu queria isso; o meu peito inteiro se rasgava em pedaços, e nunca, nunca vou lembrar com indiferença desse minuto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas para quê? pensei. Será que eu não vou odiá-la, talvez amanhã mesmo, justamente por ter beijado os seus pés hoje? Será que eu vou lhe dar felicidade? Será que eu não descobri hoje de novo, pela centésima vez, o meu valor? Será que eu não vou torturá-la!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu estava de pé na neve, olhando a névoa turva, e pensava nisso.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E não seria melhor, não seria melhor, eu fantasiava já em casa, depois, abafando com fantasias a dor viva do coração, não seria melhor se ela levasse agora consigo, para sempre, a ofensa?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "A ofensa: mas isso é purificação; é a consciência mais cáustica e dolorosa! Amanhã mesmo eu sujaria a alma dela comigo, e cansaria o seu coração. Mas a ofensa nunca vai morrer nela agora; e por mais nojenta que seja a lama que a espera, a ofensa vai elevá-la e purificá-la... pelo ódio...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Hum... talvez também pelo perdão... Mas, aliás, isso tudo vai tornar as coisas mais leves para ela?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E, de fato: eu agora, por minha conta, faço uma pergunta ociosa: o que é melhor, uma felicidade barata, ou sofrimentos elevados? Vamos, o que é melhor?",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Era o que me aparecia, quando eu estava sentado naquela noite em casa, mal vivo de dor na alma. Nunca eu tinha suportado tanto sofrimento e arrependimento; mas podia haver alguma dúvida, quando eu saí correndo do apartamento, de que eu não ia voltar para casa no meio do caminho?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nunca mais encontrei Liza, nem ouvi falar dela. Acrescento também que fiquei muito tempo satisfeito com a frase sobre a utilidade da ofensa e do ódio, apesar de eu mesmo quase ter adoecido de angústia.",
+   0.95,
+   1.2
+  ],
+  [
+   "leitor",
+   "Até agora, depois de tantos anos, tudo isso me volta à memória de um jeito ruim demais. Muita coisa me volta agora de um jeito ruim, mas... não seria melhor terminar aqui as Memórias? Parece-me que cometi um erro ao começar a escrevê-las.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pelo menos, tive vergonha todo o tempo em que escrevia esta novela: portanto, isto já não é literatura, mas castigo corretivo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Porque contar, por exemplo, longas novelas sobre como eu desperdicei a minha vida pela corrupção moral num canto, pela falta de ambiente, pelo desacostume do que é vivo e pela raiva vaidosa no subsolo, juro por Deus que não é interessante;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "num romance é preciso um herói, e aqui foram juntados de propósito todos os traços de um anti-herói; e, principalmente, tudo isso vai produzir uma impressão desagradabilíssima, porque todos nós nos desacostumamos da vida, todos mancamos, cada um mais ou menos.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Nós nos desacostumamos tanto que às vezes sentimos uma espécie de nojo da verdadeira vida viva, e por isso não suportamos que nos lembrem dela.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Nós chegamos a tal ponto que consideramos a verdadeira vida viva quase um trabalho, quase uma repartição, e todos concordamos, cá conosco, que pelo livro é melhor.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E por que nos agitamos às vezes, por que fazemos caprichos, o que pedimos? Nós mesmos não sabemos. Para nós mesmos vai ser pior, se atenderem os nossos pedidos caprichosos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vamos, experimentem, deem-nos, por exemplo, mais independência, desamarrem as mãos de qualquer um de nós, ampliem o círculo de atividade, afrouxem a tutela, e nós... mas eu garanto: nós imediatamente vamos pedir para voltar à tutela.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Sei que vocês talvez fiquem bravos comigo por isso, gritem, batam os pés: fale de si mesmo, das suas misérias no subsolo, e não ouse dizer todos nós.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Com licença, senhores; não estou me justificando com esse todos nós. No que me diz respeito, eu só levei ao extremo, na minha vida, aquilo que vocês não ousavam levar nem até a metade; e ainda tomavam a sua covardia por bom senso, e se consolavam com isso, enganando a si mesmos.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "De modo que eu, talvez, saia ainda mais vivo que vocês.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas olhem com atenção! Nós nem sabemos onde vive agora o que é vivo, e o que ele é, como se chama.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Deixem-nos sozinhos, sem livro, e nós imediatamente nos enredamos, nos perdemos; não vamos saber a que nos juntar, a que nos agarrar; o que amar e o que odiar, o que respeitar e o que desprezar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nós até nos cansamos de ser homens, homens com corpo e sangue de verdade, próprios; temos vergonha disso, achamos uma desonra, e tentamos ser uns homens-gerais que nunca existiram.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nós somos natimortos, e já faz tempo que nascemos não de pais vivos, e isso nos agrada cada vez mais. Estamos tomando gosto. Logo vamos inventar um jeito de nascer de uma ideia. Mas chega; não quero mais escrever do subsolo...",
+   0.95,
+   1.5
+  ],
+  [
+   "leitor",
+   "Aliás, aqui ainda não terminam as memórias deste paradoxalista. Ele não aguentou, e continuou adiante. Mas a nós também nos parece que aqui se pode parar.",
+   0.95,
+   2.0
+  ],
+  [
+   "comentarista",
+   "A nota de cinco rublos na mão é o gesto mais cruel do livro: ele trata Liza como trataria uma prostituta qualquer, justamente quando ela veio como pessoa. E Liza devolve a nota. É ela quem fica com a dignidade.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Felicidade barata ou sofrimentos elevados: essa pergunta atravessa toda a obra de Dostoiévski. Ela volta em Crime e Castigo, com Sônia, outra mulher que salva pelo amor, e em Os Irmãos Karamázov.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Repare também na expressão vida viva, que aparece várias vezes no fim. É o oposto do subsolo, do livro e da ideia. Ele sabe o nome do remédio, e não consegue tomá-lo.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E a última nota, a do editor, devolve a palavra ao autor que tinha aparecido no começo da Parte um, explicando que o narrador é imaginário. O livro se fecha em moldura: o homem do subsolo continua escrevendo, mas nós paramos de ouvir.",
+   1.0,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Aqui termina Memórias do Subsolo, de Fiódor Dostoiévski, em tradução nossa do russo. Obrigada por ouvir.",
+   1.0,
+   2.0
+  ]
+ ]
+}

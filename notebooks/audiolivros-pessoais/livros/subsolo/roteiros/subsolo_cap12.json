@@ -1,0 +1,470 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 12,
+ "titulo": "O oficial da Niévski",
+ "original": "Parte II, capítulo I",
+ "cortes": [
+  "Parte II, cap. I: os colegas de rosto bexiguento e uniforme surrado (6 frases).",
+  "Parte II, cap. I: a digressão sobre o romântico russo (2 parágrafos).",
+  "Parte II, cap. I: as luvas e a gola do capote (8 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte dois: A propósito da neve molhada. Capítulo um.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "A Parte um foi um monólogo de ideias. A Parte dois é uma história. O narrador volta uns dezesseis anos no tempo, para os anos 1840, quando tinha vinte e quatro anos.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Ela abre com versos de Nekrássov, de 1845. No poema, um homem tira uma mulher perdida da escuridão com a sua palavra ardente, e ela chora de vergonha. Guarde esse poema: ele vai importar. O próprio narrador corta a citação no meio, com um e assim por diante.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Parte dois. A propósito da neve molhada.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Quando da treva do engano, com a palavra ardente da convicção, eu tirei a tua alma caída, e tu, cheia de funda angústia, amaldiçoaste, torcendo as mãos, o vício que te enredava;",
+   0.9,
+   0.5
+  ],
+  [
+   "leitor",
+   "quando, castigando a consciência esquecida com a lembrança, tu me contaste a história de tudo o que houve antes de mim, e de repente, cobrindo o rosto com as mãos, cheia de vergonha e de horror, te desfizeste em lágrimas, revoltada, abalada...",
+   0.9,
+   0.5
+  ],
+  [
+   "leitor",
+   "E assim por diante, e assim por diante, e assim por diante. Da poesia de Nekrássov.",
+   0.9,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo um.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Naquele tempo eu tinha só vinte e quatro anos. A minha vida já era então sombria, desordenada e solitária até a selvageria. Eu não me dava com ninguém, evitava até falar, e me enfiava cada vez mais no meu canto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "No serviço, na repartição, eu procurava até não olhar para ninguém, e percebia muito bem que os meus colegas não só me achavam um excêntrico, como, parecia-me também isso, olhavam para mim com uma espécie de nojo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Hoje está perfeitamente claro para mim que eu mesmo, por causa da minha vaidade sem limites, e portanto da minha exigência comigo mesmo, olhava para mim muitas vezes com uma insatisfação furiosa, que chegava ao nojo, e por isso atribuía em pensamento o meu olhar a todo mundo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu, por exemplo, odiava o meu rosto, achava-o repugnante, e até suspeitava que havia nele uma expressão baixa; por isso, cada vez que chegava ao serviço, me esforçava, com sofrimento, para parecer o mais independente possível, e para expressar com o rosto o máximo de nobreza.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que seja um rosto feio, eu pensava, mas que seja nobre, expressivo e, principalmente, extremamente inteligente. Mas eu sabia, com certeza e com sofrimento, que nunca ia expressar com o meu rosto todas essas perfeições. E, o mais terrível, eu o achava positivamente tolo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele descreve os colegas, um de rosto bexiguento e outro de uniforme surrado, que não se envergonham de nada.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Todos os nossos funcionários, é claro, eu odiava, do primeiro ao último, e desprezava todos, e ao mesmo tempo parecia que tinha medo deles. Acontecia de eu, de repente, até colocá-los acima de mim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, desprezando ou colocando acima, eu baixava os olhos diante de quase qualquer um que encontrava. Fazia até experiências: será que aguento o olhar deste ou daquele sobre mim? E sempre era eu o primeiro a baixar. Isso me torturava até a fúria.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu tinha um medo doentio de ser ridículo, e por isso adorava servilmente a rotina em tudo o que dizia respeito à aparência. Mas como eu ia aguentar? Eu era doentiamente desenvolvido, como deve ser um homem do nosso tempo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E eles eram todos obtusos e parecidos uns com os outros, como carneiros num rebanho.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez só a mim, em toda a repartição, parecesse sempre que eu era covarde e escravo; e parecia justamente porque eu era desenvolvido. Mas não só parecia: era assim mesmo. Eu era covarde e escravo. Digo isso sem nenhum constrangimento.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Todo homem decente do nosso tempo é, e deve ser, covarde e escravo. Esse é o seu estado normal. Estou profundamente convencido disso.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Torturava-me então mais uma circunstância: justamente a de que ninguém se parecia comigo, e eu não me parecia com ninguém. Eu sou um só, e eles são todos, eu pensava, e ficava pensativo.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Por aí se vê que eu ainda era um menino.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "(Corte: uma longa digressão sobre o romântico russo, que, ao contrário do alemão e do francês, entende tudo, sonha com o belo e sublime e, ao mesmo tempo, nunca perde de vista o seu empreguinho e a sua pensãozinha.)",
+   1.0,
+   0.8
+  ],
+  [
+   "leitor",
+   "Em casa, eu, antes de tudo, lia. Queria abafar com sensações de fora tudo o que fervia sem parar dentro de mim. E, das sensações de fora, a única possível para mim era a leitura. Ela ajudava muito: agitava, deliciava e torturava. Mas às vezes entediava terrivelmente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mesmo assim, eu queria me mexer, e de repente mergulhava numa devassidão escura, subterrânea, sórdida; não uma devassidão, mas uma devassidãozinha. Não havia nada à minha volta que eu pudesse respeitar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não falei tudo isso agora para me justificar... Aliás, não! menti! Eu queria justamente me justificar. É para mim mesmo, senhores, que faço essa anotaçãozinha. Não quero mentir. Dei a minha palavra.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu me entregava à devassidão sozinho, de noite, às escondidas, com medo, com sujeira, com uma vergonha que não me deixava nem nos minutos mais repugnantes. Eu já carregava, naquele tempo, o subsolo na alma.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Uma vez, passando de noite diante de uma taverninha, vi pela janela iluminada uns senhores brigando com tacos perto da mesa de bilhar, e um deles sendo jogado pela janela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Em outro momento, eu teria sentido muito nojo; mas naquela hora me deu tamanha inveja daquele senhor jogado pela janela, que até entrei na taverna, na sala de bilhar: quem sabe, pensei, eu também brigo, e me jogam pela janela também.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu não estava bêbado; mas o que querem, a angústia pode levar a uma histeria dessas! Mas não deu em nada. Descobri que nem pular pela janela eu era capaz, e saí sem brigar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Logo no primeiro passo, um oficial me pôs no meu lugar. Eu estava perto do bilhar e, sem saber, bloqueava a passagem, e ele precisava passar.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Ele me pegou pelos ombros e, em silêncio, sem aviso nem explicação, me tirou de onde eu estava e me pôs em outro lugar, e passou como se nem tivesse me notado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu perdoaria até uma surra, mas não pude de jeito nenhum perdoar que ele me tivesse mudado de lugar, e tão completamente sem me notar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O diabo sabe o que eu daria então por uma briga de verdade, mais correta, mais decente, mais, por assim dizer, literária! Fui tratado como uma mosca. O oficial era um gigante de quase dois metros, e eu sou baixo e magro.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "A briga, aliás, estava nas minhas mãos: bastava protestar, e com certeza me jogariam pela janela. Mas reconsiderei e preferi... sumir, cheio de raiva.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Não pensem que eu tive medo do oficial por covardia. Tive medo por uma vaidade sem limites. Não temi o tamanho dele, nem apanhar e ser jogado pela janela; coragem física eu teria; faltou coragem moral.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Tive medo de que todos ali, do marcador de bilhar insolente até o último funcionariozinho espinhento, não me entendessem e rissem de mim quando eu protestasse e falasse com eles em linguagem literária.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Porque sobre o ponto de honra, entre nós, até hoje não se pode falar senão em linguagem literária. Na língua comum, não se menciona o ponto de honra.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Depois, encontrei muitas vezes esse oficial na rua, e o gravei bem. Só não sei se ele me reconhecia. Mas eu olhava para ele com raiva e ódio, e isso durou... vários anos, senhores! A minha raiva até se fortaleceu e cresceu com os anos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Descobri o sobrenome dele; uma vez o segui até em casa e, por dez copeques, soube pelo porteiro onde ele morava, em que andar, se sozinho ou com alguém, e assim por diante: tudo o que se pode saber por um porteiro.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Uma manhã, embora nunca tivesse escrito literatura, me veio a ideia de descrever esse oficial num tom de denúncia, em caricatura, numa novela. Escrevi a novela com prazer. Denunciei, até caluniei; e mandei para os Anais da Pátria.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas ainda não era moda a literatura de denúncia, e não publicaram a minha novela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por fim, decidi desafiar o meu adversário para um duelo. Compus para ele uma carta linda, atraente, implorando que me pedisse desculpas; em caso de recusa, eu insinuava com bastante firmeza o duelo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "A carta estava composta de tal modo que, se o oficial entendesse um pouquinho do belo e sublime, com certeza viria correndo me abraçar e me oferecer a sua amizade.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E como seria bom! Como íamos viver! Ele me protegeria com a sua importância; eu o enobreceria com o meu desenvolvimento, e com as minhas ideias.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Imaginem que já tinham passado dois anos desde a ofensa, e o meu desafio era o mais absurdo dos anacronismos. Mas, graças a Deus, até hoje agradeço ao Altíssimo com lágrimas, eu não mandei a carta.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "E de repente... de repente eu me vinguei do modo mais simples, mais genial! Tive uma ideia luminosa. Às vezes, nos feriados, eu ia à Avenida Niévski lá pelas quatro horas, e passeava pelo lado do sol.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quer dizer, eu não passeava nada, mas sofria tormentos sem conta, humilhações e derramamentos de bile; mas, com certeza, era disso mesmo que eu precisava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me esgueirava como uma enguia, do jeito mais feio, entre os passantes, dando passagem sem parar ora a generais, ora a oficiais da guarda e dos hussardos, ora a senhoras;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "sentia uma dor convulsa no coração e calor nas costas só de pensar na miséria da minha roupa, na miséria e na vulgaridade da minha figurinha que se esgueirava. Era a ideia de que eu era uma mosca diante de todo aquele mundo, uma mosca sórdida e inútil,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "mais inteligente que todos, mais desenvolvida que todos, mais nobre que todos, isso é evidente, mas uma mosca que cede passagem a todos sem parar, humilhada por todos e ofendida por todos.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O oficial também ia lá, mais nos feriados. Ele também se desviava diante dos generais e das pessoas importantes; mas, gente como nós, ou até um pouco melhor, ele simplesmente esmagava: ia direto contra eles, como se diante dele houvesse um espaço vazio, e em caso nenhum cedia passagem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me embriagava de raiva olhando para ele e... cheio de raiva, me desviava dele, todas as vezes.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por que é você que tem de se desviar primeiro? eu me atormentava, numa histeria furiosa, acordando às vezes às três da manhã. Por que justamente você, e não ele? Não há lei para isso, não está escrito em lugar nenhum!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que seja meio a meio, como costuma ser quando pessoas delicadas se encontram: ele cede metade, você cede metade, e vocês passam, respeitando-se um ao outro. Mas não era assim, e eu continuava me desviando, e ele nem notava.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E então me veio uma ideia espantosa. E se eu o encontrasse e... não me desviasse? Não me desviasse de propósito, mesmo que tivesse de esbarrar nele: hein, que tal?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Essa ideia ousada foi tomando conta de mim até não me dar sossego. Eu sonhava com isso sem parar, e ia mais vezes à Niévski, para imaginar com mais clareza como ia fazer quando fizesse. Eu estava em êxtase.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não empurrar, é claro, pensava eu, já ficando bonzinho de alegria; mas assim, simplesmente não me desviar, esbarrar nele, ombro com ombro, só o tanto que a decência permite: quanto ele me esbarrar, tanto eu esbarro nele.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas os preparativos levaram muito tempo. Primeiro, durante a execução, era preciso estar com uma aparência mais decente, e cuidar da roupa. Pedi um adiantamento do salário e comprei luvas pretas e um chapéu decente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: a escolha das luvas, pretas e não amarelo-limão, e a troca da gola de guaxinim do capote por uma de castor, imitando os oficiais.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "O dinheiro que faltava, uma soma considerável para mim, decidi pedir emprestado a Anton Antônytch Siétotchkin, o meu chefe de seção, um homem humilde mas sério e positivo, que nunca emprestava dinheiro a ninguém.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu sofria terrivelmente. Pedir dinheiro a Anton Antônytch me parecia monstruoso e vergonhoso. Passei duas ou três noites sem dormir. Anton Antônytch primeiro se espantou, depois franziu a testa, depois pensou e, mesmo assim, emprestou, com recibo para descontar do salário em duas semanas.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Assim, tudo ficou pronto, e comecei, aos poucos, a pôr mãos à obra. Mas confesso que, depois de muitas tentativas, comecei até a me desesperar: não nos esbarrávamos de jeito nenhum!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me preparava, decidia, parecia que agora, agora mesmo, íamos nos esbarrar; e olhava, e de novo eu tinha cedido a passagem, e ele tinha passado sem me notar. Eu até rezava, chegando perto dele, para que Deus me desse coragem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Uma vez já estava completamente decidido, mas acabei só caindo debaixo dos pés dele, porque, no último instante, a uns dez centímetros, me faltou coragem. Ele passou tranquilamente por cima de mim, e eu voei para o lado como uma bola. Naquela noite tive febre de novo, e delirei.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E de repente tudo terminou do melhor jeito possível. Na véspera, eu tinha decidido definitivamente não cumprir a minha intenção funesta, e com esse fim saí à Niévski pela última vez, só para ver como é que eu ia desistir de tudo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "De repente, a três passos do meu inimigo, decidi sem esperar, fechei os olhos, e nos esbarramos em cheio, ombro com ombro! Não cedi um centímetro, e passei por ele completamente de igual para igual!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ele nem olhou para trás, e fingiu que não tinha notado; mas só fingiu, tenho certeza disso. Até hoje tenho certeza! É claro que eu levei a pior; ele era mais forte; mas não era isso que importava.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O que importava era que eu tinha alcançado o objetivo, mantido a dignidade, não cedido um passo, e me colocado em público no mesmo nível social que ele. Voltei para casa completamente vingado de tudo. Estava em êxtase. Triunfava e cantava árias italianas.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "É claro que não vou descrever o que aconteceu comigo três dias depois; se leram o meu primeiro capítulo, O subsolo, podem adivinhar sozinhos. O oficial, depois, foi transferido para algum lugar; já faz uns catorze anos que não o vejo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "O que será dele agora, o meu pombinho? Quem estará esmagando?",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Algumas ligações. O oficial que resolve tudo pela via da chefia lembra o tenente Pirogov, do conto A Avenida Niévski, de Gógol, de 1835. E a própria Niévski, a avenida principal de Petersburgo, é o palco onde todos se olham e se medem.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "A briga com o ombro é uma versão em escala mínima do ponto de honra dos romances: um duelo sem pistolas. Repare que ela repete o capítulo três da Parte um: o rato que planeja a vingança por anos, e a executa aos pedaços.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E a novela que ele escreve e ninguém publica antecipa uma ironia: o livro que você está ouvindo é justamente a novela dele, publicada. Uma leitura possível: a vingança do homem do subsolo é ser lido.",
+   1.0,
+   1.5
+  ]
+ ]
+}

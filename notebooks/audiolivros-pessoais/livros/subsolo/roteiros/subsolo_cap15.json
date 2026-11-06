@@ -1,0 +1,546 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 15,
+ "titulo": "O passeio da mesa à estufa",
+ "original": "Parte II, capítulo IV",
+ "cortes": [
+  "Parte II, cap. IV: a espera no restaurante (5 frases).",
+  "Parte II, cap. IV: Trudoliúbov o defende e Símonov chama para a mesa (6 falas).",
+  "Parte II, cap. IV: a conquista de Zvérkov com a ajuda do hussardo Kólia (3 frases).",
+  "Parte II, cap. IV: a troca de insultos com Ferfítchkin e as repreensões (7 falas).",
+  "Parte II, cap. IV: a indignação dos colegas e o desafio a Ferfítchkin (8 falas).",
+  "Parte II, cap. IV: o riso dele quando falam de Shakespeare (3 frases).",
+  "Parte II, cap. IV: os colegas saem cantando (5 falas)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo quatro da Parte dois. O jantar. É a cena mais cômica do livro, e também a mais dolorosa. Repare como cada humilhação vem dele mesmo.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo quatro.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu já sabia, desde a véspera, que ia chegar primeiro. Mas a questão já não era chegar primeiro.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Não só não havia ninguém, como eu mal consegui encontrar a nossa sala. A mesa ainda não estava completamente posta. Que significava aquilo? Depois de muitas perguntas, arranquei dos criados que o jantar estava encomendado para as seis horas, e não para as cinco.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Até me deu vergonha de perguntar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eram só cinco e vinte e cinco. Se eles tinham mudado a hora, deviam ao menos ter avisado; para isso existe o correio da cidade; e não me expor à vergonha diante de mim mesmo e... e até diante dos criados.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: a espera, as velas trazidas tarde, os fregueses da sala ao lado e um jantar barulhento com damas lá no fundo.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Raramente passei um momento mais repugnante; tanto que, quando eles chegaram, às seis em ponto, todos juntos, eu, no primeiro instante, me alegrei com eles como com uns libertadores, e quase esqueci que tinha a obrigação de parecer ofendido.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Zvérkov entrou na frente de todos, claramente comandando. Ao me ver, ele se aprumou, veio sem pressa, curvando-se um pouco na cintura, como que se exibindo, e me estendeu a mão, carinhosamente, mas não muito, com uma cortesia cautelosa, quase de general, como se, ao dar a mão,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "se protegesse de alguma coisa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu imaginava, ao contrário, que ele, assim que entrasse, ia gargalhar com a sua gargalhada antiga, fininha e esganiçada, e que desde as primeiras palavras viriam as suas piadas sem graça.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Para essas eu tinha me preparado desde a véspera; mas não esperava de jeito nenhum aquela condescendência de cima, aquele carinho de excelência.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E se, de fato, sem nenhuma intenção de ofender, tivesse se enfiado naquela cabeça de carneiro a ideiazinha de que ele era incomensuravelmente superior a mim, e só podia me olhar com proteção? Só com essa suposição eu já comecei a sufocar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Foi com surpresa que soube do seu desejo de participar conosco, começou ele, ciciando e arrastando as palavras, coisa que antes não fazia. Nós dois andamos sem nos encontrar. O senhor foge de nós. À toa. Não somos tão terríveis quanto parece. Bem, em todo caso, prazer em re-to-mar...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor está esperando há muito tempo? perguntou Trudoliúbov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Cheguei às cinco em ponto, como me marcaram ontem, respondi alto e com uma irritação que prometia uma explosão próxima.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Você não avisou que mudaram a hora? virou-se Trudoliúbov para Símonov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não avisei. Esqueci, respondeu este, mas sem nenhum arrependimento, e, sem nem me pedir desculpas, foi cuidar dos aperitivos.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Então o senhor está aqui faz uma hora, ah, coitado! exclamou Zvérkov, zombando, porque, na cabeça dele, aquilo devia mesmo ser terrivelmente engraçado. Atrás dele, com uma vozinha baixa e sonora, de cachorrinho, desatou a rir o canalha do Ferfítchkin.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não tem graça nenhuma! gritei para Ferfítchkin, cada vez mais irritado. A culpa é dos outros, não minha. Desprezaram me avisar. Isso, isso, isso... é simplesmente absurdo.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: Trudoliúbov o defende sem jeito, e Símonov chama todos para a mesa.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Todos se sentaram; eu também. A mesa era redonda. Zvérkov sentou-se na minha frente.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "O senhor tra-a-abalha... no departamento? continuou Zvérkov a se ocupar de mim. Vendo que eu estava constrangido, ele imaginou a sério que precisava me agradar e, por assim dizer, me animar. Ele quer que eu atire uma garrafa nele, ou o quê? pensei, furioso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Na chancelaria tal, respondi seco, olhando para o prato.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E... é vantajoso para o senhor? Diga, o que o le-e-evou a deixar o serviço anterior?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O que me le-e-evou foi a vontade de deixar o serviço anterior, arrastei eu, o triplo, já quase sem me controlar. Ferfítchkin bufou. Símonov me olhou com ironia; Trudoliúbov parou de comer e ficou me examinando com curiosidade.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Zvérkov se melindrou, mas não quis notar. E-e-e, e quanto aos seus vencimentos? Que vencimentos? Quer dizer, o s-salário? Mas por que o senhor está me examinando! Aliás, ali mesmo eu disse quanto ganhava de salário. Fiquei terrivelmente vermelho.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não é muito, observou Zvérkov, solene. É, não dá para jantar em café-restaurante! acrescentou Ferfítchkin, insolente. Para mim, é até simplesmente pobre, observou Trudoliúbov, sério.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E como o senhor emagreceu, como mudou... desde aquela época, acrescentou Zvérkov, já com veneno, com uma espécie de pena atrevida, examinando a mim e à minha roupa. Ora, chega de envergonhá-lo, exclamou Ferfítchkin, dando risadinhas.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Prezado senhor, saiba que eu não me constranjo, explodi por fim, ouviu? Eu janto aqui, no café-restaurante, com o meu dinheiro, o meu, e não com o dos outros, repare nisso, monsieur Ferfítchkin.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Co-omo? E quem aqui não janta com o próprio dinheiro? O senhor está insinuando...? agarrou-se Ferfítchkin, vermelho como um camarão.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: a troca de insultos continua, e Símonov e Trudoliúbov o repreendem por estragar a harmonia.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Chega, senhores, chega! gritou Zvérkov, com toda a autoridade. Eu vou é contar como anteontem quase me casei...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E começou uma espécie de pasquim sobre como esse senhor anteontem quase se casou. De casamento, aliás, não houve uma palavra; mas na história passavam generais, coronéis e até fidalgos da corte, e Zvérkov quase à frente deles.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Todos me abandonaram, e eu fiquei sentado, esmagado e aniquilado.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Meu Deus, essa é a minha sociedade? eu pensava. E que papel de idiota eu mesmo fiz diante deles! Esses paspalhões pensam que me deram uma honra me dando lugar à mesa deles, e não entendem que sou eu, eu, que lhes dou a honra, e não eles a mim!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Emagreceu! A roupa! Oh, malditas calças! Zvérkov já tinha notado a mancha amarela no joelho... Agora mesmo, neste minuto, me levanto da mesa, pego o chapéu e vou embora sem dizer uma palavra... Por desprezo! E amanhã, nem que seja um duelo. Canalhas. Não é por sete rublos.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Vou embora agora mesmo!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "É claro que eu fiquei.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Bebi de desgosto vinho Lafite e xerez, aos copos. Sem costume, fiquei bêbado depressa, e com a bebedeira crescia o despeito. De repente me deu vontade de ofender todos eles do modo mais atrevido, e só depois ir embora. Que digam: ridículo, mas inteligente... e... e...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Numa palavra, que vão para o diabo!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: Zvérkov conta a conquista de uma dama, com a ajuda de um principezinho, o hussardo Kólia, dono de três mil almas.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "E, no entanto, esse Kólia, que tem três mil almas, não está aqui para se despedir do senhor, me meti de repente na conversa. Por um minuto todos se calaram.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor a esta hora já está bêbado, consentiu enfim Trudoliúbov em me notar, olhando de lado para mim com desprezo. Zvérkov me examinava calado, como a um inseto. Eu baixei os olhos.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Trudoliúbov ergueu a taça, e depois dele todos, menos eu. À sua saúde e boa viagem! gritou ele para Zvérkov. Aos velhos tempos, senhores, ao nosso futuro, hurra! Todos beberam e foram beijar Zvérkov. Eu não me mexia; a taça cheia estava diante de mim, intocada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E o senhor não vai beber? rugiu Trudoliúbov, perdendo a paciência. Quero fazer um discurso da minha parte, à parte... e então bebo, senhor Trudoliúbov. Que mau humor nojento! resmungou Símonov.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu me endireitei na cadeira e peguei a taça, febril, preparando-me para algo extraordinário, e sem saber ainda o que exatamente ia dizer. Silence! gritou Ferfítchkin. Lá vem inteligência! Zvérkov esperava, muito sério, entendendo do que se tratava.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Senhor tenente Zvérkov, comecei eu, saiba que eu odeio a frase feita, os fraseadores e as cinturas apertadas... Esse é o primeiro ponto, e a seguir vem o segundo. Todos se mexeram bastante.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Segundo ponto: odeio os namoricos e os namoradores. E principalmente os namoradores!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Terceiro ponto: amo a verdade, a sinceridade e a honestidade, continuei quase mecanicamente, porque eu mesmo já começava a gelar de horror, sem entender como estava falando assim...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu amo o pensamento, monsieur Zvérkov; amo a verdadeira camaradagem, de igual para igual, e não... hum... Eu amo... Mas, aliás, por que não? Eu também bebo à sua saúde, monsieur Zvérkov. Seduza as circassianas, mate os inimigos da pátria e... e... À sua saúde, monsieur Zvérkov!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Zvérkov levantou-se da cadeira, fez-me uma reverência e disse: Muito obrigado. Ele estava terrivelmente ofendido, e até empalideceu.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: os colegas se indignam, e ele desafia Ferfítchkin para um duelo, sob o riso de todos.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Agora era a hora de atirar uma garrafa em todos, pensei; peguei a garrafa e... me servi um copo cheio.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não, melhor ficar até o fim! continuei pensando. Os senhores ficariam contentes se eu fosse embora. De jeito nenhum. Vou ficar sentado e beber de propósito até o fim, em sinal de que não lhes dou a menor importância.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Vou ficar sentado e beber porque aqui é uma taberna, e eu paguei a entrada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vou ficar sentado e beber porque considero os senhores uns peões, peões inexistentes. Vou ficar sentado e beber... e cantar, se eu quiser, sim senhor, e cantar, porque tenho esse direito... de cantar... hum.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas eu não cantei. E como, como eu queria naquele minuto fazer as pazes com eles! Bateram as oito horas, por fim as nove. Eles passaram da mesa para o sofá. Zvérkov se esparramou no divã. Ele de fato ofereceu três garrafas suas. A mim, é claro, não convidou.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Todos o rodearam no sofá. Ouviam-no quase com reverência. Via-se que gostavam dele. Por quê? por quê? eu pensava comigo.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Falavam do Cáucaso, do que é a verdadeira paixão, de bons postos no serviço, da beleza extraordinária da princesa D., que nenhum deles jamais tinha visto; por fim chegaram a que Shakespeare é imortal.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu sorria com desprezo e andava do outro lado da sala, bem em frente ao sofá, ao longo da parede, da mesa até a estufa, e de volta. Com todas as forças eu queria mostrar que podia passar sem eles; e, no entanto, batia as botas de propósito, pisando nos calcanhares. Mas foi tudo em vão.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Eles nem prestavam atenção.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu tive paciência de andar assim, bem na frente deles, das oito às onze horas, sempre pelo mesmo lugar, da mesa até a estufa e da estufa de volta à mesa. Ando aqui à vontade, e ninguém pode me proibir.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Às vezes, com a dor mais funda e venenosa, cravava-se no meu coração a ideia de que passariam dez anos, vinte anos, quarenta anos, e eu ainda assim, mesmo depois de quarenta anos, ia lembrar com nojo e humilhação desses minutos, os mais sujos,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "os mais ridículos e os mais terríveis de toda a minha vida.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Humilhar-se mais sem vergonha e mais por vontade própria já era impossível; e eu entendia isso por inteiro, por inteiro, e mesmo assim continuava andando da mesa até a estufa, e de volta.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Oh, se os senhores soubessem de que sentimentos e ideias eu sou capaz, e como eu sou desenvolvido! eu pensava de vez em quando, dirigindo-me em pensamento ao sofá onde estavam os meus inimigos. Mas os meus inimigos se comportavam como se eu nem estivesse na sala.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: uma única vez eles se viram para ele, quando ele ri com desprezo de Shakespeare, e o observam em silêncio por dois minutos.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Bateram as onze. Senhores, gritou Zvérkov, levantando-se do sofá, agora todos para lá! Claro, claro! falaram os outros.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu me virei bruscamente para Zvérkov. Eu estava tão exausto, tão alquebrado, que era o caso de me degolar, mas acabar com aquilo! Eu tinha febre; os cabelos molhados de suor tinham secado colados na testa e nas têmporas.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Zvérkov! eu lhe peço perdão, disse eu, brusco e decidido. Ferfítchkin, ao senhor também, a todos, a todos, eu ofendi todos!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ahá! o duelo não é brincadeira! sibilou venenosamente Ferfítchkin. Aquilo me cortou dolorosamente o coração.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não, não é do duelo que eu tenho medo, Ferfítchkin! Estou pronto a me bater com o senhor amanhã mesmo, já depois de nos reconciliarmos. Eu até insisto nisso. O senhor atira primeiro, e eu atiro para o alto.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Está se divertindo sozinho, observou Símonov. Simplesmente pirou! respondeu Trudoliúbov. Mas deixe passar, por que se pôs no caminho!... Ora, o que o senhor quer? respondeu Zvérkov com desprezo. Estavam todos vermelhos; os olhos de todos brilhavam: tinham bebido muito.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu peço a sua amizade, Zvérkov; eu o ofendi, mas...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ofendeu? O se-nhor! A mim! Saiba, prezado senhor, que o senhor nunca, e em circunstância nenhuma, pode me ofender!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: os colegas saem cantando, rumo a uma casa de mulheres.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu fiquei ali, cuspido. Símonov ficou um minutinho para dar gorjeta aos criados. Eu me aproximei dele de repente. Símonov! Me dê seis rublos! disse eu, decidido e desesperado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ele me olhou, num espanto extraordinário, com uns olhos obtusos. Ele também estava bêbado. Então o senhor vai lá conosco? Vou! Eu não tenho dinheiro! cortou ele, sorriu com desprezo e saiu da sala.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu o agarrei pelo capote. Era um pesadelo. Símonov! Eu vi dinheiro com o senhor, por que me recusa? Por acaso eu sou um canalha? Cuidado ao me recusar: se o senhor soubesse, se soubesse para que eu peço! Disso depende tudo, todo o meu futuro, todos os meus planos!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Símonov tirou o dinheiro e quase o jogou em mim. Pegue, se o senhor é tão sem-vergonha! disse ele, sem piedade, e correu para alcançar os outros.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Fiquei um minuto sozinho. A desordem, os restos de comida, uma taça quebrada no chão, o vinho derramado, as pontas de cigarro, a embriaguez e o delírio na cabeça, uma angústia torturante no coração e, por fim, o criado, que tinha visto e ouvido tudo, e me olhava nos olhos com curiosidade.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Para lá! gritei. Ou eles todos, de joelhos, abraçando as minhas pernas, vão implorar a minha amizade, ou... ou eu dou uma bofetada em Zvérkov!",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Algumas observações. O passeio da mesa à estufa, por três horas, é uma das imagens mais famosas do livro. É o rato da Parte um em pessoa: ele quer ser visto, e faz tudo para não ser.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "O discurso também repete a Parte um: ele diz que ama a verdade e a sinceridade, e o que sai é puro ressentimento. E repare no pedido de perdão logo depois do insulto: o mesmo vai e vem entre orgulho e humilhação do bilhar, do capítulo um.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Um detalhe de época: o Hôtel de Paris era um restaurante real de Petersburgo, e o Cáucaso, para onde Zvérkov vai, era a guerra colonial da Rússia naquele tempo. Por isso o brinde: mate os inimigos da pátria e seduza as circassianas.",
+   1.0,
+   1.5
+  ]
+ ]
+}

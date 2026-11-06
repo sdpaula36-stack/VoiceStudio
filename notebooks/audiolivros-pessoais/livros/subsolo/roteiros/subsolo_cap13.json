@@ -1,0 +1,235 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 13,
+ "titulo": "Herói ou lama",
+ "original": "Parte II, capítulo II",
+ "cortes": [
+  "Parte II, cap. II: os lampejos do belo e sublime no meio da devassidão, como molho (5 frases).",
+  "Parte II, cap. II: o apartamento de Anton Antônytch, as filhas e a tia (6 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo dois da Parte dois. Depois da devassidão, o sonho; depois do sonho, a necessidade de gente. Aqui aparece Símonov, o antigo colega de escola que vai levar o narrador ao jantar dos próximos capítulos.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo dois.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas terminava a fase da minha devassidãozinha, e eu ficava terrivelmente enjoado. Vinha o arrependimento; eu o enxotava: enjoava demais. Aos poucos, porém, eu me acostumava também a isso.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Eu me acostumava a tudo; quer dizer, não me acostumava, mas de algum modo concordava, por vontade própria, em suportar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas eu tinha uma saída que conciliava tudo: salvar-me em tudo o que é belo e sublime; nos sonhos, é claro. Eu sonhava terrivelmente, sonhava três meses seguidos, enfiado no meu canto. Eu virava, de repente, um herói.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "O meu tenente de quase dois metros, naquela hora, eu não deixaria nem me fazer uma visita.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu acreditava cegamente, naquele tempo, que por algum milagre, por alguma circunstância de fora, tudo aquilo de repente se abriria, se alargaria; de repente apareceria um horizonte de atividade à minha altura, benéfica, bela e, principalmente, já toda pronta;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "qual exatamente, eu nunca soube, mas, o principal, toda pronta; e então eu sairia de repente para a luz do mundo, quase num cavalo branco e com uma coroa de louros.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Um papel secundário eu nem conseguia entender, e por isso mesmo, na realidade, ocupava muito tranquilamente o último. Ou herói, ou lama; meio-termo não havia. Foi isso que me arruinou.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Porque, na lama, eu me consolava pensando que em outros momentos era herói; e o herói encobria a lama. Um homem comum, digamos, tem vergonha de se enlamear; mas o herói é alto demais para se enlamear de todo; portanto, pode se enlamear.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele explica como os lampejos do belo e sublime vinham no meio da própria devassidão, e serviam de molho para ela.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas quanto amor, meu Deus, quanto amor eu vivia nesses meus sonhos, nessas fugas para tudo o que é belo e sublime! Um amor fantástico, que nunca se aplicava de fato a nada de humano; mas era tanto amor que depois, na prática, nem se sentia a necessidade de aplicá-lo: seria um luxo a mais.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu, por exemplo, triunfo sobre todos; todos, é claro, estão no pó, e são obrigados a reconhecer de livre vontade todas as minhas perfeições, e eu perdoo a todos. Eu me apaixono, sendo um poeta famoso e camarista da corte; recebo milhões sem conta, e imediatamente os doo ao gênero humano;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e ali mesmo me confesso diante de todo o povo das minhas vergonhas, que, é claro, não são simples vergonhas, mas contêm muito de belo e sublime, alguma coisa de Manfredo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Todos choram e me beijam; senão, que imbecis seriam eles; e eu vou descalço e faminto pregar ideias novas, e derroto os retrógrados em Austerlitz.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Depois toca uma marcha, decreta-se uma anistia, o papa concorda em se mudar de Roma para o Brasil; depois, um baile para a Itália inteira na Villa Borghese, que fica à beira do lago de Como, já que o lago de Como, para essa ocasião, foi transferido de propósito para Roma;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "depois, uma cena nos arbustos, e assim por diante. Como se vocês não soubessem!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Vocês vão dizer que é vulgar e baixo expor tudo isso agora em praça pública, depois de tantos êxtases e lágrimas que eu mesmo confessei. Por que baixo? Será que pensam que eu me envergonho de tudo isso, e que era mais tolo do que qualquer coisa da vida de vocês, senhores?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aliás, vocês têm razão: é mesmo vulgar e baixo. E o mais baixo de tudo é que eu agora comecei a me justificar diante de vocês. E mais baixo ainda é que eu faço agora esta observação. Mas chega; senão, não se termina nunca: cada coisa vai ser mais baixa que a outra.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Mais de três meses seguidos eu não conseguia sonhar, e começava a sentir uma necessidade irresistível de me lançar na sociedade. Lançar-me na sociedade, para mim, queria dizer visitar o meu chefe de seção, Anton Antônytch Siétotchkin. Era o único conhecido constante da minha vida inteira.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas também à casa dele eu só ia quando os meus sonhos chegavam a uma felicidade tal que era preciso, sem falta e imediatamente, abraçar as pessoas e a humanidade inteira; e para isso era preciso ter à mão pelo menos uma pessoa que existisse de verdade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Só que era preciso aparecer na casa de Anton Antônytch às terças-feiras, o dia dele; portanto, a necessidade de abraçar a humanidade inteira também tinha de ser ajustada sempre para a terça.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: a descrição do apartamento perto dos Cinco Cantos, com as duas filhas que cochichavam e riam, e a tia que servia o chá.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Falavam do imposto, dos leilões no Senado, de salários, de promoções, de Sua Excelência, do meio de agradar, e assim por diante. Eu tinha paciência para ficar sentado feito um bobo umas quatro horas ao lado dessa gente, escutando, sem ousar nem saber falar de nada com eles.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu ficava abobado, começava a suar várias vezes, pairava sobre mim uma paralisia; mas era bom e útil. Voltando para casa, eu adiava por algum tempo a minha vontade de abraçar a humanidade inteira.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Eu tinha, aliás, mais um quase conhecido, Símonov, meu antigo colega de escola. Colegas de escola eu tinha, talvez, muitos em Petersburgo, mas não me dava com eles, e até parei de cumprimentá-los na rua.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez eu tenha até mudado de repartição para não estar junto deles, e cortar de uma vez com toda a minha infância odiosa. Maldita seja essa escola, esses anos terríveis de trabalhos forçados!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Símonov, na escola, não se destacava em nada; era equilibrado e quieto, mas eu notava nele uma certa independência de caráter, e até honestidade. Eu tive com ele, em outros tempos, uns momentos bem claros, mas duraram pouco, e de repente se cobriram de névoa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ele, pelo visto, se incomodava com essas lembranças, e parecia ter medo de que eu voltasse ao tom de antes. Eu desconfiava que eu lhe era muito repugnante, mas mesmo assim ia à casa dele, sem ter certeza disso.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E então, uma vez, numa quinta-feira, sem aguentar a minha solidão, e sabendo que às quintas a porta de Anton Antônytch estava fechada, eu me lembrei de Símonov.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Subindo ao quarto andar, eu pensava justamente que esse senhor se incomodava comigo, e que eu ia lá à toa. Mas, como sempre acabava acontecendo, essas considerações, como que de propósito, me empurravam ainda mais para entrar numa situação ambígua; e eu entrei.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Fazia quase um ano que eu não via Símonov.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Algumas chaves. Belo e sublime é uma fórmula de Kant e de Burke, que virou bordão dos românticos russos dos anos 1840; o narrador a repete com ironia o tempo todo. Manfredo é o herói de Byron que carrega um pecado secreto, modelo do romântico atormentado.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "A fantasia é um pastiche de Napoleão, de Rousseau e de romances de aventura, e Dostoiévski a desmonta com detalhes absurdos: o papa no Brasil, o lago de Como transportado para Roma.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Ou herói, ou lama: é a frase-chave do capítulo. A Parte um descrevia o homem que não consegue ser nada; aqui vemos de onde vem isso. Quem só aceita ser herói fica, na prática, no último lugar.",
+   1.0,
+   1.5
+  ]
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть II, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 19,
+ "titulo": "Apollon",
+ "original": "Parte II, capítulo VIII",
+ "cortes": [
+  "Parte II, cap. VIII: o empréstimo de Anton Antônytch e a gabolice sobre a farra (4 frases).",
+  "Parte II, cap. VIII: o passeio pelas ruas comerciais (5 frases).",
+  "Parte II, cap. VIII: o topete, o ceceio e o saltério de Apollon (12 frases).",
+  "Parte II, cap. VIII: a tática dos olhares e suspiros de Apollon (10 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Capítulo oito da Parte dois. Os dias de espera. Ele resolve a vergonha do jantar com uma carta elegante, mas não consegue tirar Liza da cabeça. E entra em cena Apollon, o criado.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Capítulo oito.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu, aliás, não concordei logo em reconhecer essa verdade. Acordando de manhã, depois de algumas horas de um sono profundo, de chumbo, e logo relembrando todo o dia anterior, fiquei até espantado com o meu sentimentalismo da véspera com Liza, com todos aqueles horrores e piedades de ontem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que ataque de nervos de mulherzinha, arre! concluí. E para que eu enfiei nela o meu endereço? E se ela vier? Bom, aliás, que venha; não faz mal...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas, evidentemente, o principal agora não era isso: era preciso correr e salvar, custasse o que custasse, a minha reputação aos olhos de Zvérkov e de Símonov.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele pede quinze rublos emprestados a Anton Antônytch, e se gaba para ele da farra no Hôtel de Paris.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Chegando em casa, escrevi imediatamente a Símonov. Até hoje me admiro, ao lembrar, do tom verdadeiramente de cavalheiro, bonachão, franco, da minha carta. Com habilidade e nobreza, e principalmente sem palavras demais, eu me acusei de tudo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me justificava, se ainda me é permitido justificar-me, dizendo que, por absoluta falta de costume com o vinho, tinha ficado bêbado com o primeiro cálice, que eu supostamente tinha bebido antes deles, enquanto os esperava no Hôtel de Paris, das cinco às seis.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Fiquei especialmente satisfeito com uma certa leveza, quase uma displicência, aliás perfeitamente decente, que de repente se refletiu na minha pena, e que, melhor que todos os argumentos possíveis,",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "lhes dava a entender que eu olhava para toda aquela sujeira de ontem com bastante independência.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Tem até uma certa graça de marquês, não? eu me admirava, relendo o bilhete. E tudo porque sou um homem desenvolvido e instruído! E de fato, talvez tudo tenha vindo do vinho ontem. Hum... não, não foi do vinho. Vodca eu não bebi nada, das cinco às seis, enquanto os esperava.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Menti a Símonov; menti sem vergonha; e mesmo agora não tenho vergonha...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas, aliás, que se dane! O principal é que me livrei.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Pus seis rublos na carta, lacrei e pedi a Apollon que a levasse a Símonov. Ao saber que havia dinheiro na carta, Apollon ficou mais respeitoso e concordou em ir.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "À tarde saí para dar uma volta. A cabeça ainda doía e girava da véspera. Mas, quanto mais a noite se aproximava e mais espesso ficava o crepúsculo, mais mudavam e se confundiam as minhas impressões, e com elas as ideias.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Alguma coisa não morria dentro de mim, no fundo do coração e da consciência, não queria morrer, e se manifestava numa angústia ardente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: o passeio pelas ruas comerciais lotadas, perto do jardim Iussúpov.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Voltei para casa completamente transtornado. Como se pesasse na minha alma algum crime.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Torturava-me sem parar a ideia de que Liza viria. Estranhava que, de todas as lembranças da véspera, a dela me torturasse de um jeito especial, completamente à parte. De todo o resto, à noite, eu já tinha conseguido esquecer; mas aqui eu não estava satisfeito.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E se ela vier? Eu pensava sem parar. Bom, não faz mal, que venha. Hum. Ruim é só que ela vai ver, por exemplo, como eu vivo. Ontem eu me mostrei para ela assim... um herói... e agora, hum! É pura miséria no apartamento.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E o meu sofá de oleado, de onde sai o enchimento! E o meu roupão, que não fecha! Que farrapos...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E ela vai ver tudo isso; e vai ver Apollon. Esse animal, com certeza, vai ofendê-la. E eu, é claro, como de costume, vou me acovardar, vou começar a dar passinhos diante dela, a me cobrir com as abas do roupão, a sorrir, a mentir. Uh, que nojo!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E nem é esse o nojo principal! Há aqui alguma coisa mais importante, mais nojenta, mais baixa! sim, mais baixa! E de novo, de novo vestir essa máscara mentirosa e desonesta!...",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Chegando a essa ideia, eu me inflamei: por que desonesta? Que desonesta? Eu falei ontem com sinceridade. Lembro que em mim também havia um sentimento verdadeiro. Eu queria justamente despertar nela sentimentos nobres... se ela chorou, isso é bom, vai ter um efeito benéfico...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas mesmo assim eu não conseguia me acalmar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Durante toda aquela noite, ela me aparecia, e principalmente me vinha à memória sempre na mesma posição. Um momento de toda a véspera me aparecia com especial nitidez: quando eu iluminei o quarto com o fósforo e vi o rosto pálido e contorcido dela, com um olhar de mártir.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E que sorriso lamentável, que antinatural, que contorcido ela tinha naquele minuto!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas eu ainda não sabia, então, que mesmo quinze anos depois eu ainda ia imaginar Liza justamente com esse sorriso lamentável, contorcido, inútil, que ela tinha naquele minuto.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "No dia seguinte eu já estava de novo pronto a considerar tudo aquilo uma bobagem, nervos à flor da pele, e principalmente exagero. Eu exagero tudo, é por isso que manco, eu repetia a mim mesmo a toda hora.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas, aliás, mesmo assim, Liza talvez venha: esse era o refrão com que terminavam todos os meus raciocínios de então.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vem! vem sem falta! eu exclamava, correndo pelo quarto. Se não hoje, amanhã ela vem, ela me acha! Esse é o maldito romantismo de todos esses corações puros! Oh, que sordidez, que estupidez, que estreiteza dessas almas sentimentais imundas!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E como foram poucas, poucas, eu pensava de passagem, as palavras necessárias, como foi pouco o idílio necessário, e um idílio ainda por cima postiço, livresco, inventado, para virar imediatamente toda uma alma humana do meu jeito. Isso é que é virgindade! Isso é que é frescor do solo!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Às vezes me vinha a ideia de ir eu mesmo até ela, contar-lhe tudo e implorar que não viesse.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas aí, com essa ideia, subia em mim uma raiva tal que, parece, eu esmagaria essa maldita Liza se ela de repente estivesse perto de mim; eu a ofenderia, cuspiria nela, a poria para fora, bateria nela!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Passou, porém, um dia, outro, um terceiro; ela não vinha, e eu começava a me acalmar. Especialmente depois das nove horas eu me animava, e até começava às vezes a sonhar, e com bastante doçura.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu, por exemplo, salvo Liza, justamente porque ela vem me ver, e eu lhe falo... Eu a desenvolvo, a instruo. Por fim, percebo que ela me ama, ama apaixonadamente. Eu finjo que não entendo; não sei, aliás, por que finjo; assim, para enfeitar, decerto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por fim, ela, toda confusa, linda, tremendo e soluçando, se atira aos meus pés e diz que eu sou o seu salvador, e que me ama mais que tudo no mundo. Eu me espanto, mas...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Liza, eu digo, será que você pensa que eu não notei o seu amor? Eu vi tudo, adivinhei; mas não ousava ser o primeiro a pretender o seu coração, porque eu tinha influência sobre você, e temia que, por gratidão, você se obrigasse a responder ao meu amor...",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "E eu não queria isso, porque isso é... despotismo... não é delicado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Numa palavra, aqui eu me perdia em alguma sutileza europeia, à George Sand, indizivelmente nobre... Mas agora, agora você é minha, você é a minha criação, você é pura, linda, você é a minha linda esposa. E na minha casa, com ousadia e liberdade, entra como dona plena!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Depois começamos a viver felizes, vamos para o estrangeiro, e assim por diante, e assim por diante. Numa palavra, eu mesmo começava a me sentir baixo, e terminava mostrando a língua para mim mesmo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E não vão deixá-la sair, a desavergonhada! eu pensava. Parece que não deixam elas passear muito, principalmente de noite. Por algum motivo me parecia que ela ia vir sem falta à noite, e justamente às sete horas.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Mas, aliás, ela disse que lá ainda não estava toda escravizada; então, hum! Diabos, ela vem, vem sem falta!",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Ainda bem que, nesse tempo, Apollon me distraía com as suas grosserias. Ele me tirava do último fio de paciência! Era a minha praga, o flagelo mandado contra mim pela Providência. Nós nos alfinetávamos sem parar, vários anos seguidos, e eu o odiava. Meu Deus, como eu o odiava!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Era um homem de idade, solene, que fazia um pouco de alfaiataria. Mas, não se sabe por quê, ele me desprezava, até além de toda medida, e me olhava de cima de um jeito insuportável. Aliás, ele olhava todos de cima.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Era um pedante no mais alto grau, e com um amor-próprio que só caberia talvez em Alexandre da Macedônia. Era apaixonado por cada botão seu, por cada unha sua; sem falta apaixonado, era o que o seu olhar dizia!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "(Corte: o topete untado de Apollon, o seu ceceio e a sua leitura do saltério à noite, como sobre um morto.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Ele concordava em não fazer nada na minha casa por sete rublos por mês. Muitos pecados me serão perdoados por causa dele. Mas, naquele tempo, eu não podia mandá-lo embora, como se ele estivesse ligado quimicamente à minha existência.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu não podia morar num quarto mobiliado: o meu apartamento era a minha mansão, a minha casca, o meu estojo, onde eu me escondia de toda a humanidade; e Apollon, o diabo sabe por quê, parecia pertencer a esse apartamento, e eu não consegui me livrar dele por sete anos inteiros.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Atrasar o salário dele, nem que fosse dois ou três dias, era impossível. Mas naqueles dias eu estava tão enfurecido com todos que resolvi, sabe-se lá por que e para quê, castigar Apollon, e não lhe pagar o salário por mais duas semanas.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Decidi não lhe dizer nada, e até ficar calado de propósito, para vencer o orgulho dele e obrigá-lo a ser o primeiro a falar do salário.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Então eu tiro os sete rublos da gaveta, mostro que eu os tenho, e separados de propósito, mas que eu não quero, não quero, simplesmente não quero pagar, porque assim quero, porque essa é a minha vontade de patrão.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas, por mais furioso que eu estivesse, ele venceu mesmo assim. Eu não aguentei nem quatro dias.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: a tática de Apollon: entrar em silêncio, parar na porta e fitá-lo com desprezo, sair, voltar duas horas depois, e por fim suspirar fundo.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Dessa vez, mal tinham começado as manobras de costume dos olhares severos, eu imediatamente perdi a cabeça e me atirei sobre ele, furioso. Eu já estava irritado demais.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pare! gritei, fora de mim, quando ele se virava devagar e calado, com uma mão nas costas, para ir para o seu quarto. Pare! volte, volte, estou mandando! Como você ousa entrar no meu quarto sem pedir, e me olhar assim? Responda!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Se agorinha o senhor tem alguma ordem para mim, o meu dever é cumprir, respondeu ele, de novo depois de uma pausa, baixo e compassado, ciciando, erguendo as sobrancelhas e inclinando tranquilamente a cabeça de um ombro para o outro; e tudo isso com uma tranquilidade assustadora.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não é isso, não é isso que eu pergunto, carrasco! gritei, tremendo de raiva. Eu mesmo vou te dizer, carrasco, para que você vem aqui: você vê que eu não te pago o salário, e você, por orgulho, não quer se curvar e pedir, e por isso vem com os seus olhares tolos me castigar, me torturar;",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "e nem desconfia, carrasco, como isso é tolo, tolo, tolo, tolo, tolo!",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Escute! Aqui está o dinheiro, está vendo? Os sete rublos inteiros; mas você não vai recebê-los, não vai re-ce-bê-los, até vir respeitosamente, de cabeça baixa, me pedir perdão. Ouviu?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Isso não pode ser! respondeu ele, com uma segurança antinatural. Vai ser! gritei. E eu não tenho nada para lhe pedir perdão, continuou ele, como sem notar os meus gritos; porque o senhor me chamou de carrasco, e por isso eu posso sempre pedir reparação na delegacia.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Vá! Peça! rugi. Vá agora, neste minuto, neste segundo! E mesmo assim você é um carrasco! carrasco! carrasco! Mas ele só me olhou, depois se virou e, sem ouvir os meus chamados, foi para o seu canto, deslizando, sem se voltar.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Se não fosse Liza, nada disso teria acontecido! decidi comigo. Depois, parado um minuto, solene, mas com o coração batendo devagar e forte, eu mesmo fui até ele, atrás do biombo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Apollon! disse eu, baixo e pausado, mas sufocando. Vá agora mesmo, sem a menor demora, chamar o inspetor do bairro! Ele já tinha se sentado à mesa, posto os óculos e pegado alguma coisa para costurar. Mas, ao ouvir a minha ordem, de repente bufou de rir.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "O senhor está mesmo fora do juízo, observou ele, sem nem levantar a cabeça, ciciando devagar e continuando a enfiar a linha. E onde já se viu alguém ir buscar a autoridade contra si mesmo? E quanto ao medo, o senhor só se esgoela à toa, porque não vai acontecer nada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vá! eu guinchava, agarrando-o pelo ombro. Eu sentia que ia bater nele agora mesmo.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas eu não ouvi como, naquele instante, a porta do vestíbulo se abriu de repente, devagar e em silêncio, e uma figura entrou, parou, e começou a nos olhar sem entender. Eu olhei, gelei de vergonha, e corri para o meu quarto.",
+   0.95,
+   0.3
+  ],
+  [
+   "leitor",
+   "Lá, agarrando os cabelos com as duas mãos, encostei a cabeça na parede e fiquei imóvel nessa posição.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Uns dois minutos depois, ouviram-se os passos lentos de Apollon. Tem uma aí perguntando pelo senhor, disse ele, me olhando com especial severidade; depois se afastou e deixou passar... Liza. Ele não queria ir embora, e nos olhava com zombaria.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vá! vá! ordenei, perdido. Naquele minuto o meu relógio fez força, chiou, e bateu sete horas.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Os versos que ele sonha dizer a Liza, e na minha casa entra como dona plena, são o fim do mesmo poema de Nekrássov da epígrafe. Ou seja: o sonho de salvação dele é, literalmente, uma citação.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "George Sand, a romancista francesa, era a grande referência dos amores nobres e livres para os jovens russos dos anos 1840. E Apollon, repare, é o único personagem que vence o narrador sem esforço: ele não entra no jogo.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E o relógio que chia e bate as sete é o mesmo relógio rouco do bordel, no capítulo seis. Liza chega exatamente na hora em que ele tinha imaginado, e no pior momento possível.",
+   1.0,
+   1.5
+  ]
+ ]
+}

@@ -22,7 +22,7 @@ Proposta completa: https://claude.ai/artifact/XH9TDPjEGpiCR8HCyPtVgX
 
 | Livro | Situação |
 | --- | --- |
-| Memórias do Subsolo (Dostoiévski, 1864), tradução nossa do russo | Parte I completa (caps 1-11) roteirizada; caps 1-2 narrados e aprovados |
+| Memórias do Subsolo (Dostoiévski, 1864), tradução nossa do russo | Parte I (caps 1-11) narrada; Parte II (caps 12-21, *A propósito da neve molhada*) roteirizada; livro completo |
 
 ## Narrar no Colab
 
