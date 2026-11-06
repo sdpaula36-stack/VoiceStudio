@@ -1,0 +1,56 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 28,
+  "titulo": "A fada vespa",
+  "ambiente": "riacho",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Irmão de Pinóquio, parte VI. Texto conferido com a 1ª edição no Wikisource. Suavizado: a vespa só fica brava e zumbe, sem ferrão venenoso nem tamanho de aranha; tirada a lembrança da avó da Capinha devorada; no fim, em vez do Barba Azul com faca, Narizinho fecha os olhos para guardar o sonho.",
+  "vozes": {
+    "fazdeconta": {"voz": "male, teenager, moderate pitch", "semente": 451},
+    "vespa": {"voz": "female, elderly, high pitch", "semente": 461}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e oito: A fada vespa.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o João Faz-de-Conta não quis viver, e o Pedrinho jogou o boneco em cima do armário.", 1.0, 1.0],
+
+    ["narrador", "Naquela tarde, a Emília não quis passear. Estava ensinando o abc ao cavalinho.", 1.0, 0.4],
+    ["narizinho", "Coitado do João Faz-de-Conta. Ninguém liga para ele. Vou levar o boneco comigo. Talvez o ar do riacho faça bem.", 1.0, 0.6],
+    ["narrador", "Narizinho sentou na raiz do velho pé de ingá, na beira do riacho, e fechou os olhos. O mundo ficava três vezes mais bonito de olhos fechados.", 0.95, 0.6],
+    ["narrador", "Foi ali que ela viu o Príncipe Escamado pela primeira vez, lembra?", 0.95, 0.8],
+    ["narrador", "De repente, ouviu um bocejo: Aaaah! Era o João Faz-de-Conta, se espreguiçando!", 1.0, 0.8, "magia"],
+    ["narizinho", "Até que enfim! Eu sabia que o ar do riacho ia fazer você viver!", 1.05, 0.5],
+    ["fazdeconta", "Eu sempre fui vivo, Narizinho. Quem mudou foi você. E agora você vai ver uma coisa que sempre existiu aqui, mas você nunca viu. Olhe lá!", 0.95, 0.8, "transicao"],
+
+    ["narrador", "Até agora: perto do riacho, o João Faz-de-Conta acordou e começou a falar.", 0.95, 0.8],
+    ["narrador", "Entre as árvores do pomar, umas moças vestidas de véu dançavam de mãos dadas. No meio delas, um ser de orelhas pontudas tocava uma flauta.", 0.95, 0.5],
+    ["narizinho", "Eu vi isso num livro da vovó! São as ninfas do bosque, e ele é um fauno!", 1.05, 0.5],
+    ["narrador", "Mas os dançarinos ouviram a menina e fugiram correndo. O fauno até deixou cair a flauta!", 1.05, 0.5],
+    ["narrador", "Narizinho pegou a flauta. Só que ela era de barro, e estava cheia de vespas! As vespas saíram voando, e só uma ficou presa nos dedos da menina.", 1.0, 0.8, "zumbido"],
+    ["fazdeconta", "Eu conheço essa vespa. Acho que é uma fadinha disfarçada.", 0.95, 0.5],
+    ["vespa", "Sou fada, sim. Há muitos anos eu procuro um alfinete mágico. Sem ele, não consigo virar uma fada completa.", 0.95, 0.5],
+    ["narizinho", "Não é um alfinete de pombinha carijó?", 1.0, 0.4],
+    ["vespa", "Isso mesmo! Como você sabe?", 1.05, 0.6],
+    ["narrador", "Narizinho percebeu que tinha falado demais. O alfinete estava com a Emília!", 1.0, 0.4],
+    ["narizinho", "Eu sonhei. Quer dizer... acho que era de galo, não de pombinha.", 0.95, 0.5],
+    ["fazdeconta", "Não conte, Narizinho. Com fadas, é preciso cuidado. Umas são boas, outras não.", 0.9, 0.5],
+    ["vespa", "Estou ouvindo tudo! E vou dar uma ferroadinha no nariz dessa menina!", 1.05, 0.5],
+    ["narrador", "O que será que o João Faz-de-Conta fez?", 0.95, 2.5],
+    ["narrador", "Ele pulou na frente da menina, puxou o prego da cabeça e usou como espada. Mas, sem o prego, a cabeça dele caiu, rolou morro abaixo e foi parar no riacho!", 1.05, 0.5, "agua"],
+    ["narrador", "A vespa levou um susto tão grande de ver um boneco sem cabeça, de prego na mão, que sumiu no ar.", 1.0, 0.8],
+
+    ["narrador", "Resumindo até aqui: o Faz-de-Conta salvou a Narizinho da vespa, mas perdeu a cabeça no riacho!", 0.95, 0.8],
+    ["narrador", "Narizinho viu uma fumacinha lá longe e correu para lá. Era uma casinha linda, de janelas verdes. Ela bateu na porta.", 1.0, 0.5],
+    ["capinha", "Narizinho! Que alegria! Há quanto tempo eu espero a sua visita!", 1.1, 0.5],
+    ["narrador", "Era a casa da Capinha Vermelha! E ela tinha uma surpresa.", 1.0, 0.4],
+    ["capinha", "Eu estava tomando banho no riacho, e uma coisa em forma de castanha de caju bateu em mim. Era uma cabeça, com boca e nariz!", 1.0, 0.5],
+    ["narizinho", "É a cabeça do Faz-de-Conta!", 1.1, 0.5],
+    ["narrador", "Em meio minuto, a cabeça voltou para o lugar. E o João Faz-de-Conta contou tudo para a Capinha.", 1.0, 0.5],
+    ["capinha", "Quem me dera ter um amigo leal e valente assim!", 0.95, 0.5],
+    ["narrador", "Narizinho contou um segredo para a Capinha, bem baixinho: o alfinete da Emília era uma varinha de condão. A Emília podia virar fada!", 0.9, 0.5],
+    ["fazdeconta", "Adivinhem quem passou aqui fora? O Peter Pan! Ele disse que qualquer dia vai ao sítio brincar com o Pedrinho.", 1.05, 0.8],
+    ["narrador", "Já estava ficando tarde. Narizinho fechou os olhos bem fechados, para guardar aquele sonho bonito na lembrança.", 0.9, 0.8],
+
+    ["narrador", "Resumindo: o João Faz-de-Conta viveu, salvou a Narizinho, e eles visitaram a Capinha Vermelha.", 0.95, 0.8],
+    ["narrador", "Mas o que será que a Narizinho vai ver quando abrir os olhos? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

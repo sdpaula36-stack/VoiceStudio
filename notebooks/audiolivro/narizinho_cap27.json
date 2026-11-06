@@ -1,0 +1,48 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 27,
+  "titulo": "João Faz-de-Conta",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Irmão de Pinóquio, parte V. Texto conferido com a 1ª edição no Wikisource. Retiradas as ameaças de mandar o menino para o colégio interno (Caraça) e os xingamentos mais pesados.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e sete: João Faz-de-Conta.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a Emília trapaceou no sorteio. E a Tia Nastácia foi para a cozinha fazer o irmão do Pinóquio.", 1.0, 1.0],
+
+    ["narrador", "Uma hora depois, a Tia Nastácia voltou com o boneco na mão.", 1.0, 0.4],
+    ["nastacia", "Pronto! Não ficou bonito, mas ficou simpático.", 1.0, 0.6],
+    ["narrador", "Todos fizeram: Oh! O boneco era muito feio.", 1.0, 0.4],
+    ["narrador", "Os braços saíam do meio do corpo. O nariz era um palito de fósforo. E a cabeça, em forma de castanha de caju, estava presa por um prego torto, com a ponta saindo nas costas.", 1.0, 0.6],
+    ["pedrinho", "E o pau gemeu quando você cortou, Tia Nastácia?", 1.0, 0.4],
+    ["nastacia", "Nada, nada! Nem um sinalzinho de vida.", 1.0, 0.6],
+    ["visconde", "Experimente assoprar o boneco, Pedrinho. Às vezes, um bom assopro dá vida às coisas.", 0.95, 0.5],
+    ["emilia", "Boa ideia! Se você assoprar bem assoprado, o João Faz-de-Conta vai viver!", 1.05, 0.5],
+    ["narizinho", "João Faz-de-Conta? Que nome é esse, Emília?", 1.0, 0.4],
+    ["emilia", "João, porque ele tem cara de João. E Faz-de-Conta, porque só fazendo de conta para achar ele bonito. Faz de conta que não é feio. Faz de conta que não tem pé torto...", 1.05, 0.6],
+    ["narrador", "Todos riram. E acharam que a Emília era a melhor botadora de nomes do sítio.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: a Tia Nastácia fez o boneco, e a Emília deu um nome para ele: João Faz-de-Conta.", 0.95, 0.8],
+    ["narizinho", "Tia Nastácia, a Emília só faz as pazes com você se ganhar o alfinete de pombinha carijó.", 1.0, 0.5],
+    ["nastacia", "Um alfinete de tanta estimação? Ah, essa boneca!", 1.0, 0.5],
+    ["narrador", "Mas tanto a menina pediu, que a Tia Nastácia tirou o alfinete do peito e deu.", 1.0, 0.4],
+    ["nastacia", "Tome lá, interesseira! Qualquer dia você vai pedir os óculos e a dentadura da Dona Benta!", 1.0, 0.6],
+    ["narrador", "A Emília bateu palmas de alegria e foi mostrar o alfinete ao cavalinho, que agora tinha um lindo rabo de pena de galo.", 1.05, 0.8],
+    ["narrador", "Mas o João Faz-de-Conta não vivia. O Pedrinho assoprou o boneco três dias seguidos, até ficar com as bochechas doendo. Nada!", 1.0, 0.5],
+    ["pedrinho", "Chega! Você não vive nunca, seu feioso!", 1.05, 0.5],
+    ["narrador", "E jogou o boneco em cima do armário.", 1.0, 0.8],
+    ["pedrinho", "Emília, cadê o meu cavalinho? Eu disse que dava se a ideia fosse boa. A ideia não deu certo!", 1.0, 0.5],
+    ["emilia", "O cavalinho agora é meu!", 1.1, 0.5],
+    ["narrador", "O Pedrinho deu um beliscão na boneca. E a Emília gritou tão alto que todos vieram correndo.", 1.05, 0.5],
+    ["dona_benta", "Um menino desse tamanho brigando com uma bonequinha de pano? Que feio, Pedrinho!", 0.95, 0.8],
+    ["narrador", "O Pedrinho foi para a mata, para a raiva passar. E parou de novo no tronco que tinha gemido.", 1.0, 0.5],
+    ["narrador", "Bateu uma, duas, dez vezes. E o tronco, quietinho. Por que será que agora ele não gemia?", 0.95, 2.5],
+    ["narrador", "Porque o visconde não estava mais escondido lá dentro! E o Pedrinho achou, no buraco do tronco, a cartolinha do visconde.", 1.0, 0.5],
+    ["pedrinho", "Agora eu entendi! Quem gemeu foi o visconde, a mando da Emília! Eles me fizeram de bobo!", 1.05, 0.5],
+    ["pedrinho", "Mas isso não fica assim. Um dia eu dou o troco!", 1.0, 1.0],
+
+    ["narrador", "Resumindo: o João Faz-de-Conta não ganhou vida, e o Pedrinho descobriu o truque da Emília e do visconde.", 0.95, 0.8],
+    ["narrador", "Mas enquanto isso, a Narizinho tirou o pobre boneco de cima do armário e levou para passear no riacho...", 0.9, 0.6],
+    ["narrador", "O que será que vai acontecer lá? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 23,
+  "titulo": "Convidados de todas as histórias",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): Cara de Coruja, partes IV a VI. Texto conferido com a 1ª edição no Wikisource. Cortados o Barba Azul, as cicatrizes dos ladrões, a cabeça da Medusa e a ameaça ao patinho; Dona Carochinha apresentada brevemente, porque não apareceu nos capítulos anteriores.",
+  "vozes": {
+    "polegar": {"voz": "male, child, high pitch", "semente": 421},
+    "aladim": {"voz": "male, young adult, moderate pitch", "semente": 431}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e três: Convidados de todas as histórias.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a Cinderela, a Branca de Neve e as duas Rosas chegaram para a festa de Narizinho.", 1.0, 1.0],
+
+    ["narrador", "Bateram na porta, bem de leve: tic, tic, tic. E o Rabicó anunciou:", 1.0, 0.4],
+    ["rabico", "Um senhor pingo de gente, com umas botas maiores do que ele!", 1.0, 0.5],
+    ["narrador", "Era o Pequeno Polegar! A Emília agarrou o menininho e levou para o quarto dela, para mostrar os brinquedos.", 1.05, 0.5],
+    ["emilia", "Tire essas botas! Como o senhor aguenta tanto peso nos pés?", 1.0, 0.4],
+    ["polegar", "Sem elas, eu não valho nada. Sou pequeno demais. Mas cada passo destas botas anda sete léguas, que é muito, muito longe!", 1.0, 0.5],
+    ["emilia", "Então o senhor não tem medo nem de jacarepaguá?", 1.05, 0.4],
+    ["narrador", "A Emília achava que jacarepaguá era o monstro dos monstros. Mas é só o nome de um bairro do Rio de Janeiro!", 1.0, 0.5],
+    ["polegar", "Nem de jacarepaguá, nem de nada!", 1.05, 0.5],
+    ["narrador", "O Polegar gostou de um cachimbo velho da Tia Nastácia. Pulou lá dentro e ficou escondidinho. Era o esconderijo perfeito!", 1.0, 0.5],
+    ["narrador", "E a Emília, que adorava ganhar presentes, mas não gostava de dar, deu o cachimbo para ele. Foi o primeiro presente que ela deu na vida!", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: chegou o Pequeno Polegar, com as botas de sete léguas.", 0.95, 0.8],
+    ["narrador", "O Polegar contou um segredo. Ele mora num livro de histórias, que é cuidado por uma barata velha, a Dona Carochinha.", 0.95, 0.5],
+    ["narrador", "A Dona Carochinha não gosta que os personagens saiam dos livros. Mas eles querem viver aventuras novas, aqui no sítio!", 1.0, 0.6],
+    ["narrador", "Depois chegou o Aladim, com a lâmpada maravilhosa. Quem esfrega a lâmpada, chama um gênio que faz tudo o que a gente pede.", 1.0, 0.5],
+    ["emilia", "Me empresta a lâmpada? Só um pouquinho! Depois eu devolvo.", 1.05, 0.5],
+    ["narizinho", "Não seja pidona, Emília!", 1.0, 0.6],
+    ["narrador", "Chegou também o Gato de Botas. E Narizinho contou a história do falso Gato Félix, que dizia ser neto do neto do neto dele.", 1.0, 0.5],
+    ["narrador", "O Gato de Botas riu muito. Ele nunca casou, nem teve filhos. Quanto mais netos!", 1.0, 0.8],
+    ["narrador", "De repente, a porta abriu com força. Entrou um moço muito assustado, e trancou a porta atrás dele.", 1.05, 0.5, "porta"],
+    ["narrador", "Era o Ali Babá. Quarenta ladrões estavam atrás dele, escondidos no terreiro!", 1.0, 0.5],
+    ["narrador", "O que será que o Aladim fez?", 0.95, 2.5],
+    ["aladim", "Deixe comigo! Gênio, vá lá fora e mande esses quarenta ladrões para bem longe!", 1.05, 0.6],
+    ["narrador", "Uma fumacinha saiu da lâmpada e virou um gênio enorme. Logo depois, não havia mais nenhum ladrão no terreiro.", 1.0, 0.8, "magia"],
+
+    ["narrador", "Até agora: o gênio da lâmpada de Aladim mandou os quarenta ladrões embora.", 0.95, 0.8],
+    ["narrador", "Não paravam de chegar convidados. Veio o soldadinho de chumbo, veio o Patinho Feio, vieram João e Maria.", 1.0, 0.5],
+    ["narrador", "E veio a princesa Sherazade, a que contava mil e uma histórias, com todos os heróis das Mil e Uma Noites. Era tanta gente que eles ficaram no terreiro.", 1.0, 0.5],
+    ["narrador", "Lá fora tinha sultão, gênio, cavalo encantado e o marinheiro Simbá. No terreiro não cabia mais nem um alfinete!", 1.0, 0.6],
+    ["emilia", "Coitada da Vaca Mocha! Ela olha para um lado e vê um rei. Olha para o outro e vê um anão. Mexe o rabo e bate numa princesa!", 1.05, 0.5],
+    ["emilia", "Amanhã ela não vai dar leite nenhum, de tanto susto!", 1.05, 0.8],
+    ["narrador", "Só um convidado ainda não tinha chegado: o Peter Pan, o menino que nunca quis crescer. E Pedrinho queria muito conhecer o Peter Pan.", 1.0, 0.8],
+
+    ["narrador", "Resumindo: chegaram o Polegar, o Aladim, o Gato de Botas, o Ali Babá e muitos outros. Só falta o Peter Pan.", 0.95, 0.8],
+    ["narrador", "E agora, com tanta princesa e tanto príncipe, o que fazer? Dançar, é claro!", 1.0, 0.6],
+    ["narrador", "Mas no meio do baile, uma coisa muito estranha vai bater na porta. Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

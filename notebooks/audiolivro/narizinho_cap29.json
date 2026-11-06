@@ -1,0 +1,42 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 29,
+  "titulo": "O alfinete de pombinha",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Irmão de Pinóquio, parte VII. Texto conferido com a 1ª edição no Wikisource.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e nove: O alfinete de pombinha.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o João Faz-de-Conta ganhou vida na beira do riacho, salvou a Narizinho de uma vespa e visitou a Capinha Vermelha.", 1.0, 1.0],
+
+    ["narrador", "Quando Narizinho abriu os olhos, estava de novo na raiz do pé de ingá, com o Faz-de-Conta no colo.", 0.95, 0.5],
+    ["narrador", "Mas ele estava parado, mudo, como um boneco de pau qualquer. Narizinho sacudiu o boneco, como se sacode um relógio parado. Nada!", 0.95, 0.5],
+    ["narizinho", "Que pena. Voltei para o dia de todo dia. Tão sem graça...", 0.9, 0.8, "transicao"],
+    ["narrador", "Ela correu para casa, porque já era quase noite.", 1.05, 0.4],
+    ["narizinho", "Vovó! O Faz-de-Conta viveu mais de uma hora! E eu vi ninfas, e um fauno, e quebrei a flauta, e saíram vespas, e uma era fada, e...", 1.15, 0.4],
+    ["dona_benta", "Pare, pare, menina! Você me deixa tonta. Vá contar essa história para o Pedrinho.", 0.95, 0.8],
+
+    ["narrador", "Até agora: Narizinho voltou para casa cheia de novidades. Mas a vovó não entendeu nada.", 0.95, 0.8],
+    ["narrador", "O Pedrinho chegou da mata, carrancudo. Ainda pensava em como se vingar da Emília e do visconde.", 1.0, 0.4],
+    ["narizinho", "Pedrinho, tenho três novidades! A primeira: o Faz-de-Conta viveu! E ele é muito mais sensato que o Pinóquio. É valente e leal.", 1.05, 0.5],
+    ["pedrinho", "Mas como ele viveu, se não era de pau vivente?", 1.0, 0.4],
+    ["narizinho", "Não sei explicar. Às vezes, a gente muda de estado e começa a ver coisas maravilhosas que estão em volta da gente.", 0.95, 0.6],
+    ["narizinho", "A segunda novidade: eu visitei a Capinha Vermelha. E o Peter Pan prometeu vir aqui brincar com você!", 1.05, 0.5],
+    ["narrador", "O Pedrinho deu pulos de alegria. Conhecer o Peter Pan era o que ele mais queria no mundo.", 1.05, 0.5],
+    ["narizinho", "E a terceira é a mais importante. Aquele alfinete de pombinha que a Tia Nastácia deu para a Emília é uma varinha de condão!", 1.0, 0.5],
+    ["narrador", "Uma varinha de condão faz mágica. Com ela, a Emília podia virar fada!", 1.0, 0.8, "magia"],
+
+    ["narrador", "O Pedrinho esqueceu da vingança na mesma hora. Agora, ele queria era agradar a futura fadinha.", 1.0, 0.5],
+    ["pedrinho", "Emília, querida! Vou fazer três cavalinhos novos para você, cada um de uma cor. E uma casinha, e um fogãozinho, e um balanço, e umas asinhas para você voar...", 1.0, 0.5],
+    ["narrador", "A Emília estranhou tanta gentileza. E foi arregalando os olhos, arregalando, arregalando...", 0.9, 0.5],
+    ["narrador", "O que será que aconteceu com os olhos dela?", 0.95, 2.5],
+    ["narrador", "Pluft! Arrebentaram! É que os olhos da Emília eram de linha de bordar. E quando ela arregalava demais, a linha arrebentava.", 1.0, 0.5],
+    ["emilia", "Malvado! Olha o que você me fez!", 1.05, 0.6],
+    ["narrador", "Mas não se preocupe. A Tia Nastácia tem linha de sobra, e bordou olhos novinhos na Emília.", 1.0, 1.0],
+
+    ["narrador", "Resumindo: o João Faz-de-Conta voltou a ser boneco. E todos descobriram que o alfinete de pombinha é mágico.", 0.95, 0.8],
+    ["narrador", "Com uma varinha de condão na mão, o que será que a Emília vai aprontar?", 0.95, 0.6],
+    ["narrador", "Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

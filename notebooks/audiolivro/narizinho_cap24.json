@@ -1,0 +1,61 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 24,
+  "titulo": "O lobo e a varinha de condão",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): Cara de Coruja, partes VII a IX. Texto conferido com a 1ª edição no Wikisource. Retiradas as piadas racistas sobre Tia Nastácia (café, princesa núbia); o lobo só bate na porta e foge da vassoura, sem ameaça de comer ninguém; ninguém desmaia.",
+  "vozes": {
+    "capinha": {"voz": "female, child, high pitch", "semente": 441}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e quatro: O lobo e a varinha de condão.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, os personagens de todas as histórias chegaram para a festa de Narizinho. Só faltava o Peter Pan.", 1.0, 1.0],
+
+    ["narrador", "Todos dançavam quando o Rabicó abriu a porta para a menina da Capinha Vermelha.", 1.0, 0.5],
+    ["capinha", "Boa tarde para todos os presentes, ausentes e parentes!", 1.05, 0.5],
+    ["emilia", "Qual é o seu nome certo? Capinha Vermelha ou Chapeuzinho Vermelho?", 1.0, 0.4],
+    ["capinha", "Minha vovó me fez esta capinha vermelha, com capuz. Então, pode me chamar de Capinha, de Capuzinho ou de Chapeuzinho. Tanto faz!", 1.0, 0.8],
+    ["narizinho", "Tia Nastácia! Traga um café bem gostoso para os nossos convidados!", 1.05, 0.5],
+    ["narrador", "Tia Nastácia entrou com a bandeja e arregalou os olhos.", 1.0, 0.4],
+    ["nastacia", "Credo! Onde essa menina arranja tanta gente importante? A sala até parece um céu aberto!", 1.0, 0.5],
+    ["narrador", "E na saia dela vinha enganchada uma coroinha de rei. Tia Nastácia tinha passado no quintal, cheio de reis e fadas, e esbarrou num reizinho sem querer!", 1.0, 0.5],
+    ["nastacia", "Não foi por querer, não! Credo!", 1.05, 0.8, "transicao"],
+
+    ["narrador", "Até agora: chegou a Capinha Vermelha, e a Tia Nastácia serviu café para a festa.", 0.95, 0.8],
+    ["narrador", "Mas o visconde, que cochilava no alto da janela, escorregou e caiu lá de cima. Ficou desacordado no chão!", 1.0, 0.5],
+    ["emilia", "Já sei! Princesa Cinderela, dê uma varada nele com a sua varinha de condão. Vire o visconde num pilãozinho de socar sal, que a Tia Nastácia está precisando!", 1.05, 0.5],
+    ["cinderela", "Vira que vira, vira que vira, vira virando, vira pilão!", 0.95, 0.8, "magia"],
+    ["narrador", "E o visconde virou um pilãozinho novinho. A Tia Nastácia agradeceu, mas não teve coragem de usar.", 1.0, 0.5],
+    ["nastacia", "Eu fico com dó. Esse pilão já foi visconde!", 1.0, 0.8],
+    ["narrador", "Então ouviram uma batida esquisita na porta. Bem diferente das outras.", 0.9, 0.8, "porta"],
+    ["capinha", "É o lobo! É aquele lobo da minha história!", 1.1, 0.5],
+    ["narrador", "As princesas correram para o fundo da sala. Pedrinho e os príncipes estavam lá fora, longe dali. E o lobo começou a arranhar a porta!", 1.05, 0.5],
+    ["emilia", "Só o visconde pode nos salvar! Os sábios sabem de tudo!", 1.05, 0.5],
+    ["narrador", "A Cinderela, toda nervosa, bateu a varinha no pilão. Mas deu só meia varada.", 1.0, 0.5, "magia"],
+    ["narrador", "E o visconde voltou só pela metade: visconde da cintura para cima, e pilão da cintura para baixo! Não conseguia andar!", 1.0, 0.8],
+    ["narrador", "E agora? O que será que a Emília fez?", 0.95, 2.5],
+    ["emilia", "Acuda, Tia Nastácia! O lobo quer entrar!", 1.1, 0.5],
+    ["narrador", "Tia Nastácia veio da cozinha com a vassoura. Abriu a porta, e espantou o lobo com umas boas vassouradas no focinho!", 1.05, 0.5],
+    ["nastacia", "Lobo ordinário! Vá caçar no mato, que aqui não é lugar para você!", 1.05, 0.5],
+    ["narrador", "O lobo fugiu correndo. E todas as princesas abraçaram a Tia Nastácia, a mais valente da festa!", 1.0, 1.0, "festa"],
+
+    ["narrador", "Até agora: a Tia Nastácia espantou o lobo com a vassoura.", 0.95, 0.8],
+    ["narrador", "Nessa hora, alguém entrou pela janela, voando como um passarinho. Era o Peter Pan! E todos bateram palmas.", 1.05, 0.5],
+    ["dona_benta", "Boa tarde, senhor Peter Pan. Só peço uma coisa: não ensine meus netos a voar. Senão, um dia, eles vão para muito longe e esquecem de voltar.", 0.95, 0.5],
+    ["narrador", "Peter Pan prometeu que só ensinaria se a vovó deixasse.", 1.0, 0.6],
+    ["narrador", "Às seis horas, todos foram embora, com muitos beijos e abraços. E a casa ficou vazia.", 0.95, 0.6],
+    ["narrador", "Mas debaixo da mesa estava a lâmpada do Aladim. Atrás do armário, as botas do Gato de Botas. E no chão, a varinha da Cinderela. Eles esqueceram tudo!", 1.05, 0.5],
+    ["emilia", "A varinha é minha! Vou brincar de virar o dia inteiro!", 1.1, 0.8],
+    ["narrador", "Bateram na porta, bem fraquinho. Era a Dona Carochinha, a barata velha que toma conta dos personagens dos livros.", 0.95, 0.5],
+    ["narrador", "Ela veio buscar a lâmpada, as botas, a varinha, e até o espelho mágico da Emília.", 1.0, 0.5],
+    ["narrador", "As crianças ficaram tristes, mas devolveram tudo, porque a vovó ensina a respeitar os mais velhos.", 0.95, 0.5],
+    ["narrador", "Só que, quando a barata chegou na porteira, a Emília não aguentou:", 1.0, 0.4],
+    ["emilia", "Cara de coruja seca!", 1.1, 0.6],
+    ["narrador", "E mostrou uma língua tão comprida que a Dona Carochinha saiu correndo!", 1.05, 0.8],
+
+    ["narrador", "Resumindo: a festa foi linda, a Tia Nastácia espantou o lobo, e a Dona Carochinha levou as coisas mágicas embora.", 0.95, 0.8],
+    ["narrador", "Mas a Emília ficou com uma ideia na cabeça... e o Pequeno Polegar ainda quer fugir dos livros.", 0.9, 0.6],
+    ["narrador", "O que será que vai acontecer? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

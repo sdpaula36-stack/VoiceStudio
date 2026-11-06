@@ -1,0 +1,49 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 26,
+  "titulo": "O concurso de desenho",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Irmão de Pinóquio, partes III e IV. Texto conferido com a 1ª edição no Wikisource. Removido por completo o monólogo racista e violento da Emília contra Tia Nastácia; a zanga dela é só por causa da bronca, e as duas fazem as pazes.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e seis: O concurso de desenho.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o Pedrinho achou um pedaço de pau que gemia. Mas quem gemeu de verdade foi o visconde, escondido no tronco!", 1.0, 1.0],
+
+    ["narrador", "O Pedrinho sacudia o pedaço de pau, mas ele não dava nenhum sinal de vida.", 1.0, 0.4],
+    ["pedrinho", "Que esquisito! O tronco gemeu tanto, e este pedaço nem pia!", 1.0, 0.5],
+    ["emilia", "É que ele está muito triste, longe do tronco pai dele. As grandes tristezas são mudas. Depois passa.", 1.0, 0.8],
+    ["narrador", "Mas como fazer o boneco? Cada um queria de um jeito. Então o Pedrinho fez um concurso.", 1.0, 0.4],
+    ["pedrinho", "Concurso de desenho, pessoal! Para tudo! Vovó, pegue o lápis! Tia Nastácia, deixe o fogão! Todo mundo desenhando!", 1.1, 0.8, "transicao"],
+
+    ["narrador", "Meia hora depois, os seis desenhos estavam pregados na parede.", 1.0, 0.5],
+    ["narrador", "O da Tia Nastácia parecia um rabisco de carvão. O da Narizinho era bonito, mas igualzinho ao Pinóquio.", 1.0, 0.5],
+    ["narrador", "O do visconde era tão científico que ninguém entendia. Cheio de triângulos, com um xis no nariz.", 1.0, 0.5],
+    ["narrador", "E o da Emília? Ela pôs boca de sapo, rabo de jacaré, orelhas de morcego, e um olho nas costas.", 1.0, 0.4],
+    ["emilia", "É para ninguém pegar ele de surpresa!", 1.05, 0.8],
+    ["narrador", "Na votação, cada um votava no seu desenho. Então resolveram tirar a sorte. Os nomes foram para dentro do chapéu, e a vovó ia tirar um.", 1.0, 0.5],
+    ["emilia", "Quem tira sou eu! Sou eu! Sou eu!", 1.1, 0.5],
+    ["narrador", "A Emília gritava com uma mão escondida no bolso. Por que será?", 0.95, 2.5],
+    ["narrador", "Narizinho puxou a mão dela. E lá dentro tinha um papelzinho enrolado, igual aos do chapéu. Sabe o que estava escrito?", 1.0, 0.5],
+    ["narrador", "EU! Com letrinha torta de boneca de pano.", 1.0, 0.6],
+    ["dona_benta", "Emília, isso foi muito feio. Enganar os outros não se faz.", 0.95, 0.6],
+    ["narrador", "Foi a primeira bronca que a Emília levou da Dona Benta. Ela saiu da sala batendo o pezinho, muito brava.", 1.0, 0.6],
+    ["narrador", "E a vovó tirou o papel da sorte: Tia Nastácia! Justo o desenho mais feio! Mas sorte é sorte, e a Tia Nastácia ia fazer o boneco.", 1.0, 0.8],
+
+    ["narrador", "Até agora: a Emília tentou trapacear no sorteio e levou uma bronca. E a Tia Nastácia ganhou o concurso.", 0.95, 0.8],
+    ["narrador", "Narizinho foi atrás da Emília. Ela estava arrumando as malas: umas caixinhas de fósforo, com vestidos e brinquedos.", 1.0, 0.5],
+    ["narizinho", "O que é isso, Emília?", 1.0, 0.4],
+    ["emilia", "Vou me mudar. Vou morar na casa do Pequeno Polegar. Ele me convidou na festa!", 1.05, 0.5],
+    ["narizinho", "Boba! O Polegar é pequenininho deste tamanho. Você não cabe na casa dele!", 1.0, 0.6],
+    ["narrador", "A Emília pensou um pouco. Ia ter que dormir do lado de fora, com as corujas e os morcegos. E ela tinha muito medo deles.", 1.0, 0.5],
+    ["emilia", "Então eu fico. Mas você me dá um vestido novo, de seda, com laço de fita?", 1.0, 0.5],
+    ["narizinho", "Dou. Mas com uma condição: fazer as pazes com a Tia Nastácia. Ela está triste na cozinha.", 1.0, 0.5],
+    ["emilia", "Só faço as pazes se ela me der o alfinete de pombinha.", 1.0, 0.6],
+    ["narrador", "Era um alfinete antigo, de aço azul. No lugar da cabeça, tinha uma pombinha de vidro colorido, carijó.", 0.95, 0.5],
+    ["narrador", "A Emília queria aquele alfinete mais do que tudo no mundo.", 0.95, 1.0],
+
+    ["narrador", "Resumindo: a Emília ficou brava e quis ir embora. Mas ficou, e agora quer o alfinete de pombinha da Tia Nastácia.", 0.95, 0.8],
+    ["narrador", "Enquanto isso, na cozinha, a Tia Nastácia esculpia o irmão do Pinóquio.", 1.0, 0.6],
+    ["narrador", "Como será que ele ficou? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

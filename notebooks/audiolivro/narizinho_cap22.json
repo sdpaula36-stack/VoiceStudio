@@ -1,0 +1,54 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 22,
+  "titulo": "A festa das princesas",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): Cara de Coruja, partes I a III. Texto conferido com a 1ª edição no Wikisource. Sem o convite ao Barba Azul; sem os castigos das irmãs de Cinderela.",
+  "vozes": {
+    "cinderela": {"voz": "female, young adult, high pitch", "semente": 401},
+    "branca": {"voz": "female, young adult, moderate pitch", "semente": 411}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte e dois: A festa das princesas.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o visconde descobriu que o falso Gato Félix era o ladrão de pintinhos. E virou o sábio da casa.", 1.0, 1.0],
+
+    ["narrador", "Um dia, Narizinho resolveu dar uma festa. Mas não uma festa qualquer! Ela convidou os personagens dos livros de histórias.", 1.0, 0.5],
+    ["pedrinho", "Como você mandou os convites?", 1.0, 0.4],
+    ["narizinho", "Por um beija-flor que vem todo dia beijar as rosas da Emília. Ele pegou as cartinhas no bico e foi entregar.", 1.0, 0.5],
+    ["narizinho", "Convidei a Cinderela, a Branca de Neve, o Pequeno Polegar, a Capinha Vermelha, o Aladim, o Gato de Botas, o Peter Pan... todo mundo!", 1.05, 0.6],
+    ["narrador", "Primeiro, era preciso tirar o visconde de trás da estante, onde ele tinha caído. Estava inteirinho, só que mais mofado e cheio de teia de aranha.", 1.0, 0.5],
+    ["pedrinho", "O senhor visconde vai ficar no alto da janela, com o binóculo da vovó, espiando a estrada. Quando aparecer uma poeirinha lá longe, avise!", 1.0, 0.5],
+    ["narrador", "E o Rabicó ficou na porta, de fitinha vermelha no rabo, para anunciar quem chegava.", 1.0, 0.6],
+    ["dona_benta", "Que festa é essa, Narizinho?", 0.95, 0.4],
+    ["narizinho", "Uma festa linda, vovó! Só reis, príncipes, princesas e fadas! Quando ouvir muitas palmas, venha espiar pelo buraco da fechadura.", 1.05, 0.8],
+    ["visconde", "Estou vendo uma poeirinha lá longe!", 1.0, 0.8, "galope"],
+
+    ["narrador", "Até agora: Narizinho convidou os personagens das histórias para uma festa. E alguém está chegando!", 0.95, 0.8],
+    ["narrador", "Uma carruagem parou no terreiro. E o Rabicó anunciou, todo atrapalhado:", 1.0, 0.4],
+    ["rabico", "A senhorita Cinderela, a princesa das botinas de vidro!", 1.0, 0.5],
+    ["narizinho", "Não é botina, Rabicó! É sapatinho!", 1.05, 0.5],
+    ["narrador", "A Emília correu e se enfiou debaixo da cadeira da princesa, só para ver o famoso sapatinho de perto. Cinderela achou graça e pôs a boneca no colo.", 1.0, 0.5],
+    ["emilia", "Um livro diz que o seu sapatinho era de cristal. Mas eu estou vendo um sapatinho de couro!", 1.05, 0.5],
+    ["cinderela", "No baile, eu fui de cristal. Mas sapato de cristal aperta muito o pé! Hoje eu uso sapatinho macio.", 0.95, 0.5],
+    ["emilia", "E o que aconteceu com a sua madrasta e as suas irmãs?", 1.0, 0.4],
+    ["cinderela", "Eu perdoei as três. Hoje elas são boazinhas, e moram numa casinha perto do meu castelo.", 0.95, 0.5],
+    ["emilia", "Como a senhora é boa! Eu não sei se perdoava...", 1.0, 0.8],
+    ["visconde", "Estou vendo outra poeirinha lá longe!", 1.0, 0.8, "galope"],
+
+    ["narrador", "Era a Branca de Neve. E ela trouxe um presente para a Emília: um espelho mágico, que responde a todas as perguntas.", 1.0, 0.5],
+    ["emilia", "Senhor espelho, qual é a boneca que conta as histórias mais bonitas?", 1.0, 0.5],
+    ["narrador", "E o espelho respondeu: É a ilustre Marquesa de Rabicó! E a Emília ficou toda prosa.", 1.0, 0.5, "magia"],
+    ["emilia", "Onde estão os sete anõezinhos?", 1.0, 0.4],
+    ["branca", "Moram comigo no castelo. São tão trabalhadores que o castelo brilha como ouro.", 0.95, 0.5],
+    ["emilia", "Por que a senhora não dá um deles para a Tia Nastácia ajudar na cozinha?", 1.0, 0.4],
+    ["branca", "Impossível! Se sair um, deixam de ser sete. E sete é um número mágico. Não se mexe nele!", 0.95, 0.8],
+    ["narrador", "Depois chegaram duas irmãs princesas, a Rosa Branca e a Rosa Vermelha, que sempre andam juntas.", 1.0, 0.5],
+    ["narrador", "A Rosa Branca casou com um urso que virou príncipe. E a Emília quis saber se ainda existia a pele do urso. Por que será?", 0.95, 2.5],
+    ["emilia", "Porque eu queria tanto ver uma pele de urso que virou príncipe!", 1.05, 0.8],
+
+    ["narrador", "Resumindo: chegaram a Cinderela, a Branca de Neve e as duas Rosas. E a Emília ganhou um espelho mágico.", 0.95, 0.8],
+    ["visconde", "Estou vendo uma poeirinha tão pequenininha que parece poeira de camundongo!", 1.0, 0.6],
+    ["narrador", "Quem será esse convidado tão pequeno? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

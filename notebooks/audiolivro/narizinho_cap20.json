@@ -1,0 +1,53 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 20,
+  "titulo": "A história da Emília",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Gato Félix, parte II. Texto conferido com a 1ª edição no Wikisource. Suavizado: nenhuma pastora morre; a madrasta não tem faca, só grita e ameaça castigar; o sapo vai para o brejo, sem meninos maltratando bichos.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo vinte: A história da Emília.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o Gato Félix contou uma história cheia de invenções. E de manhã, sumiu um pintinho do galinheiro.", 1.0, 1.0],
+
+    ["nastacia", "Eram doze pintinhos, Dona Benta. Agora só tem onze. Sumiu justo o mais bonito, o carijozinho!", 1.0, 0.5],
+    ["dona_benta", "Será alguma raposa? Ou algum gato vagabundo?", 0.95, 0.6],
+    ["pedrinho", "Vamos falar com o visconde. Desde que ficou embrulhado num livro do Sherlock Holmes, ele virou detetive!", 1.05, 0.5],
+    ["narrador", "Sherlock Holmes é um detetive famoso dos livros. Ele descobre quem fez as coisas olhando pistas bem pequenininhas.", 1.0, 0.5],
+    ["visconde", "Deixem comigo. Vou examinar o local do crime.", 0.95, 0.6],
+    ["narrador", "E o visconde passou o dia inteiro no galinheiro, olhando a poeira do chão e catando pelinhos.", 1.0, 0.6],
+    ["narrador", "Enquanto isso, a Emília pensou, pensou, pensou. E inventou a história que ia contar de noite.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Quando o lampião acendeu, a Emília entrou na sala, toda esticadinha, cheia de si.", 1.0, 0.5],
+    ["emilia", "Era uma vez um rei, um príncipe e uma fada, que moravam num palácio de cristal, na beira de um lago bem azul.", 0.95, 0.5],
+    ["narizinho", "Eu já sabia que vinha rei, príncipe e fada!", 1.0, 0.5],
+    ["emilia", "O príncipe disse: Pai, quero casar. Vou procurar uma pastora bem pobrezinha, mas com o coração de ouro.", 0.95, 0.5],
+    ["emilia", "E, para viajar escondido, o príncipe virou a fada numa bengalinha. E virou ele mesmo numa formiguinha.", 0.95, 0.8, "magia"],
+    ["narizinho", "Eu já sabia que vinha história de virar!", 1.0, 0.5],
+    ["emilia", "Não me atrapalhe! A formiguinha andou, andou, andou, e encontrou uma velha. A velha disse:", 0.95, 0.4],
+    ["emilia", "Para saber se uma pastora tem bom coração, vire um pobre e vá pedir um pão.", 0.95, 0.8],
+
+    ["narrador", "Até agora: na história da Emília, o príncipe virou formiguinha e foi procurar uma pastora de bom coração.", 0.95, 0.8],
+    ["emilia", "A formiguinha virou um pobre e pediu um pão para a primeira pastora. Ela deu uma pedra e disse: Toma, é um pão gostoso!", 0.95, 0.5],
+    ["emilia", "Quando a pastora foi lanchar, o pão dela também tinha virado pedra. E ela ficou sem lanche.", 0.95, 0.5],
+    ["emilia", "A segunda pastora deu um osso e disse a mesma mentira. E o lanche dela virou osso.", 0.95, 0.6],
+    ["emilia", "A terceira pastora era ainda mais pobre, e estava chorando. A madrasta dela era muito brava e só dava um pão velho e duro.", 0.9, 0.5],
+    ["emilia", "Mas ela olhou para o pobre e repartiu o pão. E deu o pedaço maior para ele!", 0.95, 0.6],
+    ["narrador", "O que será que aconteceu com o pão dessa pastora?", 0.95, 2.5],
+    ["emilia", "Virou o doce mais gostoso do mundo! E quanto mais ela comia, mais sobrava!", 1.05, 0.8, "magia"],
+    ["emilia", "A madrasta sentiu o cheiro de doce e ficou furiosa. Gritou que ia dar um castigo muito grande na menina.", 0.95, 0.5],
+    ["emilia", "Mas nessa hora o pobre entrou e segurou o braço dela. E virou a madrasta num sapo, que foi morar sozinho no brejo.", 0.95, 0.8, "magia"],
+    ["emilia", "Depois, o pobre casou com a pastora. Os dois chegaram ao palácio, e ele virou príncipe outra vez. E a pastora virou a princesa mais linda que já existiu!", 0.95, 0.8],
+
+    ["narrador", "Todos bateram palmas.", 1.0, 0.5, "festa"],
+    ["dona_benta", "Não é que essa boneca aprendeu a contar histórias como gente grande?", 0.95, 0.5],
+    ["gato", "Eu não gostei. História de virar é fácil demais. Apareceu um problema, uma coisa vira outra, e pronto!", 1.0, 0.5],
+    ["narizinho", "Não ligue, Emília. A sua história merece nota dez!", 1.0, 0.5],
+    ["narrador", "A Emília ficou toda orgulhosa. E mostrou a língua para o Gato Félix.", 1.0, 0.8],
+
+    ["narrador", "Resumindo: a Emília contou a história da pastora de bom coração, e todos adoraram. Só o gato não gostou.", 0.95, 0.8],
+    ["dona_benta", "Vamos dormir, crianças. Amanhã, quem conta a história é o visconde.", 1.0, 0.6],
+    ["narrador", "Mas de manhã, Tia Nastácia foi ao galinheiro e voltou de mãos na cabeça. Tinha sumido mais um pintinho!", 1.0, 0.6],
+    ["narrador", "Será que o visconde vai descobrir o ladrão? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}
