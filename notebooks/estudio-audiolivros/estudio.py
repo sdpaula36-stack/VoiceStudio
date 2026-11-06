@@ -851,7 +851,8 @@ if not os.path.exists(MARCA):
         cwd=REPO_DIR, what="instalação do backend")
     from huggingface_hub import snapshot_download
     print("Baixando o modelo de voz (alguns GB, só na primeira vez)...")
-    snapshot_download("k2-fsa/OmniVoice")
+    # token=False: o modelo é público; sem isso o Colab pede acesso ao Secret HF_TOKEN.
+    snapshot_download("k2-fsa/OmniVoice", token=False)
     open(MARCA, "w").close()
 print("Instalado.")
 

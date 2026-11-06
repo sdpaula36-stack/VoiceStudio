@@ -11,7 +11,7 @@ Para acrescentar uma lição: data, o que aconteceu, o que fazer, e onde ficou a
 | 2026-11-05 | Sem aceitar as licenças do `k2-fsa/OmniVoice` e do `eustlb/higgs-audio-v2-tokenizer`, o `/generate` falha. A versão antiga (trocar `False` por `True`) travou o piloto. | Célula 4.5 automática em todo notebook; `gerar()` sugere rodar a 4.5 se o erro falar de licença |
 | 2026-11-06 | A célula 4.5 precisa rodar em **toda sessão nova** do Colab: o servidor começa do zero. | "Executar tudo" sempre passa por ela |
 | 2026-11-06 | A janela de autorização do Google Drive abre fora do alcance do Claude; só a pessoa consegue autorizar. É o único passo manual. | Manual (célula 2) |
-| 2026-11-06 | O Colab pede o Secret `HF_TOKEN`: pode cancelar, os modelos são públicos. | Manual |
+| 2026-11-06 | O Colab pedia acesso ao Secret `HF_TOKEN` em toda sessão: o download do modelo procurava um token mesmo sendo público. | Célula 3 baixa com `token=False`; se ainda aparecer, pode cancelar |
 | 2026-11-06 | Narrar outro livro na mesma sessão não precisa reinstalar. | Célula 3 pula a instalação se já foi feita; troque o livro e "Executar tudo" de novo |
 | 2026-11-06 | T4 narra cerca de 1,5 min por capítulo de 3 a 4 min de áudio; a instalação leva de 5 a 8 min. | Célula 7 mostra o tempo de cada capítulo |
 
