@@ -1,0 +1,312 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 2,
+ "titulo": "A consciência como doença",
+ "original": "Parte I, capítulo II",
+ "cortes": [
+  "Parte I, cap. II: as leis da consciência intensificada e o consolo do canalha (2 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo dois.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "No capítulo anterior, o narrador disse que não conseguiu ser nada, nem mesmo um inseto. Agora ele vai explicar por quê.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo dois.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Agora quero lhes contar, senhores, queiram ou não queiram ouvir, por que eu nem mesmo um inseto consegui me tornar. Digo-lhes solenemente que muitas vezes quis me tornar um inseto. Mas nem disso fui digno.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Juro-lhes, senhores, que ter consciência demais é uma doença; uma doença de verdade, completa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Para a vida humana comum, bastaria de sobra a consciência humana comum, isto é, a metade, um quarto da porção que cabe ao homem culto do nosso infeliz século dezenove,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "sobretudo se ele tem a dupla infelicidade de morar em Petersburgo, a cidade mais abstrata e mais premeditada de todo o globo terrestre. (Há cidades premeditadas e cidades não premeditadas.)",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Seria perfeitamente suficiente, por exemplo, a consciência com que vivem todas as chamadas pessoas espontâneas e os homens de ação.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aposto que os senhores pensam que escrevo tudo isso para me exibir, para fazer graça às custas dos homens de ação, e que, por exibicionismo de mau gosto, faço barulho com o sabre, como o meu oficial.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, senhores, quem pode se envaidecer das próprias doenças, e ainda se exibir com elas?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aliás, o que estou dizendo? Todos fazem isso; é justamente das doenças que as pessoas se envaidecem, e eu talvez mais que todos. Não vamos discutir; a minha objeção é absurda.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, mesmo assim, estou firmemente convencido de que não só consciência demais, mas qualquer consciência é uma doença. Insisto nisso.",
+   0.95,
+   1.2
+  ],
+  [
+   "comentarista",
+   "Petersburgo foi fundada em 1703, por ordem de Pedro, o Grande, num pântano à beira do mar, para ser a capital moderna da Rússia. Daí a piada: é uma cidade feita de propósito, quase uma ideia de cidade.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Antes de Dostoiévski, Púchkin já tinha feito de Petersburgo uma personagem, no poema O Cavaleiro de Bronze, e Gógol, nos seus contos de Petersburgo.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Deixemos isso por um minuto. Digam-me uma coisa: por que acontecia, como que de propósito, que naqueles mesmos minutos, sim, nos mesmíssimos minutos,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "em que eu era mais capaz de perceber todas as sutilezas de tudo o que é belo e sublime, como se dizia entre nós em outros tempos,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "acontecia de eu já não perceber, e sim fazer coisas tão feias, coisas que... bem, numa palavra, que talvez todos façam, mas que, como de propósito, me vinham justamente quando eu tinha mais consciência de que não devia fazê-las de modo algum?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quanto mais consciência eu tinha do bem e de todo esse belo e sublime, mais fundo eu afundava no meu lodo, e mais capaz ficava de me atolar nele por completo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas o traço principal era que tudo isso parecia não estar em mim por acaso, mas como se tivesse de ser assim. Como se fosse o meu estado mais normal, e de modo algum uma doença ou um defeito,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "de modo que, por fim, até perdi a vontade de lutar contra esse defeito. Acabei quase acreditando (e talvez tenha mesmo acreditado) que esse era, talvez, o meu estado normal.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas antes, no começo, quanto tormento eu suportei nessa luta! Eu não acreditava que isso acontecesse com os outros, e por isso guardei a vida inteira como um segredo. Eu tinha vergonha (talvez ainda tenha);",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "chegava ao ponto de sentir um prazerzinho secreto, anormal, mesquinho, ao voltar para o meu canto numa daquelas noites mais sórdidas de Petersburgo,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e ter a consciência aguda de que hoje, de novo, eu tinha feito uma sujeira, e que o que estava feito não tinha mais volta;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e, por dentro, em segredo, roer, roer a mim mesmo com os dentes, serrar e chupar a mim mesmo, até que a amargura se transformava, enfim, numa doçura vergonhosa, maldita, e, por fim, num prazer decidido, sério!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Sim, num prazer, num prazer! Insisto nisso.",
+   0.95,
+   1.2
+  ],
+  [
+   "comentarista",
+   "A expressão o belo e o sublime vem da estética do século dezoito, de Kant e de Schiller, e virou bordão dos idealistas russos dos anos 1840.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Dostoiévski foi um deles. Em 1849, foi preso por frequentar um círculo de discussão, o de Petrachévski, passou por uma falsa execução e cumpriu quatro anos de trabalhos forçados na Sibéria.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Isso é fato. Agora, uma interpretação: aqui ele parece rir do idealista que ele mesmo foi, o homem que sente o sublime e, no minuto seguinte, faz a coisa feia.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Comecei a falar justamente porque quero saber ao certo: será que os outros também têm prazeres assim? Vou lhes explicar: o prazer vinha justamente da consciência viva demais da própria humilhação;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "de sentir que já se chegou à última parede; que isso é ruim, mas que não pode ser de outro jeito; que não há saída, que você nunca vai se tornar outra pessoa;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "que, mesmo que ainda houvesse tempo e fé para se transformar em outra coisa, você mesmo, com certeza, não ia querer se transformar;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e, se quisesse, também não faria nada, porque, na verdade, talvez nem exista em que se transformar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele atribui tudo às leis da consciência intensificada, e à inércia que vem delas.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas chega... Ah, quanta coisa eu amontoei, e o que expliquei?... Como se explica aqui o prazer? Mas eu vou me explicar! Vou levar isso até o fim! Foi para isso mesmo que peguei a pena...",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Eu, por exemplo, sou terrivelmente vaidoso. Sou desconfiado e suscetível como um corcunda ou um anão, mas, palavra, tive momentos em que, se me dessem uma bofetada, talvez eu até ficasse contente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Falo sério: com certeza eu saberia encontrar até nisso o meu tipo de prazer; naturalmente, o prazer do desespero. Mas é no desespero que estão os prazeres mais ardentes,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "sobretudo quando se tem uma consciência muito forte de que a situação não tem saída. E ali, com a bofetada, a consciência de como fomos reduzidos a pó esmaga de vez.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O principal, porém, é que, por mais voltas que se dê, sempre acabo sendo o primeiro culpado de tudo e, o que é mais ofensivo, culpado sem culpa e, por assim dizer, pelas leis da natureza.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Culpado, em primeiro lugar, porque sou mais inteligente do que todos os que me cercam.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Eu sempre me considerei mais inteligente do que todos os que me cercam, e às vezes, acreditem, até me envergonhava disso. Pelo menos, a vida inteira olhei meio de lado, e nunca consegui olhar as pessoas nos olhos.)",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Culpado, enfim, porque, se houvesse em mim alguma generosidade, eu só teria mais tormento com a consciência de toda a sua inutilidade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Afinal, eu com certeza não saberia fazer nada com a minha generosidade: nem perdoar, porque o ofensor talvez tenha me batido pelas leis da natureza, e as leis da natureza não se perdoam;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "nem esquecer, porque, ainda que sejam as leis da natureza, ofende do mesmo jeito.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por fim, mesmo que eu quisesse ser nada generoso e, ao contrário, desejasse me vingar do ofensor, eu não conseguiria me vingar de ninguém em nada, porque com certeza não me decidiria a fazer coisa alguma, mesmo que pudesse.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por que não me decidiria? Sobre isso, quero dizer duas palavras à parte.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Guarde duas imagens deste capítulo, porque elas voltam: a última parede, onde ele diz ter chegado, e as leis da natureza, que não dá para perdoar. No capítulo três, a parede vira o centro da discussão.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Fora do livro, dois ecos. Dois anos depois, em 1866, Dostoiévski publicou Crime e Castigo, cujo herói, Raskólnikov, também pensa demais antes de agir.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E em 1887 Nietzsche encontrou este livro, por acaso, numa tradução francesa, e contou numa carta ao amigo Overbeck que reconheceu ali um parente. É um fato curioso; não prova que um influenciou o outro.",
+   1.0,
+   1.5
+  ]
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 1,
+ "titulo": "O homem doente",
+ "original": "Parte I, capítulo I (com a nota do autor)",
+ "cortes": [
+  "Parte I, cap. I: os gritos contra os velhos respeitáveis (1 frase).",
+  "Parte I, cap. I: a criada e os conselhos para sair de Petersburgo (2 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo, de Fiódor Dostoiévski, em leitura guiada. Parte um, capítulo um.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Eu sou a voz dos comentários. A outra voz, a do leitor, só lê o texto de Dostoiévski, numa tradução nossa, feita do russo. Quando houver um corte, o leitor avisa entre parênteses.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "O livro saiu em 1864, na revista Época, dos irmãos Dostoiévski. Foi um ano duro para ele: a primeira mulher morreu em abril, e o irmão Mikhail, em julho.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Antes do primeiro capítulo, há uma nota do próprio autor. Ela importa, porque avisa que quem fala no livro não é Dostoiévski.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Nota do autor.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Tanto o autor destas memórias quanto as próprias memórias são, evidentemente, inventados. Mesmo assim, pessoas como o autor de memórias assim não só podem como até devem existir na nossa sociedade,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "se levarmos em conta as circunstâncias em que a nossa sociedade, de modo geral, se formou.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu quis mostrar ao público, com mais destaque do que de costume, um dos caracteres de um tempo que acabou de passar. É um dos representantes de uma geração que ainda vive os seus últimos dias.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Neste fragmento, intitulado O subsolo, essa pessoa apresenta a si mesma e ao seu modo de ver, e como que quer explicar as causas pelas quais ela surgiu, e tinha de surgir, no nosso meio.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "No fragmento seguinte virão as verdadeiras memórias dessa pessoa, sobre alguns acontecimentos da sua vida. Fiódor Dostoiévski.",
+   0.95,
+   1.2
+  ],
+  [
+   "leitor",
+   "Parte um. O subsolo. Capítulo um.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Sou um homem doente... Sou um homem mau. Um homem desagradável, é o que eu sou. Acho que estou doente do fígado.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "Aliás, não entendo patavina da minha doença, e não sei ao certo o que me dói. Não me trato e nunca me tratei, embora respeite a medicina e os médicos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Além disso, sou supersticioso ao extremo; bem, pelo menos o bastante para respeitar a medicina. (Sou instruído o bastante para não ser supersticioso, mas sou supersticioso.)",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não, senhores, eu não quero me tratar por raiva. Isso, com certeza, os senhores não vão ter a bondade de entender. Pois eu entendo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu, naturalmente, não saberia explicar a quem exatamente vou atingir com a minha raiva. Sei perfeitamente que não vou aprontar nada contra os médicos por não me tratar com eles;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "sei melhor do que ninguém que, com tudo isso, só vou prejudicar a mim mesmo, e a mais ninguém. Mas, mesmo assim, se não me trato, é por raiva. O fígado dói? Pois que doa ainda mais!",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Vivo assim há muito tempo: uns vinte anos. Agora tenho quarenta. Antes eu trabalhava numa repartição; agora não trabalho mais. Fui um funcionário mau. Era grosseiro, e tinha prazer nisso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Afinal, eu não aceitava propina, então precisava me recompensar pelo menos com isso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Piada ruim; mas não vou riscá-la. Escrevi achando que ia sair muito espirituosa; e agora que eu mesmo vi que só queria me exibir de um jeito baixo, de propósito não vou riscá-la!)",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quando os requerentes se aproximavam da minha mesa para pedir informações, eu rangia os dentes para eles, e sentia um prazer implacável quando conseguia magoar alguém. Quase sempre conseguia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Na maioria era gente tímida: requerentes, já se sabe. Mas, entre os janotas, havia um oficial que eu não suportava. Ele não queria de jeito nenhum se submeter, e fazia um barulho repugnante com o sabre.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por causa desse sabre, ficamos um ano e meio em guerra. No fim, eu venci. Ele parou de fazer barulho. Aliás, isso foi ainda na minha juventude.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas sabem, senhores, qual era o ponto principal da minha raiva? Pois é aí que estava toda a questão, aí é que estava a maior torpeza:",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "a todo instante, mesmo no momento de maior bile, eu tinha a consciência vergonhosa de que não só não era um homem mau, como nem sequer era um homem amargurado; de que só espantava os pardais à toa, e com isso me divertia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Estou espumando pela boca, mas tragam-me uma bonequinha qualquer, deem-me um chazinho com açúcar, e eu talvez até me acalme. Até me comovo de coração,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "embora depois, com certeza, vá ranger os dentes contra mim mesmo, e passe alguns meses sem dormir, de vergonha. Esse é o meu jeito.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Isso que eu disse há pouco, que fui um funcionário mau, foi mentira. Menti por raiva. Eu só me divertia, com os requerentes e com o oficial, mas no fundo nunca consegui me tornar mau.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "A todo instante eu sentia em mim muitos e muitos elementos contrários a isso. Sentia que eles fervilhavam dentro de mim, esses elementos contrários.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Sabia que fervilharam em mim a vida inteira, e que pediam para sair, mas eu não deixava, não deixava, de propósito não deixava que saíssem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eles me torturavam até a vergonha; me levavam a convulsões e, por fim, me cansaram. E como me cansaram!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Será que não lhes parece, senhores, que agora estou me arrependendo de alguma coisa diante dos senhores, que estou pedindo perdão por alguma coisa?... Tenho certeza de que lhes parece...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, aliás, garanto que para mim tanto faz, se lhes parece...",
+   0.95,
+   1.2
+  ],
+  [
+   "comentarista",
+   "Repare no método do narrador. Ele abre dizendo: sou um homem mau. Dois parágrafos depois: era mentira, menti por raiva.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Ele afirma, desmente e ainda adivinha o que você está pensando dele. Esse vai e vem é o livro inteiro.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Uma leitura possível: ele não consegue falar sem imaginar alguém que o julga. Por isso nunca diz nada de uma vez só.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Eu não só não consegui me tornar mau, como não consegui me tornar coisa nenhuma: nem mau, nem bom, nem canalha, nem honesto, nem herói, nem inseto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Agora vou levando a vida no meu canto, provocando a mim mesmo com o consolo raivoso e inútil de que um homem inteligente não pode, a sério, se tornar coisa alguma, e que só o tolo se torna alguma coisa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Sim, senhores: o homem inteligente do século dezenove precisa, e tem a obrigação moral, de ser uma criatura essencialmente sem caráter; e o homem de caráter, o homem de ação, uma criatura essencialmente limitada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Esta é a minha convicção de quarenta anos. Tenho agora quarenta anos, e quarenta anos são uma vida inteira; é a mais profunda velhice. Viver além dos quarenta é indecente, vulgar, imoral!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quem vive mais de quarenta anos? Respondam com sinceridade, com honestidade! Eu lhes digo quem vive: os tolos e os canalhas vivem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele repete, aos gritos, que dirá isso na cara de todos os velhos respeitáveis e do mundo inteiro.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Eu tenho o direito de falar assim, porque eu mesmo vou viver até os sessenta. Vou viver até os setenta! Vou viver até os oitenta!... Esperem! Deixem-me tomar fôlego...",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Os senhores provavelmente acham que eu quero fazê-los rir? Também nisso se enganaram. Não sou de jeito nenhum um homem tão alegre quanto lhes parece, ou quanto talvez lhes pareça;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "aliás, se os senhores, irritados com toda esta tagarelice (e eu já sinto que estão irritados), resolverem me perguntar: afinal, quem é você? Eu lhes respondo: sou um assessor de colégio.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Trabalhei para ter o que comer (mas unicamente para isso), e quando, no ano passado, um parente distante me deixou seis mil rublos em testamento, pedi demissão na mesma hora e me instalei no meu canto.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu já morava antes neste canto, mas agora me instalei neste canto. Meu quarto é ruim, horrível, na beira da cidade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele descreve a criada e os conselhos para deixar Petersburgo, por causa do clima e do custo de vida.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas eu fico em Petersburgo; não vou sair de Petersburgo! Não vou sair porque... Ah! Mas isso é absolutamente indiferente: se eu saio ou não saio.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Pois bem: sobre o que um homem decente pode falar com mais prazer?",
+   0.95,
+   1.2
+  ],
+  [
+   "leitor",
+   "Resposta: sobre si mesmo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Pois então eu também vou falar de mim.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Um fato para situar o narrador: assessor de colégio era o oitavo dos catorze graus da Tabela de Patentes, a escada do funcionalismo russo criada por Pedro, o Grande. Um posto do meio, sem brilho.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "O funcionário pequeno é uma tradição da literatura russa. Está em O Capote, de Gógol, e no primeiro romance do próprio Dostoiévski, Gente Pobre, de 1846.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "A diferença é que o homem do subsolo não pede pena a ninguém. Ele ataca, e ataca primeiro.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Um último detalhe: o narrador diz que viver além dos quarenta é indecente. Quando escreveu isso, Dostoiévski tinha quarenta e dois anos.",
+   1.0,
+   1.5
+  ]
+ ]
+}
