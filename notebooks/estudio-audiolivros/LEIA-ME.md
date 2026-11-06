@@ -8,6 +8,7 @@ Um notebook e um script para todos os livros, PCD e pessoais. A parte criativa (
 | `estudio.py` | O motor: lê e confere os roteiros, narra, monta as versões, organiza o Drive e baixa textos |
 | `livros.json` | O catálogo: tipo de cada livro, pasta no Drive e onde estão os roteiros no fork |
 | `LICOES.md` | O que aprendemos e onde cada lição já está automatizada |
+| `CONTEXTO.md` | **Comece por aqui:** o contexto completo do projeto, para conversas futuras |
 
 ## Narrar
 
