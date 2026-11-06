@@ -1,0 +1,54 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 35,
+  "titulo": "O leão e o burro",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): A Pena de Papagaio, partes VII e VIII. Texto conferido com a 1ª edição no Wikisource. Suavizado: sem ossos nem cheiro de carniça; os bichos querem expulsar o burro do reino (não matá-lo); o Peninha joga uma pinha que dá um galo na cabeça do tigre.",
+  "vozes": {
+    "esopo": {"voz": "male, elderly, low pitch", "semente": 531},
+    "laura": {"voz": "female, teenager, high pitch", "semente": 541},
+    "leao": {"voz": "male, middle-aged, very low pitch", "semente": 551},
+    "raposa": {"voz": "female, middle-aged, moderate pitch", "semente": 561},
+    "burro": {"voz": "male, middle-aged, low pitch", "semente": 571}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e cinco: O leão e o burro.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a Emília ajudou a cigarra, e a formiga aprendeu a dividir.", 1.0, 1.0],
+
+    ["narrador", "O Peninha chegou com um homem enrolado num pano branco, como os gregos antigos.", 1.0, 0.4],
+    ["emilia", "Quem é esse moço que perdeu a roupa e veio embrulhado na toalha?", 1.05, 0.5],
+    ["lafontaine", "Não é toalha, bonequinha. É a roupa dos gregos de antigamente. Este é Esopo, o primeiro homem que escreveu fábulas.", 0.95, 0.5],
+    ["esopo", "Uma bonequinha que fala! Em Atenas, eu vi muitas bonecas, mas todas mudas. Diga uma bobagem para o velho Esopo ver.", 0.95, 0.5],
+    ["emilia", "Assim, de encomenda, eu não sei...", 1.0, 0.8],
+    ["narrador", "Os dois sábios foram conversar numa pedra. E os meninos seguiram o Peninha floresta adentro.", 1.0, 0.5, "transicao"],
+
+    ["narrador", "Até agora: os meninos conheceram Esopo e foram explorar a floresta.", 0.95, 0.8],
+    ["narrador", "No caminho, encontraram a Menina do Leite, a Laura, com um pote de leite na cabeça.", 1.0, 0.4],
+    ["laura", "Vou vender este leite e comprar ovos. Dos ovos nascem pintinhos. Vendo as galinhas e compro porcos. Vendo os porcos e compro vacas!", 1.05, 0.5],
+    ["narrador", "Na fábula, ela sonha tanto que tropeça, e o pote cai e quebra. A Emília esperava o pote cair. Mas não caía!", 1.0, 0.5],
+    ["laura", "Isso já aconteceu uma vez. Agora eu uso uma lata bem fechada. Assim posso sonhar quanto quiser, sem derramar o leite!", 1.05, 0.8],
+    ["narrador", "E foi embora, sorrindo. Depois, chegaram na montanha do leão, o rei dos animais.", 1.0, 0.4],
+    ["penninha", "Tem uma fresta lá no alto da pedra. De lá, a gente vê tudo sem perigo. Venham na ponta dos pés!", 0.9, 0.5],
+    ["narrador", "Lá dentro da caverna, o leão estava num trono, com todos os bichos em volta. Havia uma doença no reino, e o leão queria descobrir de quem era a culpa.", 0.95, 0.8],
+
+    ["leao", "Amigos! Talvez a culpa seja minha. Eu já fiz muita maldade com os outros bichos.", 0.95, 0.5],
+    ["narrador", "Mas ele só falou isso para parecer bonzinho. Sabia que ninguém ia ter coragem de concordar.", 1.0, 0.4],
+    ["raposa", "Que bobagem, Majestade! O senhor é um santo!", 1.05, 0.5],
+    ["narrador", "E o tigre, e o urso, e todos os bichos fortes de dentes afiados, fizeram a mesma coisa. E a raposa disse que todos eram santos.", 1.0, 0.5],
+    ["narrador", "Por fim, chegou a vez do burro.", 0.95, 0.4],
+    ["burro", "Eu só como capim. Nunca fiz mal a ninguém. Nem coice eu dou, porque meus pés estão inchados.", 0.9, 0.5],
+    ["raposa", "Aí está o culpado! Ele só não dá coice porque está com o pé inchado. Fora com o burro!", 1.05, 0.5],
+    ["leao", "Que o burro seja expulso do reino! Tigre, leve ele daqui!", 1.0, 0.5],
+    ["narrador", "Mas isso é muito injusto! Por que o burro, que não fez nada, ficou com a culpa?", 0.95, 2.5],
+    ["narrador", "Porque ele era o mais fraco. E ninguém tinha coragem de culpar os mais fortes. É isso que a fábula ensina.", 0.95, 0.5],
+    ["narrador", "O tigre ia pegar o burro, quando uma pinha caiu do alto da caverna, bem na cabeça dele! Ploft! Ficou com um galo enorme.", 1.05, 0.5],
+    ["narrador", "Foi o Peninha que jogou!", 1.05, 0.4],
+    ["pedrinho", "Que pontaria!", 1.1, 0.4],
+    ["penninha", "Agora vamos fugir! O leão já sentiu o nosso cheiro!", 1.1, 0.8, "galope"],
+
+    ["narrador", "Resumindo: os bichos quiseram culpar o burro, que não tinha feito nada. Mas o Peninha defendeu o burro.", 0.95, 0.8],
+    ["narrador", "E todos saíram correndo montanha abaixo, cada um para um lado... Para onde será que eles foram parar?", 1.0, 0.6],
+    ["narrador", "Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

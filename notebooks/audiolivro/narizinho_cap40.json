@@ -1,0 +1,51 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 40,
+  "titulo": "De volta ao sítio",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Pó de Pirlimpimpim, parte VII, o fim do livro. Texto conferido com a 1ª edição no Wikisource. O barão viaja a chamado do Imperador (sem falar em guerra). Fecho com o príncipe ainda desaparecido, como no original.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo quarenta, o último: De volta ao sítio.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, do ovo gigante nasceu um pintão, e todos fugiram para o castelo do barão.", 1.0, 1.0],
+
+    ["narrador", "Naquela noite, a vovó foi dormir cedo. Os meninos ficaram ouvindo as histórias de caçada do barão.", 1.0, 0.4],
+    ["narrador", "Mas chegou um mensageiro a cavalo, com uma carta do Imperador. O barão precisava voltar para o país dele, a Alemanha, na mesma hora.", 1.0, 0.5],
+    ["barao", "Vocês podem ficar no castelo quanto tempo quiserem. Os criados vão cuidar de vocês.", 0.95, 0.5],
+    ["emilia", "Traga um presente para mim!", 1.05, 0.4],
+    ["narrador", "E o barão foi embora.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: o barão precisou viajar, e os meninos ficaram sozinhos no castelo, com a vovó.", 0.95, 0.8],
+    ["dona_benta", "O que vai ser de mim, neste castelo, com o pássaro Roca morando aqui do lado?", 0.9, 0.5],
+    ["pedrinho", "Calma, vovó. Do jeito que eu trouxe a senhora, eu levo de volta.", 1.0, 0.5],
+    ["narrador", "O Pedrinho deu uma pitada de pó para a vovó. Ela cheirou... e nada. Mais uma pitada. Nada!", 1.0, 0.5],
+    ["narrador", "Por que será que o pó não funcionou?", 0.95, 2.5],
+    ["narrador", "Porque o pó molhou na água do mar, quando o Pedrinho entrou para salvar o burro. E o pó de pirlimpimpim aguenta tudo, menos sal!", 1.0, 0.5],
+    ["narrador", "Nessa hora, ouviram um barulho de asas lá fora. O pássaro Roca vinha voando para o castelo!", 1.05, 0.5],
+    ["dona_benta", "Socorro! Acudam!", 1.1, 0.5],
+    ["narrador", "Todos corriam de um lado para o outro. E foi a Emília que teve a grande ideia.", 1.0, 0.4],
+    ["emilia", "Fechem os olhos, com toda a força!", 1.1, 0.5],
+    ["narrador", "Todos fecharam os olhos bem fechados, como a gente faz nos sonhos. E quando abriram...", 0.9, 0.8, "magia"],
+    ["narrador", "Estavam no sítio de novo, pertinho da porteira!", 1.05, 0.8],
+
+    ["narrador", "Até agora: com a ideia da Emília, todos voltaram para casa.", 0.95, 0.8],
+    ["dona_benta", "Não contem nada para a Nastácia. Vamos fingir que fomos à casa do compadre Teodureto.", 0.9, 0.5],
+    ["narrador", "Mas a Tia Nastácia estava na varanda, de mãos na cintura.", 1.0, 0.4],
+    ["nastacia", "Não precisa dizer nada, sinhá. O burro chegou primeiro e me contou a história inteirinha!", 1.0, 0.6],
+    ["narrador", "E a Dona Benta, que nunca tinha mentido na vida, foi para o quarto, toda envergonhada.", 0.95, 0.8],
+    ["narrador", "No dia seguinte, chegou uma carta da mãe do Pedrinho. Ele precisava voltar para a cidade.", 0.95, 0.5],
+    ["pedrinho", "Que pena! Justo agora que temos o burro falante e o Peninha para viajar!", 0.95, 0.5],
+    ["narrador", "O Pedrinho tomou café com os bolinhos da Tia Nastácia e montou no cavalinho.", 0.95, 0.4],
+    ["pedrinho", "Adeus, vovó! Adeus, Narizinho! Adeus, Tia Nastácia! Adeus, Emília! Adeus, Faz-de-Conta!", 1.0, 0.5],
+    ["emilia", "Espere! Você esqueceu de se despedir do visconde!", 1.05, 0.4],
+    ["pedrinho", "Mas o visconde está todo estragado, Emília.", 0.95, 0.4],
+    ["emilia", "Está estragado, mas não acabou. Eu escutei aqui dentro: a alma dele está vivinha! A Tia Nastácia vai fazer ele de novo.", 1.0, 0.6],
+    ["narrador", "O Pedrinho riu e deu um beijinho no pedaço de sabugo. Depois saiu a galope, para a Emília não ver duas lágrimas que caíam dos olhos dele.", 0.9, 1.0, "galope"],
+
+    ["narrador", "Resumindo: todos voltaram do Mundo das Maravilhas, e o Pedrinho foi para a cidade, com saudade.", 0.95, 0.8],
+    ["narrador", "E assim terminam as Reinações de Narizinho.", 0.9, 0.6],
+    ["narrador", "Mas o sítio continua lá. O visconde vai ganhar braços novos. O Peninha prometeu voltar. E a Narizinho ainda pensa no Príncipe Escamado, onde quer que ele esteja.", 0.9, 0.8],
+    ["narrador", "Essas, porém, são outras histórias. Obrigado por ouvir. Até a próxima!", 0.9, 1.0, "festa"]
+  ]
+}

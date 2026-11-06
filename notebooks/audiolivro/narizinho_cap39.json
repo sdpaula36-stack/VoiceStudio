@@ -1,0 +1,44 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 39,
+  "titulo": "O ovo gigante",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Pó de Pirlimpimpim, partes V e VI. Texto conferido com a 1ª edição no Wikisource. Suavizado: o visconde não morre nem é comido por peixes; perde os braços e as pernas no mar e fica desacordado, e a Emília guarda o tronco para a Tia Nastácia consertar.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e nove: O ovo gigante.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o barão e o Pedrinho salvaram o burro. Mas o visconde sumiu, com a malinha da Emília.", 1.0, 1.0],
+
+    ["narrador", "Narizinho estava catando conchinhas na praia, quando gritou:", 1.0, 0.4],
+    ["narizinho", "Corram! Achei o visconde!", 1.1, 0.5],
+    ["narrador", "O visconde estava meio enterrado na areia, desacordado. O mar tinha levado os braços, as pernas e a cartolinha dele.", 0.9, 0.5],
+    ["narrador", "Mas ele não tinha largado a malinha da Emília. Que visconde leal!", 0.95, 0.6],
+    ["narrador", "Todos ficaram tristes. E a Emília? O que será que ela fez?", 0.95, 2.5],
+    ["narrador", "Ela abriu a malinha, para ver se estava tudo lá dentro! Depois guardou o visconde na malinha.", 1.0, 0.5],
+    ["emilia", "A Tia Nastácia é muito habilidosa. Com este pedaço de visconde, ela faz um visconde novinho, ainda mais bonito!", 1.0, 0.6],
+    ["dona_benta", "Pobre visconde. A gente nunca deu muito valor a ele. E ele foi tão fiel...", 0.9, 0.8, "transicao"],
+
+    ["narrador", "Até agora: o visconde ficou muito estragado no mar, e a Emília guardou ele na malinha, para consertar.", 0.95, 0.8],
+    ["narrador", "Uma carruagem veio buscar todos para o castelo do barão. Mas no meio do caminho, entre as montanhas, parou de repente.", 1.0, 0.5, "galope"],
+    ["barao", "Uma pedra redonda enorme caiu da montanha e fechou a passagem.", 1.0, 0.5],
+    ["narrador", "Mas não era pedra. Era um ovo do pássaro Roca! Maior do que dois barris, um em cima do outro!", 1.05, 0.5],
+    ["dona_benta", "Que pena a Nastácia não estar aqui para ver um ovo deste tamanho!", 1.0, 0.5],
+    ["narrador", "Para passar, precisavam quebrar o ovo. O barão mandou buscar picaretas.", 1.0, 0.4],
+    ["emilia", "Eu também quero uma! Eu também quero quebrar o ovo!", 1.1, 0.5],
+    ["narrador", "Bateram, bateram, até a casca rachar. O barão gritou:", 1.0, 0.4],
+    ["barao", "Fujam! Vai escorrer clara e gema e virar tudo omelete!", 1.1, 0.5],
+    ["narrador", "Todos subiram no barranco. A vovó foi puxada pelos meninos.", 1.0, 0.5],
+    ["dona_benta", "Viver mais de setenta anos para fugir de virar omelete!", 1.0, 0.6],
+    ["narrador", "Mas o que será que saiu do ovo?", 0.95, 2.5],
+    ["narrador", "Um pintinho gigante! Ele pôs a cabeça para fora e piou tão alto que dava para ouvir de muito longe.", 1.05, 0.5],
+    ["barao", "Se a mãe dele ouvir, vem correndo! Vamos amarrar o bico desse pintão!", 1.05, 0.5],
+    ["narrador", "Todos ajudaram, até a vovó. E amarraram o bico do pintão com cordas. Mas o pássaro Roca já tinha ouvido, e vinha voando como um furacão de penas!", 1.05, 0.5],
+    ["barao", "Corram para o castelo!", 1.1, 0.5],
+    ["narrador", "Até a vovó esqueceu os setenta anos e correu como um veado! Chegou ao castelo sem fôlego.", 1.05, 0.6],
+    ["narrador", "Lá da torre, o Pedrinho viu o pássaro Roca chegar no ninho. Ela viu o filhote, ficou feliz, e nem percebeu o bico amarrado!", 1.0, 1.0],
+
+    ["narrador", "Resumindo: do ovo gigante nasceu um pintão, e todos fugiram para o castelo do barão.", 0.95, 0.8],
+    ["narrador", "Mas como eles vão voltar para o sítio agora? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

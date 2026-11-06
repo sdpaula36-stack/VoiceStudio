@@ -1,0 +1,51 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 38,
+  "titulo": "O pássaro Roca",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Pó de Pirlimpimpim, partes III e IV. Texto conferido com a 1ª edição no Wikisource. Suavizado: sem o soco no olho do barão; a faísca sai de duas pedras batidas; ninguém fala em ser devorado.",
+  "vozes": {
+    "barao": {"voz": "male, middle-aged, moderate pitch", "semente": 591}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e oito: O pássaro Roca.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a vovó foi viajar com os netos, com o pó de pirlimpimpim. Mas o Pedrinho deu pó demais.", 1.0, 1.0],
+
+    ["narrador", "Em vez do campo verde do País das Fábulas, chegaram num deserto, com pedras pretas de um lado e o mar do outro.", 1.0, 0.5],
+    ["narrador", "Só havia duas árvores gêmeas, muito esquisitas. Os troncos eram cheios de escamas, e as raízes eram curvas como unhas.", 1.0, 0.5],
+    ["narrador", "A vovó sentou numa raiz para descansar. Mas a raiz se mexeu!", 1.0, 0.5],
+    ["dona_benta", "Acudam! A raiz mexeu!", 1.1, 0.5],
+    ["narrador", "E as duas árvores subiram para o céu, levando o burro pendurado pelo cabresto!", 1.05, 0.5],
+    ["dona_benta", "Não eram árvores! Eram as pernas do pássaro Roca! E eu sentei no dedo dele!", 1.05, 0.6],
+    ["narrador", "O pássaro Roca é um pássaro gigante das histórias das Mil e Uma Noites. Tão grande que nem viu os meninos lá embaixo.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: o pássaro Roca voou para o céu, levando o burro pendurado!", 0.95, 0.8],
+    ["pedrinho", "Pelo mapa, o castelo do barão de Münchhausen é aqui perto. Ele é o melhor atirador do mundo. Pode cortar o cabresto com um tiro!", 1.05, 0.5],
+    ["narrador", "O Pedrinho cheirou um pouquinho de pó e sumiu como fumaça. A vovó ficou tremendo de medo.", 1.0, 0.5],
+    ["narizinho", "Não tenha medo, vovó! Eu e o Pedrinho já vivemos tantas aventuras que nem sei mais o que é medo.", 1.0, 0.5],
+    ["dona_benta", "É que eu sou de carne, minha filha. Quando você crescer, vai entender.", 0.9, 0.6],
+    ["narrador", "Logo o Pedrinho voltou com o barão. Ele tinha botas grandes, chapéu de três pontas e uma espingarda antiga.", 1.0, 0.5],
+    ["barao", "Não se preocupe, minha senhora. Eu estou aqui para ajudar.", 0.95, 0.5],
+    ["narrador", "A vovó ofereceu uma coxinha da galinha que tinha trazido. E o barão, sentado no chão, comeu quase tudo sozinho!", 1.0, 0.6],
+    ["barao", "Eu não atiro com bala no pássaro Roca. Atiro caroços de cereja! Eles nascem nas costas dele, e viram árvores. Já plantei umas cem cerejeiras lá em cima!", 1.0, 0.8],
+
+    ["narrador", "Até agora: o barão de Münchhausen chegou para salvar o burro.", 0.95, 0.8],
+    ["narrador", "A espingarda do barão era bem antiga. Ela tinha uma pedrinha chamada pederneira, que faz uma faísca para o tiro sair.", 1.0, 0.5],
+    ["narrador", "Mas a Emília, curiosa, escondeu a pedrinha, só para ver o que o barão ia fazer.", 1.0, 0.5],
+    ["narrador", "O pássaro Roca desceu, voando sobre o mar. O barão mirou e apertou o gatilho: plec! Nada!", 1.0, 0.5],
+    ["barao", "Onde foi parar a pederneira da minha espingarda?", 1.0, 0.4],
+    ["narrador", "E agora? Como fazer a faísca?", 0.95, 2.5],
+    ["narrador", "O Pedrinho pegou duas pedras da praia e bateu uma na outra, bem perto da espingarda. Saiu uma faísca linda!", 1.05, 0.5],
+    ["narrador", "Bum! O tiro acertou bem no cabresto. E o burro caiu no mar: tchibum!", 1.1, 0.8, "agua"],
+    ["burro", "Socorro! Eu não sei nadar!", 1.1, 0.5],
+    ["narrador", "O barão e o Pedrinho entraram no mar e puxaram o burro para a praia, um pela orelha, outro pelo rabo.", 1.05, 0.5],
+    ["narrador", "O burro botou para fora toda a água salgada que tinha engolido. E sentou na areia, mais calmo.", 1.0, 0.5],
+    ["dona_benta", "Está melhorzinho?", 0.95, 0.4],
+    ["burro", "Um pouco, senhora. Muito obrigado.", 0.9, 1.0],
+
+    ["narrador", "Resumindo: o barão e o Pedrinho salvaram o burro do pássaro Roca.", 0.95, 0.8],
+    ["emilia", "E o visconde? Ele estava amarrado no burro, com a minha malinha!", 1.05, 0.6],
+    ["narrador", "O visconde tinha sumido! Onde será que ele está? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

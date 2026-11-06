@@ -1,0 +1,48 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 37,
+  "titulo": "O burro falante",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Pó de Pirlimpimpim, partes I e II. Texto conferido com a 1ª edição no Wikisource.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e sete: O burro falante.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o Peninha salvou os meninos do reino dos macacos. E todos voltaram montados no burro.", 1.0, 1.0],
+
+    ["narrador", "No sítio, a Dona Benta estava preocupada. As crianças tinham sumido desde cedo, sem tomar café.", 1.0, 0.4],
+    ["nastacia", "Não se preocupe, sinhá. Quando a fome apertar, eles largam todos os reis do mundo e voltam correndo.", 1.0, 0.6],
+    ["narrador", "Às seis horas, viram uma nuvem de poeira na estrada. Era um burro, com todo mundo montado em cima!", 1.0, 0.8, "galope"],
+    ["nastacia", "Credo, sinhá! O visconde vem flutuando no ar, com uma pena de papagaio em cima dele!", 1.05, 0.5],
+    ["emilia", "É o Peninha! O menino invisível! Ele está segurando o visconde!", 1.1, 0.5],
+    ["narrador", "Narizinho contou a viagem inteira para a vovó. E a Dona Benta ficou de boca aberta.", 1.0, 0.4],
+    ["pedrinho", "E o burro agora é nosso, vovó! Nós salvamos ele. E é um burro falante!", 1.05, 0.6],
+    ["dona_benta", "Se o papagaio fala, por que não um burro? Nastácia, leve umas espigas de milho e água fresquinha para ele.", 0.95, 0.5],
+    ["narrador", "A Tia Nastácia pôs o milho no chão, mas de longe, com medo. O burro comeu, bebeu, e disse:", 1.0, 0.4],
+    ["burro", "Muito obrigado, tia! Deus lhe pague!", 0.95, 0.5],
+    ["nastacia", "Acuda, sinhá! Ele fala mesmo!", 1.1, 0.5],
+    ["narrador", "E a Tia Nastácia correu para a cozinha. Mas depois, o medo passou. Ela virou a melhor amiga do burro.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: os meninos voltaram para casa com um burro falante, e a Tia Nastácia virou amiga dele.", 0.95, 0.8],
+    ["narrador", "O Peninha foi embora naquela noite. Prometeu voltar um dia, para levar todos ao Mar dos Piratas.", 1.0, 0.5],
+    ["dona_benta", "Ah, que pena eu não ter ido. Conversar com o senhor de La Fontaine seria uma alegria para a minha velhice.", 0.9, 0.5],
+    ["pedrinho", "Tive uma ideia, vovó! A senhora vai com a gente! Já sabemos o caminho, e temos o burro!", 1.1, 0.5],
+    ["dona_benta", "Que maluquice, Pedrinho! Eu tenho mais de setenta anos!", 1.0, 0.6],
+    ["narrador", "Mas ela pensou três dias. E por fim, disse:", 0.95, 0.4],
+    ["dona_benta", "Vou, menino, vou! Mas não me apresse mais.", 0.95, 0.6],
+    ["narrador", "As crianças ficaram felizes demais. Levar a vovó para o País das Fábulas! E tudo em segredo, para a Tia Nastácia não saber.", 1.05, 0.5],
+    ["dona_benta", "Nastácia, vou passear com as crianças. Se alguém perguntar, estou na casa do compadre Teodureto.", 0.95, 0.6],
+    ["narrador", "A vovó não conseguia subir no burro. Por que será?", 0.95, 2.5],
+    ["burro", "Ali na frente tem um toco. Pode servir de banquinho, senhora.", 0.95, 0.5],
+    ["narrador", "Com a ajuda de todos, a vovó montou. O Pedrinho deu uma pitada do pó de pirlimpimpim para ela.", 1.0, 0.4],
+    ["dona_benta", "Pedrinho! Você sabe que eu não cheiro rapé!", 1.0, 0.5],
+    ["pedrinho", "Não é rapé, vovó! É pó de pirlimpimpim!", 1.05, 0.5],
+    ["narrador", "Todos cheiraram. A cabeça rodou, e veio um zumbido no ouvido: Fiunnn...", 1.0, 0.8, "magia"],
+    ["dona_benta", "Acudam! Acho que vou desmaiar!", 1.05, 0.5],
+    ["pedrinho", "Calma, vovó! É assim mesmo. Quando o fiunnn parar, a gente chegou.", 1.0, 1.0],
+
+    ["narrador", "Resumindo: a vovó criou coragem e foi viajar com os netos, com o pó de pirlimpimpim.", 0.95, 0.8],
+    ["narrador", "Mas o Pedrinho ainda não sabia usar o pó direito. E deu pó demais...", 0.95, 0.6],
+    ["narrador", "Onde será que eles foram parar? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

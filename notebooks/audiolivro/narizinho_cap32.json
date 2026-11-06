@@ -1,0 +1,47 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 32,
+  "titulo": "O espetáculo",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Circo de Escavalinho, partes V e VI. Texto conferido com a 1ª edição no Wikisource. Retirada a apresentação racista da Tia Nastácia; ela é apresentada como a grande doceira do sítio. Sem pontapés no cachorro.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e dois: O espetáculo.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o circo ficou pronto, e os convidados de todas as histórias chegaram.", 1.0, 1.0],
+
+    ["narrador", "O Pedrinho esperou a vovó chegar. Ela veio com o vestido amarelo mais bonito que tinha, do tempo do Imperador. E a Tia Nastácia veio com outro vestido antigo, emprestado pela Dona Benta.", 1.0, 0.5],
+    ["narizinho", "Respeitável público! Apresento a minha vovó, Dona Benta! E a Tia Nastácia, a melhor doceira do mundo, que fez as cocadas de hoje!", 1.05, 0.5],
+    ["narrador", "Todos bateram palmas.", 1.0, 0.5],
+    ["narrador", "Blém, blém, blém! A cortina abriu, e a Emília entrou montada no cavalinho de rabo de pena.", 1.05, 0.5],
+    ["narrador", "Ela deu várias voltas. Umas sentada de lado, outras de pé, num pé só!", 1.05, 0.5],
+    ["dona_benta", "Nunca pensei que a Emília fosse tão boa! Parece o Tom Mix!", 1.0, 0.5],
+    ["narrador", "O João Faz-de-Conta segurou os arcos de papel. A Emília pulou o arco vermelho, depois o azul. Que palmas!", 1.05, 0.5],
+    ["narrador", "Mas no arco verde, o cavalinho também quis pular. E o rabo de pena dele ficou enganchado no prego das costas do Faz-de-Conta!", 1.05, 0.5],
+    ["narrador", "O público riu tanto! A Emília achou que estavam rindo dela, mostrou a língua e saiu brava.", 1.0, 0.5],
+    ["emilia", "Não brinco mais! Não sou palhaço de ninguém!", 1.1, 0.8, "transicao"],
+
+    ["narrador", "Até agora: a Emília correu no cavalinho, mas o rabo de pena ficou preso no prego do Faz-de-Conta.", 0.95, 0.8],
+    ["narrador", "E o palhaço? O visconde tinha sumido! O Pedrinho procurou por todo lado e não achou.", 1.0, 0.5],
+    ["pedrinho", "Faz-de-Conta, vá engolindo espadas e comendo fogo, enquanto eu procuro o visconde!", 1.05, 0.5],
+    ["narrador", "No circo, essas coisas são truques. O Faz-de-Conta engoliu as espadas de mentirinha, e todos bateram palmas.", 1.0, 0.5],
+    ["narrador", "Mas quando foi comer o fogo, o nariz dele encostou na brasa. E o nariz era um palito de fósforo! O que será que aconteceu?", 0.95, 2.5],
+    ["narrador", "Pegou fogo! Os convidados pularam no picadeiro e apagaram o nariz bem depressa. Só sobrou um toquinho.", 1.05, 0.5],
+    ["narrador", "E sabe que ele até ficou mais bonito? O que deixava o Faz-de-Conta feio era aquele nariz de fósforo!", 1.0, 0.8],
+    ["pedrinho", "Respeitável público! O nosso palhaço sumiu, e a Emília não quer mais trabalhar. Então, vamos direto para a grande SURPRESA!", 1.05, 0.5],
+    ["narrador", "E entrou o menor elefante do mundo! Com tromba, orelhas grandes e tudo. Ele foi andando, devagarinho, em cima de umas garrafas.", 1.0, 0.5],
+    ["polegar", "Berra, elefante!", 1.1, 0.5],
+    ["narrador", "O elefante berrou. Mas o berro parecia de porco: Óinc, óinc, óinc!", 1.05, 0.5],
+    ["narrador", "O Maroto, lá fora, ouviu e entrou por baixo do pano, latindo. O elefante levou um susto e caiu das garrafas. E a fantasia de elefante rasgou no meio!", 1.05, 0.5],
+    ["narrador", "E de dentro saiu... o Marquês de Rabicó! Era ele, fantasiado!", 1.05, 0.5],
+    ["narrador", "O circo quase veio abaixo de tanta risada. O Rabicó fugiu correndo para o terreiro.", 1.05, 0.8, "festa"],
+    ["narrador", "Narizinho entrou com uma placa: INTERVALO. E todos correram para pegar as cocadas da Tia Nastácia.", 1.0, 0.5],
+    ["gato", "Quero uma branca, duas cor-de-rosa e três queimadinhas!", 1.05, 0.6],
+    ["narrador", "E o visconde? Ele achou um livro velho de matemática no meio dos paus do circo. Ficou tão feliz que saiu passeando com o livro, e só voltou no outro dia!", 1.0, 0.5],
+    ["narrador", "O doutor tinha deixado umas letras na barriga dele, para semente, lembra? E elas brotaram.", 1.0, 1.0],
+
+    ["narrador", "Resumindo: o espetáculo foi uma confusão. Mas todo mundo riu muito, e as cocadas fizeram sucesso.", 0.95, 0.8],
+    ["narrador", "Só a Narizinho continuava pensando no príncipe. Onde ele estará? Será que alguém pode ajudar a encontrar o príncipe?", 0.9, 0.6],
+    ["narrador", "Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 36,
+  "titulo": "O reino dos macacos",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): A Pena de Papagaio, partes IX e X. Texto conferido com a 1ª edição no Wikisource. Suavizado: Pedrinho fica amarrado até de manhã (sem formigas carnívoras); a vingança dele é só cortar a barba do rei, sem orelha nem cauda.",
+  "vozes": {
+    "rei_macaco": {"voz": "male, elderly, high pitch", "semente": 581}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e seis: O reino dos macacos.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o Peninha salvou o burro na caverna do leão. E todos fugiram correndo.", 1.0, 1.0],
+
+    ["narrador", "Na corrida, o Peninha pulou no lombo do burro, e os outros se perderam no mato.", 1.0, 0.5],
+    ["narrador", "Sem saber, entraram no reino dos macacos. Os guardas amarraram todos com cipó e levaram ao rei, Simão Quatorze.", 1.0, 0.5],
+    ["emilia", "Eu tenho passaporte, senhor rei! Olhe aqui!", 1.05, 0.4],
+    ["narrador", "E mostrou o alfinete de pombinha. O rei nunca tinha visto um alfinete.", 1.0, 0.4],
+    ["rei_macaco", "No meu reino, o passaporte é uma banana. Mas aceito este. Soltem a boneca!", 1.0, 0.5],
+    ["narrador", "O Pedrinho cochichou na língua do pê, que os macacos não entendem, para a Emília ir buscar o Peninha. E ela saiu de fininho.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: os meninos foram presos pelos macacos. Só a Emília escapou.", 0.95, 0.8],
+    ["rei_macaco", "Menina, o que você acha da minha corte?", 1.0, 0.4],
+    ["narrador", "Narizinho viu só macacos peludos. Mas era esperta, e respondeu com elogios.", 1.0, 0.4],
+    ["narizinho", "Estou maravilhada, Majestade! Nunca vi um rei tão bonito, nem damas tão lindas!", 1.05, 0.5],
+    ["rei_macaco", "Que menina encantadora! Ela vai morar aqui para sempre, na árvore mais alta, e casar com o macaco mais gentil!", 1.05, 0.5],
+    ["narrador", "Narizinho fez uma careta. Elogiou demais, e agora tinha que ficar!", 1.0, 0.5],
+    ["rei_macaco", "E você, de cartola? O que acha do meu reino?", 1.0, 0.4],
+    ["visconde", "Acho que esta malinha é muito pesada para um velho como eu. Posso dormir um pouco?", 0.9, 0.6],
+    ["narrador", "Então trouxeram o Pedrinho. E o Pedrinho nunca mentia.", 1.0, 0.4],
+    ["pedrinho", "O que eu acho? Não é reino nenhum. É um macacão num galho, cercado de outros macacos!", 1.05, 0.5],
+    ["rei_macaco", "Que atrevido! Amarrem esse menino num tronco até amanhã!", 1.05, 0.8],
+    ["narrador", "E agora? Narizinho presa na árvore, o Pedrinho amarrado no tronco, e o visconde dormindo num galho.", 0.95, 0.8],
+
+    ["narrador", "Até agora: o rei dos macacos prendeu todos. Mas a Emília foi buscar ajuda.", 0.95, 0.8],
+    ["narrador", "Veio a noite. Os macacos dormiram, roncando alto. Será que alguém vem salvar os meninos?", 0.95, 2.5],
+    ["narrador", "Lá longe, um galo cantou: Cocoricocó! Era o Peninha, montado no burro, a galope!", 1.05, 0.5, "galope"],
+    ["penninha", "Eu pus uma plantinha de dormir no poço onde os macacos bebem água. Eles só acordam amanhã, ao meio-dia!", 1.0, 0.5],
+    ["narrador", "O Peninha desceu a Narizinho da árvore, desamarrou o Pedrinho e acordou o visconde.", 1.0, 0.4],
+    ["pedrinho", "Espere! Antes, quero dar uma lição no rei.", 1.0, 0.4],
+    ["narrador", "E cortou a barba do rei dos macacos, enquanto ele roncava. Sem a barba, amanhã ninguém vai reconhecer o rei!", 1.05, 0.6],
+    ["narrador", "Todos montaram no burro e voltaram, a galope, até a pedra onde os dois sábios ainda conversavam.", 1.05, 0.5],
+    ["narizinho", "Adeus, senhor de La Fontaine! Adeus, senhor Esopo! Depois eu conto tudo direitinho!", 1.05, 0.5],
+    ["emilia", "Apareçam no sítio para tomar um cafezinho! Mas o senhor Esopo vá de calça e paletó, senão a Tia Nastácia se assusta!", 1.05, 0.5],
+    ["narrador", "O senhor de La Fontaine ficou olhando os meninos sumirem na poeira, e suspirou: Felicidade, o teu nome é ser criança!", 0.9, 1.0],
+
+    ["narrador", "Resumindo: o Peninha salvou todo mundo do reino dos macacos.", 0.95, 0.8],
+    ["narrador", "Mas a viagem pelo Mundo das Maravilhas ainda não acabou. O Peninha tem mais pó de pirlimpimpim...", 0.95, 0.6],
+    ["narrador", "Para onde eles vão agora? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

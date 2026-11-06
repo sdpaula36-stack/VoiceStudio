@@ -1,0 +1,60 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 34,
+  "titulo": "A cigarra e a formiga",
+  "ambiente": "riacho",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): A Pena de Papagaio, partes IV a VI. Texto conferido com a 1ª edição no Wikisource. Suavizado: a cigarra não está à beira da morte; Emília não surra a formiga, faz a formiga ouvir e dividir a comida.",
+  "vozes": {
+    "lafontaine": {"voz": "male, middle-aged, low pitch", "semente": 481},
+    "carneirinho": {"voz": "male, child, high pitch", "semente": 491},
+    "lobo": {"voz": "male, middle-aged, very low pitch", "semente": 501},
+    "cigarra": {"voz": "female, young adult, high pitch", "semente": 511},
+    "formiga_velha": {"voz": "female, elderly, low pitch", "semente": 521}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e quatro: A cigarra e a formiga.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o menino invisível, o Peninha, levou todos para o País das Fábulas, com o pó de pirlimpimpim.", 1.0, 1.0],
+
+    ["narrador", "Na beira do rio, apareceu um homem de cabeleira cacheada, sapato de fivela e chapéu de três pontas.", 1.0, 0.5],
+    ["penninha", "É o senhor de La Fontaine, um francês muito sábio. Ele observa os bichos e escreve fábulas.", 0.95, 0.5],
+    ["narrador", "O carneirinho bebia água no rio. Então saiu da floresta um lobo, de cara feia.", 0.95, 0.5],
+    ["lobo", "Que desaforo é esse de sujar a água que eu vou beber?", 1.0, 0.4],
+    ["carneirinho", "Desculpe, senhor lobo. Mas o senhor está na parte de cima do rio. A água desce de lá para cá. Eu não posso sujar a sua água.", 0.95, 0.5],
+    ["lobo", "E no ano passado, você falou mal de mim!", 1.0, 0.4],
+    ["carneirinho", "Não pode ser, senhor lobo. Eu só tenho três meses!", 0.95, 0.5],
+    ["emilia", "E eles falam mesmo! Falam igualzinho gente!", 1.05, 0.5],
+    ["narrador", "O lobo não tinha mais desculpas e avançou para o carneirinho. Mas o senhor de La Fontaine pulou da moita e deu uma bengalada no focinho dele!", 1.05, 0.5],
+    ["narrador", "O lobo fugiu para a floresta, de rabo entre as pernas.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: o senhor de La Fontaine salvou o carneirinho do lobo.", 0.95, 0.8],
+    ["narizinho", "Au revoir, senhor de La Fontaine!", 1.0, 0.4],
+    ["narrador", "Au revoir é tchau, em francês. Narizinho queria dizer bom dia, que é bonjour, mas se atrapalhou! O sábio achou graça e deu um beijo na testa dela.", 1.0, 0.5],
+    ["lafontaine", "Pode falar português comigo. Eu entendo todas as línguas, dos bichos e das gentes.", 0.95, 0.6],
+    ["narrador", "A Emília achou a cabeleira dele muito comprida. Tirou da malinha a perna de tesoura e ofereceu.", 1.0, 0.4],
+    ["emilia", "É para o senhor cortar o cabelo.", 1.0, 0.4],
+    ["lafontaine", "Mas essa tesoura só tem uma perna, bonequinha!", 1.0, 0.4],
+    ["emilia", "Então corte o cabelo de um lado só!", 1.05, 0.8],
+    ["narrador", "O senhor de La Fontaine riu muito. E levou todos para ver outra fábula: a da cigarra e da formiga.", 1.0, 0.8],
+
+    ["narrador", "Até agora: os meninos conheceram o senhor de La Fontaine, e a Emília ofereceu meia tesoura para ele.", 0.95, 0.8],
+    ["narrador", "Era inverno na fábula. A cigarra, que tinha passado o verão inteiro cantando, estava com fome e com frio. Bateu na porta do formigueiro.", 0.95, 0.5, "porta"],
+    ["narrador", "Uma formiga velhinha e rabugenta abriu a porta.", 0.95, 0.4],
+    ["formiga_velha", "O que a senhora quer?", 0.95, 0.4],
+    ["cigarra", "Estou com fome e com frio. A senhora me dá uma folhinha e um cantinho para ficar?", 0.9, 0.5],
+    ["formiga_velha", "E o que você fazia no verão, enquanto a gente trabalhava?", 0.95, 0.4],
+    ["cigarra", "Eu cantava, senhora formiga.", 0.9, 0.4],
+    ["formiga_velha", "Cantava? Pois agora dance!", 1.0, 0.5],
+    ["narrador", "E fechou a porta no nariz da cigarra. O que será que a Emília fez?", 0.95, 2.5],
+    ["emilia", "Não fique triste, cigarra! Tome umas folhinhas para comer. E vamos ensinar uma coisa para aquela formiga.", 1.05, 0.5],
+    ["narrador", "A Emília fez uma fogueirinha para a cigarra se esquentar. E bateu de novo na porta do formigueiro.", 1.0, 0.5],
+    ["emilia", "Dona formiga! A cigarra trabalhou, sim! Ela cantou o verão inteiro para alegrar a senhora enquanto trabalhava. Cantar também é trabalho!", 1.05, 0.5],
+    ["narrador", "A formiga velha ficou quieta, pensando. E percebeu que, sem a música da cigarra, o verão tinha sido bem mais chato.", 0.95, 0.5],
+    ["formiga_velha", "Está bem. Entre, cigarra. Tem comida para todas. E à noite, você canta para nós.", 0.95, 0.6],
+    ["lafontaine", "Que interessante! Essa bonequinha mudou o fim da minha fábula. E ficou mais bonita!", 0.95, 0.8, "festa"],
+
+    ["narrador", "Resumindo: a Emília ajudou a cigarra, e a formiga aprendeu a dividir.", 0.95, 0.8],
+    ["narrador", "Nessa hora, ouviram ao longe: Cocoricocó! Era o Peninha voltando. E vinha com mais um sábio.", 1.0, 0.6],
+    ["narrador", "Quem será? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

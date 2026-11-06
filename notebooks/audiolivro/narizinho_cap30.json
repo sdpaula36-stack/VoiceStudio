@@ -1,0 +1,51 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 30,
+  "titulo": "A operação do visconde",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Circo de Escavalinho, partes I e II. Texto conferido com a 1ª edição no Wikisource. A 'operação' virou uma portinha que o doutor abre no sabugo, sem faca e sem dor.",
+  "vozes": {},
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta: A operação do visconde.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, todos descobriram que o alfinete de pombinha da Emília é uma varinha de condão.", 1.0, 1.0],
+
+    ["narrador", "Um dia, no sítio, fizeram um concurso de quem tinha a melhor ideia. E quem ganhou foi a Emília, com a ideia de um circo!", 1.0, 0.5],
+    ["emilia", "Vai se chamar Circo de Escavalinho!", 1.05, 0.4],
+    ["dona_benta", "Não é escavalinho, Emília. É circo de cavalinhos.", 0.95, 0.4],
+    ["emilia", "Não, senhora! Escavalinho é o nome do dono do circo: o senhor Pedro Malazarte Escavalinho da Silva!", 1.05, 0.6],
+    ["narrador", "O Pedrinho adorou. A Emília ia correr no cavalinho e pular arcos. O João Faz-de-Conta ia engolir espadas e comer fogo. Mas quem ia ser o palhaço?", 1.0, 0.5],
+    ["pedrinho", "O visconde! Mas antes, precisamos curar essa mania de sábio dele.", 1.0, 0.6],
+    ["narrador", "Nessa hora, ouviram gritos na cozinha. A Tia Nastácia espantava o visconde com o cabo da vassoura.", 1.0, 0.4],
+    ["nastacia", "Esse visconde vem me falar de seno, cosseno e mangaritmo! Eu já disse que não sei inglês!", 1.05, 0.5],
+    ["visconde", "Mangaritmo?! É logaritmo!", 1.0, 0.5],
+    ["narrador", "E o visconde caiu duro no chão, de tanta conta na cabeça.", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: a Emília inventou um circo, mas o visconde passou mal de tanto estudar.", 0.95, 0.8],
+    ["narrador", "O Rabicó foi chamar o Doutor Caramujo. Ele chegou correndo, com a maletinha.", 1.0, 0.4],
+    ["caramujo", "Hum! O caso é sério. Sua Excelência está entupido de matemática. Vou tirar isso tudo.", 0.95, 0.5],
+    ["narrador", "O visconde é feito de sabugo de milho, e sabugo não sente dor. Então o doutor abriu uma portinha na barriga dele, como quem abre uma caixinha.", 1.0, 0.5],
+    ["narrador", "E lá dentro, em vez de tripas, havia um bolo de letras, números e sinais de conta!", 1.0, 0.5],
+    ["pedrinho", "Não tire todas as letras, doutor! Senão ele fica bobo demais. Deixe algumas para semente.", 1.0, 0.5],
+    ["narrador", "O doutor tirou tudo com uma colherzinha e fechou a portinha com cola. E a Narizinho teve uma ideia.", 1.0, 0.4],
+    ["narizinho", "Vamos pôr umas piadas dentro da barriga dele, já que ele vai ser palhaço!", 1.05, 0.5],
+    ["narrador", "E puseram três páginas de um livro de piadas, bem dobradinhas. Três dias depois, o visconde estava curado.", 1.0, 0.8],
+    ["narrador", "O Pedrinho escreveu o programa do circo: Emília no cavalinho, o homem que come fogo, o palhaço Sabugueira. E, no fim, uma grande surpresa!", 1.0, 0.8],
+
+    ["narrador", "Resumindo até aqui: o doutor tirou a matemática da barriga do visconde, e ele vai ser o palhaço do circo.", 0.95, 0.8],
+    ["narrador", "Mas para fazer um circo de verdade, o Pedrinho precisava comprar pano. E o pano custava dez mil réis. Ele só tinha cinco.", 1.0, 0.5],
+    ["narrador", "A Dona Benta e a Tia Nastácia compraram os ingressos das cadeiras, com dinheiro de verdade. Mesmo assim, faltava dinheiro.", 1.0, 0.5],
+    ["emilia", "Eu arranjo o dinheiro. Mas só se o Pedrinho me der o carrinho de rodas de carretel.", 1.0, 0.4],
+    ["pedrinho", "Uma boneca arranjar dinheiro? Pode ficar com o carrinho, se conseguir!", 1.05, 0.6],
+    ["narrador", "Naquela tarde, a Dona Benta perdeu os óculos. Procuraram pela casa toda e não acharam.", 1.0, 0.4],
+    ["emilia", "Eu procuro, Dona Benta. Mas cobro três mil réis, em notas novas.", 1.0, 0.5],
+    ["dona_benta", "Três mil réis? Que boneca interesseira! Está bem, procure.", 0.95, 0.5],
+    ["narrador", "Cinco minutos depois, a Emília voltou com os óculos. Onde será que eles estavam?", 0.95, 2.5],
+    ["emilia", "No bolso da sua saia amarela, Dona Benta!", 1.05, 0.5],
+    ["narrador", "A Dona Benta não entendeu nada. Fazia muito tempo que ela não usava aquela saia!", 1.0, 0.6],
+    ["nastacia", "Foi ela quem escondeu os óculos, sinhá! Só para ganhar o dinheiro. Essa boneca está esperta demais!", 1.0, 0.8],
+
+    ["narrador", "Resumindo: a Emília conseguiu o dinheiro do circo. Mas parece que foi com uma esperteza.", 0.95, 0.8],
+    ["narrador", "Agora o Pedrinho já pode construir o circo. Como será que vai ficar? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

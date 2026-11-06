@@ -1,0 +1,53 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 33,
+  "titulo": "O menino invisível",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): A Pena de Papagaio, partes I a III. Texto conferido com a 1ª edição no Wikisource.",
+  "vozes": {
+    "penninha": {"voz": "male, child, moderate pitch", "semente": 471}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo trinta e três: O menino invisível.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o circo foi uma confusão divertida. E Narizinho continuava preocupada com o príncipe.", 1.0, 1.0],
+
+    ["narrador", "Depois que a vovó contou a história de Peter Pan, o Pedrinho não pensava em outra coisa. Ele também não queria crescer.", 1.0, 0.5],
+    ["narrador", "Um dia, ele estava em cima da goiabeira, comendo goiaba, e falou sozinho:", 1.0, 0.4],
+    ["pedrinho", "Que pena ter que crescer. Se houvesse um jeito de ser menino para sempre...", 0.9, 0.6],
+    ["penninha", "Existe uma coisa ainda melhor.", 0.95, 0.6],
+    ["narrador", "O Pedrinho levou um susto. Olhou para todos os lados, e não viu ninguém!", 1.0, 0.4],
+    ["pedrinho", "Quem está falando?", 1.0, 0.4],
+    ["penninha", "Eu! Tenho a sua altura e a sua idade. E sei o jeito de deixar uma pessoa invisível, como eu.", 0.95, 0.5],
+    ["narrador", "Invisível quer dizer que ninguém consegue ver. O Pedrinho ficou tão espantado que escorregou da goiabeira. Por sorte, a árvore era baixinha.", 1.0, 0.5],
+    ["penninha", "Eu ensino você e sua prima. Mas antes, vocês precisam viajar comigo pelo Mundo das Maravilhas.", 0.95, 0.5],
+    ["narrador", "E um mapa dobrado se abriu sozinho no ar. Era o menino invisível segurando! O Pedrinho pegou o mapa.", 1.0, 0.5],
+    ["pedrinho", "Que lindo! Até o sítio da vovó está aqui, com o chiqueirinho do Rabicó!", 1.05, 0.5],
+    ["pedrinho", "Combinado. Amanhã de madrugada, estou aqui com a minha prima.", 1.0, 0.4],
+    ["narrador", "E a voz respondeu: Cocoricocó! Igualzinho a um galo. O Peter Pan também canta assim. Será que era ele?", 1.0, 0.8, "transicao"],
+
+    ["narrador", "Até agora: uma voz invisível convidou o Pedrinho para uma viagem pelo Mundo das Maravilhas.", 0.95, 0.8],
+    ["narrador", "O Pedrinho contou tudo para a Narizinho. E decidiram quem ia: Narizinho, Pedrinho, a Emília e o visconde.", 1.0, 0.5],
+    ["narrador", "De noite, a Emília arrumou uma malinha de couro: uma pena de papagaio, uma perna de tesoura, o alfinete de pombinha e mais um monte de coisas.", 1.0, 0.5],
+    ["emilia", "A gente precisa se precaver!", 1.0, 0.4],
+    ["narrador", "A malinha ficou tão cheia que não fechava. O visconde teve que sentar em cima para fechar.", 1.0, 0.8],
+    ["narrador", "De madrugada, sem a vovó perceber, foram na ponta dos pés até o pomar. O visconde ia atrás, com a malinha nas costas.", 0.95, 0.5],
+    ["narrador", "Cocoricocó! A voz cantou no alto da goiabeira. E uma casca de goiaba caiu na cabeça do Pedrinho.", 1.0, 0.5],
+    ["penninha", "Aprendeu a saber onde estou, sem me ver?", 1.0, 0.6],
+    ["pedrinho", "É muito difícil andar com um amigo que a gente não vê. Ponha uma pena na cabeça, assim a gente sabe onde você está!", 1.0, 0.5],
+    ["emilia", "Tenho uma pena de papagaio na minha malinha!", 1.05, 0.5],
+    ["narrador", "Amarraram a pena na testa do menino invisível. E agora a pena flutuava no ar, mostrando onde ele estava.", 1.0, 0.5],
+    ["emilia", "Viva o Peninha!", 1.1, 0.8],
+    ["narrador", "E daí em diante, o menino invisível ficou se chamando Peninha.", 1.0, 0.8],
+
+    ["narrador", "Resumindo até aqui: o menino invisível ganhou uma pena de papagaio na testa, e um nome: Peninha.", 0.95, 0.8],
+    ["narrador", "Para viajar, o Peninha deu uma pitada de pó para cada um cheirar. Era o pó de pirlimpimpim, o pó mais mágico que as fadas inventaram!", 1.0, 0.5],
+    ["narrador", "A Emília espirrou: Atchim! Todos ficaram leves como pluma, e saíram flutuando pelo ar, como bolhas de sabão.", 1.0, 0.8, "magia"],
+    ["narrador", "Logo sentiram o chão debaixo dos pés. Tinham chegado num vale verde, com um rio de água clarinha e uma montanha azul.", 0.95, 0.5],
+    ["penninha", "Estamos no País das Fábulas, a terra dos animais falantes.", 0.95, 0.6],
+    ["narrador", "Fábulas são historinhas curtas de bichos que falam e que ensinam alguma coisa.", 1.0, 0.8],
+
+    ["narrador", "Resumindo: com o pó de pirlimpimpim, todos voaram até o País das Fábulas.", 0.95, 0.8],
+    ["narrador", "E à beira do rio, um carneirinho branco ia beber água... Quem será que vem chegando? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}
