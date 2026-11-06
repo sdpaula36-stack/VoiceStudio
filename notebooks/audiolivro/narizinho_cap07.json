@@ -1,0 +1,58 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 7,
+  "titulo": "Pedrinho chegou!",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Sítio do Picapau Amarelo, parte V. Texto conferido com a 1ª edição no Wikisource.",
+  "vozes": {
+    "pedrinho": {"voz": "male, child, moderate pitch", "semente": 291}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo sete: Pedrinho chegou!", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a Rainha das Formigas mandou croquetes para a Emília. Mas o Rabicó comeu todos.", 1.0, 0.4],
+    ["narrador", "E Narizinho teve uma ideia: casar a Emília com o Rabicó.", 1.0, 1.0],
+
+    ["narrador", "Um dia antes, chegou uma carta de Pedrinho para Dona Benta. Ele dizia como queria ser recebido.", 1.0, 0.5],
+    ["narrador", "Narizinho devia esperar na porteira, com a Emília de vestido novo e o Rabicó com um laço de fita no rabo.", 1.0, 0.5],
+    ["narrador", "E Tia Nastácia devia fazer café com aqueles bolinhos de frigideira que só ela sabe fazer.", 1.0, 0.6],
+    ["narrador", "Por isso, Narizinho acordou bem cedo. Vestiu a Emília de cor-de-rosa com bolinhas e amarrou duas fitas no Rabicó.", 1.0, 0.8],
+    ["narrador", "Então, na estrada, apareceu um cavalinho trotando.", 1.0, 1.0, "galope"],
+    ["narrador", "Em cima dele vinha Pedrinho, queimado de sol e alegre como um passarinho.", 1.05, 0.5],
+    ["narizinho", "Viva! Desce depressa, Pedrinho, que temos mil coisas para conversar!", 1.1, 0.5],
+    ["narrador", "Pedrinho desceu, abraçou a prima e escondeu um pacote atrás das costas.", 1.0, 0.4],
+    ["pedrinho", "Adivinha o que eu trouxe para você!", 1.05, 0.5],
+    ["narizinho", "Já sei. Uma boneca que chora e que abre e fecha os olhos.", 1.0, 0.6],
+    ["narrador", "Pedrinho ficou de boca aberta, porque era isso mesmo!", 1.0, 0.4],
+    ["pedrinho", "Como você adivinhou?", 1.0, 0.5],
+    ["narizinho", "Porque eu conheço você, bobo. As meninas são muito mais espertas que os meninos.", 1.0, 0.5],
+    ["pedrinho", "Mas não têm tanto muque!", 1.05, 0.4],
+    ["narrador", "Muque é a força dos braços. Pedrinho dobrou o braço para mostrar o músculo duro, que ele treinava na escola.", 1.0, 0.5],
+    ["pedrinho", "Com o meu muque e a sua esperteza, Narizinho, ninguém pode com a gente!", 1.05, 0.8],
+    ["narrador", "Depois, ele deu os outros presentes. O Rabicó ganhou uma fita de seda e os restos do lanche. Gostou mais do lanche, claro.", 1.0, 0.5],
+    ["narrador", "A Emília ganhou uma cozinha inteirinha de brinquedo: fogãozinho de lata, panelinhas e até um rolo de abrir massa.", 1.0, 0.8],
+
+    ["narrador", "Até agora: Pedrinho chegou de cavalinho e trouxe presentes para todos.", 0.95, 0.8],
+    ["narrador", "Dona Benta apareceu na varanda e Pedrinho correu para abraçar a avó.", 1.0, 0.5],
+    ["narrador", "Logo estavam todos na mesa, ouvindo as novidades da cidade. Tia Nastácia trouxe a massa dos bolinhos para a sala, para não perder nenhuma palavra.", 1.0, 0.6],
+    ["dona_benta", "Agora vão brincar, vocês dois. A Narizinho tem um mundo de coisas para contar.", 1.0, 0.8, "transicao"],
+    ["narrador", "Os primos foram para o pomar, o lugar dos segredos e dos planos de aventura.", 1.0, 0.5],
+    ["pedrinho", "Quando você me escreveu que a Emília falava, eu não acreditei. Mas ela fala mesmo!", 1.05, 0.5],
+    ["narizinho", "E já é condessa! Mas eu quero mais. Quero fazer o Rabicó virar marquês e casar a Emília com ele.", 1.0, 0.6],
+    ["narrador", "Marquês é um título importante, como conde e condessa. Pedrinho achou a ideia ótima.", 1.0, 0.8],
+    ["narrador", "Depois, Narizinho contou tudo sobre o Reino das Águas Claras: o Príncipe Escamado, o palácio de conchas, o Doutor Caramujo.", 1.0, 0.5],
+    ["narrador", "Pedrinho ficou com muita vontade de conhecer o príncipe. E não estranhou nada, porque para os dois primos as maravilhas eram uma coisa natural.", 1.0, 0.6],
+    ["pedrinho", "Eu tenho uma ideia. E se os personagens das histórias saíssem dos livros e viessem brincar aqui no sítio?", 1.05, 0.6],
+    ["narizinho", "Que lindo! Eu queria brincar com a Chapeuzinho Vermelho e com a Branca de Neve!", 1.05, 0.5],
+    ["pedrinho", "E eu queria encontrar o Aladim, aquele da lâmpada mágica!", 1.05, 0.6],
+    ["narrador", "Por que será que Pedrinho queria os personagens aqui no sítio?", 0.95, 2.5],
+    ["narrador", "Porque ele queria viver aventuras novas, junto com eles, em vez de só ouvir as histórias de sempre.", 1.0, 0.6],
+    ["nastacia", "Narizinho! Pedrinho! O café está na mesa!", 1.0, 0.5],
+    ["narrador", "E os dois saíram correndo para comer os bolinhos de Tia Nastácia.", 1.05, 1.0],
+
+    ["narrador", "Resumindo: Pedrinho chegou, adorou a Emília falante e quer trazer os personagens das histórias para o sítio.", 0.95, 0.8],
+    ["narrador", "Naquela noite, todos dormiram tarde. E bem cedinho, antes do sol nascer, alguém bateu no vidro da janela de Narizinho...", 0.9, 0.8],
+    ["narrador", "Era um convite para uma viagem a um reino muito diferente.", 0.9, 0.8],
+    ["narrador", "Que reino será esse? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

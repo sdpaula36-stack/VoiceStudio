@@ -1,0 +1,56 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 8,
+  "titulo": "O ouro da Emília",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Sítio do Picapau Amarelo, partes VI e VII. Texto conferido com a 1ª edição no Wikisource. Mudança: a vingança contra o Rabicó virou só um susto.",
+  "vozes": {
+    "tom_mix": {"voz": "male, young adult, low pitch", "semente": 321}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo oito: O ouro da Emília.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, Pedrinho chegou ao sítio, com presentes para todos.", 1.0, 0.4],
+    ["narrador", "E bem cedinho, alguém bateu na janela de Narizinho, com um convite de viagem.", 1.0, 1.0],
+
+    ["narrador", "Narizinho abriu a janela. Lá fora estava o Rabicó, montado num cavalinho de pau.", 1.0, 0.5],
+    ["rabico", "Pula da cama, Narizinho! O sol já vai nascer. Está na hora de partir.", 1.05, 0.5],
+    ["narrador", "Agora o leitão tinha um título: era o Marquês de Rabicó. E a Emília já esperava lá embaixo, num cavalinho malhado.", 1.0, 1.0, "magia"],
+    ["narrador", "Para onde eles iam? Para um reino de bichinhos voadores. No dia anterior, um marimbondo tinha trazido um convite.", 1.0, 0.5],
+    ["narrador", "Mas o papel estava rasgado bem no nome. Era da Rainha das Abelhas ou da Rainha das Vespas? Ninguém sabia.", 1.0, 0.5],
+    ["narrador", "Para responder, a Emília inventou o borboletograma. Ela escreveu a resposta na asa de uma borboleta azul e mandou a borboleta voar.", 1.0, 0.5],
+    ["narizinho", "Por que você não pôs o nome do Pedrinho, Emília?", 1.0, 0.4],
+    ["emilia", "Porque ele não é nobre. Não é nem barão!", 1.05, 0.8],
+    ["narrador", "Narizinho vestiu o vestido vermelho de bolso, para levar os bolinhos de Tia Nastácia. Montou no cavalinho dela, e lá foram todos pela estrada.", 1.0, 1.0, "galope"],
+    ["narizinho", "Vamos apostar corrida, Emília? Pode ir na frente!", 1.05, 0.5],
+    ["narrador", "A Emília saiu galopando. Mas Narizinho ficou para trás de propósito. Por que será?", 0.95, 2.5],
+    ["narrador", "Porque ela queria conversar sozinha com o Rabicó sobre o casamento.", 1.0, 0.5],
+    ["narizinho", "Então, marquês, quer ou não quer casar com a condessa?", 1.0, 0.4],
+    ["rabico", "Caso, sim. Se me derem dois carrinhos cheios de milho, eu caso com quem vocês quiserem!", 1.05, 0.6],
+    ["narrador", "Que guloso! Quando alcançaram a Emília, ela estava furiosa, porque tinha caído na brincadeira da corrida.", 1.0, 0.8],
+
+    ["narrador", "Até agora: os três viajam para o reino das abelhas, ou das vespas, e o Rabicó só pensa em comida.", 0.95, 0.8],
+    ["narrador", "De repente, o mato da beira do caminho se mexeu. Os cavalinhos empinaram, assustados.", 0.95, 0.5],
+    ["narrador", "Saiu do mato um bando de lagartos. Na frente vinha o chefe: o Tom Mix, um caubói de cinema, com chapéu de abas largas.", 1.0, 0.5],
+    ["narrador", "E sabe o que o Marquês de Rabicó fez? Pulou do cavalo e fugiu correndo, sem ajudar ninguém!", 1.05, 0.6],
+    ["tom_mix", "Passem para cá o dinheiro!", 1.0, 0.6],
+    ["narrador", "Narizinho ficou com medo, mas pensou depressa.", 1.0, 0.4],
+    ["narizinho", "Dinheiro nós não temos, senhor Tom Mix. Mas tenho uns bolinhos muito gostosos. Quer um?", 1.0, 0.5],
+    ["tom_mix", "Bolinho de ontem? Não quero. Eu quero ouro!", 1.0, 0.6],
+    ["narrador", "Ouro é um metal amarelo e brilhante, que vale muito. Narizinho teve uma ideia genial.", 1.0, 0.5],
+    ["narizinho", "Está bem. Vou dar ao senhor um montinho de ouro bem amarelo. Me empresta a sua bolsa e uma tesourinha.", 1.0, 0.6],
+    ["narrador", "Ela cochichou alguma coisa no ouvido da Emília.", 0.95, 0.5],
+    ["emilia", "Nunca! Prefiro morrer!", 1.1, 0.6],
+    ["narrador", "Mas Narizinho insistiu tanto que a Emília, chorando, esticou a perna no colo da amiga.", 0.95, 0.5],
+    ["narrador", "Narizinho descosturou a perna da boneca e despejou toda a macela na bolsa do bandido. A macela é amarelinha, parece pó de ouro!", 1.0, 0.6],
+    ["tom_mix", "Muito bem! De hoje em diante, sou seu amigo, princesa. Se estiver em perigo, é só chamar: Mix, Mix, Mix! E eu apareço.", 1.0, 0.6],
+    ["narrador", "E o caubói foi embora com os lagartos. Narizinho soltou o ar, aliviada.", 1.0, 0.6],
+    ["emilia", "Ai! Agora não consigo andar nem montar com esta perna vazia!", 1.05, 0.5],
+    ["narizinho", "Você me salvou, Emília. Obrigada! Vem na garupa do meu cavalinho, bem agarradinha.", 1.0, 0.8],
+
+    ["narrador", "Resumindo: o Rabicó fugiu, e a Emília salvou todo mundo dando o recheio da própria perna como se fosse ouro.", 0.95, 0.8],
+    ["narrador", "Então Narizinho lembrou do Rabicó, e ficou brava por ele ter abandonado as amigas no perigo. Ela chamou: Mix, Mix, Mix!", 1.0, 0.5],
+    ["narizinho", "Tom Mix, o Rabicó fugiu e deixou a gente sozinha. Pegue esse medroso e dê um bom susto nele, para ele aprender!", 1.0, 0.8],
+    ["narrador", "Será que o Tom Mix vai encontrar o Rabicó? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

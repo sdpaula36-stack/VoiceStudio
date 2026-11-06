@@ -1,0 +1,62 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 9,
+  "titulo": "No reino das abelhas",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Sítio do Picapau Amarelo, partes VIII a XI. Texto conferido com a 1ª edição no Wikisource. Simplificado: sem o besouro mendigo e sem a faca do Tom Mix.",
+  "vozes": {
+    "libelula": {"voz": "female, child, very high pitch",     "semente": 361},
+    "abelha":   {"voz": "female, teenager, high pitch",       "semente": 351},
+    "rainha":   {"voz": "female, middle-aged, moderate pitch", "semente": 341}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo nove: No reino das abelhas.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, o bandido Tom Mix parou Narizinho e a Emília na estrada. O Rabicó fugiu, com medo.", 1.0, 0.4],
+    ["narrador", "A Emília deu a macela da perna como se fosse ouro. E Narizinho pediu ao Tom Mix um bom susto no Rabicó.", 1.0, 1.0],
+
+    ["narrador", "O Tom Mix seguiu as pegadas do leitão até a floresta. E lá estava o Rabicó, com a cabeça enfiada dentro de uma abóbora enorme, comendo.", 1.0, 0.5],
+    ["narrador", "O caubói chegou bem devagar, sem fazer barulho, e segurou o Rabicó pela perna.", 0.95, 0.5],
+    ["rabico", "Coin, coin, coin! Me solta!", 1.1, 0.5],
+    ["tom_mix", "Ordens da princesa do nariz arrebitado, senhor marquês. O senhor abandonou as amigas no perigo.", 1.0, 0.5],
+    ["rabico", "Me dá cinco minutos? Preciso escrever uma carta.", 1.0, 0.5],
+    ["narrador", "Uma libélula ia passando. Libélula é um inseto comprido, de quatro asas transparentes, que voa muito depressa.", 1.0, 0.5],
+    ["rabico", "Amiga libélula, leve esta carta para a princesa Narizinho. Em troca, eu te dou um lindo lago azul!", 1.05, 0.5],
+    ["narrador", "E a libélula saiu voando, rápida como um pensamento.", 1.05, 1.0, "transicao"],
+
+    ["narrador", "Enquanto isso, Narizinho e a Emília chegavam ao palácio das abelhas. Era uma colmeia gigante, feita de cera, cheia de salinhas de seis lados.", 1.0, 1.0, "zumbido"],
+    ["narrador", "Os zangões, que são as abelhas machos, vieram receber as duas. Eles contaram que o convite era mesmo da Rainha das Abelhas.", 1.0, 0.5],
+    ["narrador", "E a Rainha das Vespas estava furiosa com Narizinho, por causa daquela vespa da jabuticaba. Ainda bem que elas não erraram o caminho!", 1.0, 0.6],
+    ["narrador", "No palácio estava também um visitante conhecido: o Doutor Caramujo. Ele examinou a perna vazia da Emília.", 1.0, 0.5],
+    ["caramujo", "Caso grave! Esta perna precisa de um tratamento muito científico.", 0.95, 0.5],
+    ["narizinho", "Que nada, doutor. Tia Nastácia põe macela nova, costura com agulha e linha, e pronto.", 1.0, 0.5],
+    ["caramujo", "Tia Nastácia? Uma curandeira qualquer! Isso não é ciência!", 0.95, 0.5],
+    ["narizinho", "Não fale assim da Tia Nastácia! Ela cuida de todo mundo lá no sítio, e cuida muito bem. Peça desculpas!", 1.05, 0.6],
+    ["narrador", "O Doutor Caramujo ficou envergonhado e foi embora de fininho. E os zangões arranjaram duas muletinhas para a Emília andar.", 1.0, 0.8],
+    ["narrador", "Depois, Narizinho encontrou o Major Agarra, que tinha vindo do Reino das Águas Claras.", 1.0, 0.4],
+    ["major", "O príncipe anda muito triste, menina. Não quer casar com nenhuma princesa. Dizem que ele gosta de alguém... mas ninguém sabe quem é.", 0.95, 0.6],
+    ["narrador", "O coração de Narizinho bateu mais depressa. Por que será?", 0.95, 2.5],
+    ["narrador", "Porque ela desconfiou que esse alguém podia ser ela mesma!", 1.0, 0.5],
+    ["narizinho", "Major, diga ao príncipe que eu estou bem. E que um dia vou convidar ele para visitar o sítio.", 1.0, 0.8],
+
+    ["narrador", "Até agora: o Tom Mix pegou o Rabicó, a Emília ganhou muletas, e o príncipe está triste de saudade.", 0.95, 0.8],
+    ["narrador", "Nessa hora chegou a libélula com a carta do Rabicó. A letra era torta e as palavras estavam todas erradas.", 1.0, 0.5],
+    ["narrador", "A carta dizia: Desculpe a minha covardia. O Tom Mix me pegou. Tenha dó deste infeliz.", 0.95, 0.6],
+    ["narizinho", "Esse Rabicó! Está bem, eu perdoo. Leve este bilhete para o Tom Mix, depressa!", 1.0, 0.5],
+    ["narrador", "O Tom Mix leu o perdão e soltou o Rabicó. Mas a libélula cobrou o lago azul.", 1.0, 0.5],
+    ["rabico", "Lago? Você pode se afogar num lago. Tome esta sementinha de abóbora, que é melhor!", 1.05, 0.5],
+    ["narrador", "A libélula ficou furiosa, porque promessa é promessa.", 1.0, 0.8],
+    ["narrador", "No palácio, uma abelhinha explicou como era a vida da colmeia.", 1.0, 0.4],
+    ["abelha", "Aqui ninguém precisa mandar. Cada uma já nasce sabendo o seu trabalho. Todas buscam o mel das flores e cuidam da casa.", 1.0, 0.5],
+    ["abelha", "E a rainha não é uma rainha emproada. Ela é a mãe de todas nós.", 1.0, 0.6],
+    ["narrador", "Então Narizinho conheceu a rainha, sentada num trono de cera.", 1.0, 0.4],
+    ["rainha", "Seja bem-vinda, menina. Leve todo o mel que quiser. Aqui o dinheiro não vale nada.", 0.95, 0.6],
+    ["narrador", "Narizinho escolheu mel de flor de jabuticabeira, para a avó, e cera bem branquinha, para Tia Nastácia.", 1.0, 0.5],
+    ["narrador", "O Tom Mix chegou com uma fila de grilos, cada um carregando dois barrilzinhos nas costas. E encheram os barris de mel.", 1.0, 1.0],
+
+    ["narrador", "Resumindo: Narizinho perdoou o Rabicó, conheceu a rainha das abelhas e ganhou mel para levar para casa.", 0.95, 0.8],
+    ["narrador", "Mas na volta, a Emília, que ia na frente dentro de um barril vazio, ficou de pé e gritou:", 0.95, 0.5],
+    ["emilia", "Estou vendo um monstro lá na frente! Com cabeça de porco e pés de tartaruga!", 1.1, 0.8],
+    ["narrador", "Que monstro será esse? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

@@ -1,6 +1,6 @@
 """Confere roteiros de capítulo (JSON) antes de narrar no Colab.
 
-Uso: python -I notebooks/audiolivro/validar_roteiro.py narizinho_cap01.json narizinho_cap02.json ...
+Uso: python -I ferramentas/validar_roteiro.py narizinho_cap01.json narizinho_cap02.json ...
 
 Passe todos os capítulos do livro juntos: um personagem pode ter a voz definida num
 capítulo anterior. Sai com erro (código 1) se algo impedir a narração; avisos não bloqueiam.
@@ -11,6 +11,8 @@ import sys
 TERMOS_DE_VOZ = {"male", "female", "child", "teenager", "young adult", "middle-aged", "elderly",
                  "very low pitch", "low pitch", "moderate pitch", "high pitch", "very high pitch",
                  "whisper"}
+EFEITOS = {"transicao", "magia", "agua", "galope", "porta", "zumbido", "festa"}   # ver SONOPLASTIA.md
+MAX_EFEITOS = 6
 
 
 def main(caminhos):
@@ -36,13 +38,19 @@ def main(caminhos):
             sementes[v.get("semente")] = nome
             vozes[nome] = v
 
-        palavras = 0
+        if c.get("ambiente", "riacho") not in ("riacho", "nenhum"):
+            erros.append(f"{p}: 'ambiente' deve ser \"riacho\" ou \"nenhum\"")
+        palavras = n_efeitos = 0
         for i, t in enumerate(c.get("trechos", []), 1):
             onde = f"{p}, trecho {i}"
-            if not (isinstance(t, list) and len(t) == 4):
-                erros.append(f"{onde}: precisa ser [personagem, texto, velocidade, pausa]")
+            if not (isinstance(t, list) and len(t) in (4, 5)):
+                erros.append(f"{onde}: precisa ser [personagem, texto, velocidade, pausa] ou com um efeito no fim")
                 continue
-            quem, texto, vel, pausa = t
+            quem, texto, vel, pausa = t[:4]
+            if len(t) == 5:
+                n_efeitos += 1
+                if t[4] not in EFEITOS:
+                    erros.append(f"{onde}: efeito '{t[4]}' não existe; use um destes: {sorted(EFEITOS)}")
             if quem not in vozes:
                 erros.append(f"{onde}: personagem '{quem}' sem voz definida (aqui ou num capítulo anterior)")
             if not isinstance(texto, str) or not texto.strip():
@@ -57,6 +65,8 @@ def main(caminhos):
             if any(len(f.split()) > 25 for f in texto.replace("!", ".").replace("?", ".").split(".")):
                 avisos.append(f"{onde}: frase com mais de 25 palavras; o guia pede frases curtas")
             palavras += len(texto.split())
+        if n_efeitos > MAX_EFEITOS:
+            avisos.append(f"{p}: {n_efeitos} efeitos; o limite leve é {MAX_EFEITOS} por capítulo (SONOPLASTIA.md)")
         if palavras and not 300 <= palavras <= 1100:
             avisos.append(f"{p}: {palavras} palavras; o guia pede de 500 a 1.000 (4 a 8 min)")
         print(f"{p}: capítulo {c.get('capitulo')}, {len(c.get('trechos', []))} trechos, {palavras} palavras")

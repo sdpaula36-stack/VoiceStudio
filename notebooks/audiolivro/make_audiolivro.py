@@ -1,7 +1,7 @@
-"""Gera notebooks/audiolivro/Audiolivro_Piloto_Colab.ipynb a partir dos roteiros JSON.
+"""Gera colab/Audiolivro_Piloto_Colab.ipynb a partir dos roteiros JSON.
 
-Uso: python -I notebooks/audiolivro/make_audiolivro.py notebooks/audiolivro/Audiolivro_Piloto_Colab.ipynb \
-        notebooks/audiolivro/narizinho_cap01.json notebooks/audiolivro/narizinho_cap02.json ...
+Uso: python -I ferramentas/make_audiolivro.py colab/Audiolivro_Piloto_Colab.ipynb \
+        livros/narizinho/roteiros/narizinho_cap01.json livros/narizinho/roteiros/narizinho_cap02.json ...
 """
 import json
 import pprint
@@ -15,7 +15,8 @@ for c in caps:
     vozes.update(c["vozes"])
 VOZES = pprint.pformat(vozes, width=100, sort_dicts=False)
 CAPITULOS = "{\n" + "".join(
-    f"    {c['capitulo']}: {{\"titulo\": {json.dumps(c['titulo'], ensure_ascii=False)}, \"trechos\": [\n"
+    f"    {c['capitulo']}: {{\"titulo\": {json.dumps(c['titulo'], ensure_ascii=False)}, "
+    f"\"ambiente\": {json.dumps(c.get('ambiente', 'riacho'))}, \"trechos\": [\n"
     + "".join(f"        {json.dumps(t, ensure_ascii=False)},\n" for t in c["trechos"]) + "    ]},\n"
     for c in caps) + "}"
 ULTIMO = caps[-1]["capitulo"]
@@ -38,13 +39,13 @@ def code(s):
 md(f'''
 # Piloto de audiolivro adaptado: {rot["livro"]}
 
-Narra, numa GPU grátis do Google Colab, os capítulos 1 a {ULTIMO} de *{rot["livro"]}*, numa adaptação para crianças e adolescentes com deficiência visual, síndrome de Down, autismo e TDAH. O guia de adaptação e de narração está em `notebooks/audiolivro/GUIA.md`.
+Narra, numa GPU grátis do Google Colab, os capítulos 1 a {ULTIMO} de *{rot["livro"]}*, numa adaptação para crianças e adolescentes com deficiência visual, síndrome de Down, autismo e TDAH. O guia de adaptação e de narração está no `GUIA.md` da pasta Audiolivros.
 
 **Antes de começar:** menu `Ambiente de execução → Alterar o tipo de ambiente de execução → GPU T4`. Depois rode as células de cima para baixo. Rodar de novo qualquer célula é seguro.
 
 **Saída** (no seu Google Drive, em `MyDrive/Audiolivros/{PASTA}/capNN/`), para cada capítulo:
 - `capNN_A_so_voz.mp3`: só a narração, para quem é sensível a sons;
-- `capNN_B_com_ambiente.mp3`: narração com vinheta suave e som de riacho bem baixinho.
+- `capNN_B_com_ambiente.mp3`: narração com vinheta suave, alguns sons curtos e baixinhos nas pausas (sonoplastia leve) e, nas cenas do riacho, som de água bem baixinho.
 
 Escolha os capítulos na célula 2 (`CAPITULOS_PARA_GERAR`). As vozes ficam em `{PASTA}/vozes/` e são as mesmas em todos os capítulos.
 
@@ -149,36 +150,30 @@ print("Servidor ligado:", info)
 ''')
 
 code(r'''
-# ── 4b. Licenças do modelo de voz ───────────────────────────────────────────
-# Leia o que aparece abaixo. Se concordar, troque para True e rode de novo.
-ACEITO_AS_LICENCAS = False
-
+# ── 4.5. Aceitar as licenças dos modelos (obrigatório antes de gerar) ───────
+# Sem este passo o /generate falha. Rodar esta célula aceita as licenças em seu nome:
+# OmniVoice é CC-BY-NC (uso NÃO comercial: o áudio não pode ser vendido).
 import requests
-pendentes = []
-for repo in ["k2-fsa/OmniVoice", "eustlb/higgs-audio-v2-tokenizer"]:
-    st = requests.get(f"{BASE}/models/licenses/acceptance/{repo}", timeout=30).json()
-    print(f"{repo}\n  licença: {st.get('license')} ({st.get('category')})\n"
-          f"  detalhes: https://huggingface.co/{repo}\n")
-    if not st.get("accepted"):
-        pendentes.append(st)
+BASE = "http://127.0.0.1:3900"
 
-if not pendentes:
-    print("Licenças já aceitas.")
-elif not ACEITO_AS_LICENCAS:
-    raise SystemExit("Leia as licenças acima. Se concordar, mude ACEITO_AS_LICENCAS para True "
-                     "e rode de novo. 'noncommercial' = o áudio não pode ser vendido.")
-else:
-    for st in pendentes:
-        requests.post(f"{BASE}/models/licenses/accept", timeout=30,
-                      json={"repo_id": st["repo_id"], "fingerprint": st["fingerprint"],
-                            "accepted": True}).raise_for_status()
-        print("Aceita:", st["repo_id"])
+for repo in ("k2-fsa/OmniVoice", "eustlb/higgs-audio-v2-tokenizer"):
+    st = requests.get(f"{BASE}/models/licenses/acceptance/{repo}", timeout=30).json()
+    if st.get("accepted"):
+        print(f"[ok] {repo} já aceito")
+        continue
+    r = requests.post(
+        f"{BASE}/models/licenses/accept",
+        json={"repo_id": repo, "fingerprint": st["fingerprint"], "accepted": True},
+        timeout=30,
+    )
+    r.raise_for_status()
+    print(f"[aceito] {repo} ({st.get('license')})")
 ''')
 
 md('''
 ## Roteiro
 
-Cada trecho é `[personagem, texto, velocidade, pausa depois em segundos]`.
+Cada trecho é `[personagem, texto, velocidade, pausa depois em segundos]` e, às vezes, um quinto item: o **efeito** que toca na pausa, só na versão B (`transicao`, `magia`, `agua`, `galope`, `porta`, `zumbido`, `festa`). Cada capítulo tem `"ambiente"`: `"riacho"` (água baixinha durante a fala) ou `"nenhum"`. Regras em `SONOPLASTIA.md`.
 
 - **velocidade:** 1.0 é normal; até 1.1 na ação; 0.85 a 0.9 no suspense e no sono.
 - **pausa:** o silêncio depois do trecho. Pausas maiores antes das revelações prendem a atenção.
@@ -241,7 +236,7 @@ for nome, v in VOZES.items():
 ''')
 
 code(r'''
-# ── 7. Narrar e montar cada capítulo (A: só voz; B: com vinheta e riacho) ───
+# ── 7. Narrar e montar cada capítulo (A: só voz; B: vinheta, sons leves, riacho) 
 import os, subprocess
 import numpy as np
 import soundfile as sf
@@ -251,7 +246,9 @@ def narrar(n):
     pasta = os.path.join(LIVRO, f"cap{n:02d}", "trechos")
     os.makedirs(pasta, exist_ok=True)
     arquivos = []
-    for i, (quem, texto, vel, pausa) in enumerate(CAPITULOS[n]["trechos"], 1):
+    for i, t in enumerate(CAPITULOS[n]["trechos"], 1):
+        quem, texto, vel, pausa = t[:4]
+        efeito = t[4] if len(t) > 4 else None
         ref_wav, ref_texto = REF[quem]
         wav = os.path.join(pasta, f"{i:03d}_{quem}_{chave(os.path.basename(ref_wav), texto, vel)}.wav")
         if not os.path.exists(wav):
@@ -259,7 +256,7 @@ def narrar(n):
                 gerar(texto, wav, seed=VOZES[quem]["semente"], ref_text=ref_texto, speed=vel,
                       files={"ref_audio": ("ref.wav", ref, "audio/wav")})
             print(f"{n}.{i:03d} {quem}: {texto}")
-        arquivos.append((wav, pausa))
+        arquivos.append((wav, pausa, efeito))
     return arquivos
 
 def tom(freq, dur, vol, sr):
@@ -286,6 +283,72 @@ def riacho(n, sr):
     r[-fade:] *= np.linspace(1, 0, fade)
     return r
 
+# ── Sonoplastia leve (só na versão B) ────────────────────────────────────────
+# Sete sons curtos, sintetizados aqui mesmo, sempre iguais (mesmo som = mesmo sentido).
+# Entram só nas pausas, nunca por cima da fala; ataque suave; pico baixo.
+
+def _env(n, sr, ataque=0.03, queda=4.0):
+    t = np.arange(n) / sr
+    a = np.clip(t / ataque, 0, 1)
+    return (a * np.exp(-queda * t)).astype("float32")
+
+def _nota(f, dur, vol, sr, queda=3.0):
+    t = np.arange(int(dur * sr)) / sr
+    som = np.sin(2 * np.pi * f * t) + 0.25 * np.sin(2 * np.pi * 2 * f * t)
+    return (vol * som * _env(len(t), sr, 0.02, queda)).astype("float32")
+
+def _suave(x, k):
+    return np.convolve(x, np.ones(k, dtype="float32") / k, mode="same").astype("float32")
+
+def _junta(sr, dur, pecas):
+    out = np.zeros(int(dur * sr), dtype="float32")
+    for ini, p in pecas:
+        i = int(ini * sr)
+        p = p[:len(out) - i]
+        out[i:i + len(p)] += p
+    return out
+
+def ef_transicao(sr):   # troca de cena: duas notas que descem (sol, dó)
+    return _junta(sr, 1.3, [(0, _nota(783.99, 1.0, 0.07, sr)), (0.3, _nota(523.25, 1.0, 0.07, sr))])
+
+def ef_magia(sr):       # encanto, sonho, feitiço: quatro notas agudas subindo
+    fs = [1046.5, 1318.5, 1568.0, 2093.0]
+    return _junta(sr, 1.5, [(k * 0.12, _nota(f, 0.9, 0.035, sr, 4.0)) for k, f in enumerate(fs)])
+
+def ef_agua(sr):        # mergulho / água: ruído abafado + duas bolhas
+    rng = np.random.default_rng(11)
+    n = int(0.6 * sr)
+    chua = _suave(rng.standard_normal(n).astype("float32"), 60) * _env(n, sr, 0.04, 6.0) * 0.6
+    def bolha(f0):
+        t = np.arange(int(0.12 * sr)) / sr
+        return (0.04 * np.sin(2 * np.pi * (f0 + 900 * t) * t) * _env(len(t), sr, 0.01, 20)).astype("float32")
+    return _junta(sr, 0.9, [(0, chua), (0.35, bolha(500)), (0.55, bolha(650))])
+
+def ef_galope(sr):      # cavalinho: pac, pac, pac (quatro batidinhas de madeira)
+    def pac(f):
+        t = np.arange(int(0.08 * sr)) / sr
+        return (0.09 * np.sin(2 * np.pi * f * t) * _env(len(t), sr, 0.003, 45)).astype("float32")
+    return _junta(sr, 1.2, [(k * 0.25, pac(700 if k % 2 else 600)) for k in range(4)])
+
+def ef_porta(sr):       # batida na porta: toc, toc, toc (grave e abafado)
+    def toc():
+        t = np.arange(int(0.12 * sr)) / sr
+        return (0.12 * np.sin(2 * np.pi * 160 * t) * _env(len(t), sr, 0.004, 30)).astype("float32")
+    return _junta(sr, 1.0, [(k * 0.28, toc()) for k in range(3)])
+
+def ef_zumbido(sr):     # abelhas: zum-zum baixinho, entra e sai devagar
+    t = np.arange(int(1.2 * sr)) / sr
+    z = sum(np.sin(2 * np.pi * h * 210 * t) / h for h in (1, 2, 3))
+    z *= 0.5 + 0.5 * np.sin(2 * np.pi * 9 * t)
+    janela = np.sin(np.pi * t / t[-1]) ** 2
+    return (0.025 * z * janela).astype("float32")
+
+def ef_festa(sr):       # alegria, festa, final feliz: acorde curto (dó, mi, sol juntos)
+    return _junta(sr, 1.4, [(0, _nota(f, 1.3, 0.04, sr, 2.5)) for f in (523.25, 659.25, 783.99)])
+
+EFEITOS = {"transicao": ef_transicao, "magia": ef_magia, "agua": ef_agua, "galope": ef_galope,
+           "porta": ef_porta, "zumbido": ef_zumbido, "festa": ef_festa}
+
 def exportar(audio, sr, pasta, nome):
     tmp = os.path.join(pasta, nome + ".wav")
     sf.write(tmp, audio, sr)
@@ -298,17 +361,34 @@ def exportar(audio, sr, pasta, nome):
     display(Audio(mp3))
 
 def montar(n, arquivos):
-    partes, sr = [], None
-    for wav, pausa in arquivos:
+    partes, marcas, sr, pos = [], [], None, 0
+    for wav, pausa, efeito in arquivos:
         a, s = sf.read(wav, dtype="float32", always_2d=True)
         sr = sr or s
         assert s == sr, f"taxa de amostragem diferente em {wav}"
-        partes += [a.mean(axis=1), np.zeros(int(pausa * sr), dtype="float32")]
+        fala = a.mean(axis=1)
+        pos += len(fala)
+        if efeito:
+            som = EFEITOS[efeito](sr)
+            pausa = max(pausa, len(som) / sr + 0.4)   # o som cabe inteiro na pausa
+            marcas.append((pos + int(0.15 * sr), som))
+        partes += [fala, np.zeros(int(pausa * sr), dtype="float32")]
+        pos += int(pausa * sr)
     voz = np.concatenate(partes)
+    # Sons das pausas: 15 dB abaixo da fala (RMS) e pico até 1/3 do pico da fala.
+    ativo = voz[np.abs(voz) > 0.01]
+    rms_voz = float(np.sqrt((ativo ** 2).mean())) if len(ativo) else 0.1
+    sons = np.zeros_like(voz)
+    for ini, som in marcas:
+        sa = som[np.abs(som) > 1e-4]
+        g = rms_voz * 10 ** (-15 / 20) / float(np.sqrt((sa ** 2).mean()))
+        g = min(g, np.abs(voz).max() / 3 / float(np.abs(som).max()))
+        sons[ini:ini + len(som)] += (som * g)[:len(sons) - ini]
+    fundo = riacho(len(voz), sr) if CAPITULOS[n].get("ambiente", "riacho") == "riacho" else 0
     um_seg = np.zeros(sr, dtype="float32")
     pasta = os.path.join(LIVRO, f"cap{n:02d}")
     exportar(np.concatenate([um_seg, voz, um_seg]), sr, pasta, f"cap{n:02d}_A_so_voz")
-    exportar(np.concatenate([vinheta(sr), um_seg, voz + riacho(len(voz), sr), um_seg, vinheta(sr)]),
+    exportar(np.concatenate([vinheta(sr), um_seg, voz + sons + fundo, um_seg, vinheta(sr)]),
              sr, pasta, f"cap{n:02d}_B_com_ambiente")
 
 REFAZER = False   # True: narra de novo capítulos que já têm os dois MP3 prontos

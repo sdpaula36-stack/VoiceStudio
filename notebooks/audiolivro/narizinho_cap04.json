@@ -1,0 +1,61 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 4,
+  "titulo": "A boneca que fala",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): fim de Narizinho Arrebitado (VII) e O Sítio do Picapau Amarelo, partes I. Texto conferido com a 1ª edição no Wikisource.",
+  "vozes": {
+    "dona_benta": {"voz": "female, elderly, moderate pitch", "semente": 281}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo quatro: A boneca que fala.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, a Emília tomou a pílula falante do Doutor Caramujo e começou a falar sem parar.", 1.0, 0.4],
+    ["narrador", "Depois, Narizinho voltou do Reino das Águas Claras para o sítio, com a Emília no colo.", 1.0, 1.0],
+
+    ["narrador", "Narizinho entrou correndo em casa. Na sala estava Dona Benta, a avó dela, sentada na cadeirinha de balanço.", 1.0, 0.5],
+    ["dona_benta", "Narizinho, tenho uma novidade! Seu primo Pedrinho vem passar uns tempos aqui no sítio.", 1.0, 0.5],
+    ["narizinho", "O Pedrinho! Que bom, que bom, que bom!", 1.1, 0.5],
+    ["narrador", "Narizinho deu três pulos de alegria. Pedrinho é um menino de dez anos, que mora na cidade com a mãe.", 1.0, 0.6],
+    ["dona_benta", "Mas antes, arrume essa boneca. Ela está toda amassada e com o vestido molhado!", 1.0, 0.6],
+    ["emilia", "A culpa não é minha, Dona Benta! Foi a Narizinho que me levou para o fundo do riacho.", 1.05, 1.0, "magia"],
+    ["narrador", "Dona Benta levou um susto tão grande que quase caiu da cadeira. A boneca de pano estava falando!", 1.05, 0.5],
+    ["dona_benta", "Tia Nastácia! Corra aqui! Venha ver uma coisa que nunca se viu!", 1.05, 0.5],
+    ["narrador", "Tia Nastácia veio da cozinha, enxugando as mãos no avental.", 1.0, 0.4],
+    ["nastacia", "Boneca falando, Dona Benta? Isso não existe. A Narizinho está brincando com a senhora.", 0.95, 0.6],
+    ["emilia", "Não estou brincando coisa nenhuma! Eu falo, sim. O doutor me deu uma pílula, e agora vou falar a vida inteira!", 1.05, 0.7],
+    ["narrador", "Tia Nastácia ficou de boca aberta. Ela mesma tinha costurado aquela boneca, com um paninho bem simples.", 1.0, 0.5],
+    ["nastacia", "Credo! Se eu soubesse que ela ia falar, tinha feito a Emília de seda!", 1.0, 0.9],
+
+    ["narrador", "No dia seguinte chegou uma carta da mãe de Pedrinho. Ele ia chegar dali a uma semana.", 1.0, 0.5],
+    ["narizinho", "Uma semana inteira? Que demora!", 1.0, 0.5],
+    ["narrador", "Enquanto isso, a Emília só queria ouvir histórias. Pedia a história de tudo: do tapete, do relógio, do armário.", 1.0, 0.5],
+    ["emilia", "Dona Benta, conte a história do Pedrinho!", 1.05, 0.5],
+    ["dona_benta", "Pedrinho não tem história, Emília. Ele nunca saiu de casa.", 1.0, 0.5],
+    ["emilia", "Ora essa! O livro de capa vermelha também nunca saiu de casa. E tem mais de dez histórias dentro!", 1.05, 0.8],
+    ["narrador", "Dona Benta riu. A Emília falava muita bobagem, mas sempre tinha uma resposta.", 1.0, 0.8],
+    ["narrador", "Até agora: a Emília fala, Dona Benta e Tia Nastácia levaram um susto, e Pedrinho vai chegar daqui a uma semana.", 0.95, 1.0, "transicao"],
+
+    ["narrador", "Para a semana passar mais depressa, Narizinho tinha uma coisa boa: era tempo de jabuticaba!", 1.05, 0.5],
+    ["narrador", "Jabuticaba é uma fruta redonda e preta, do tamanho de uma bolinha de gude. Ela cresce grudada no tronco da árvore.", 1.0, 0.5],
+    ["narrador", "A casca é lisinha. Dentro tem uma polpa branca, muito doce.", 1.0, 0.6],
+    ["narrador", "Narizinho subia na jabuticabeira e escolhia as mais bonitas. Mordia, e fazia tloc! Engolia o caldo e cuspia o caroço: pluf!", 1.05, 0.5],
+    ["narrador", "Lá embaixo esperava o Rabicó, um leitãozinho comilão, de rabinho bem curtinho. Ele pegava as cascas no chão: nhoc!", 1.05, 0.5],
+    ["narrador", "E a música da jabuticabeira era assim: tloc, pluf, nhoc! Tloc, pluf, nhoc!", 1.05, 0.8],
+    ["narrador", "Mas a árvore tinha outros fregueses: as vespas. As vespas furavam as frutas com o ferrão e entravam dentro, para chupar o doce.", 1.0, 0.6],
+    ["narrador", "Uma tarde, Narizinho pôs na boca uma jabuticaba furadinha. Ela não viu que tinha uma vespa lá dentro.", 0.95, 0.8],
+    ["narrador", "Por que será que, dessa vez, não fez tloc?", 0.95, 2.5],
+    ["narrador", "Porque a vespa picou a ponta da língua dela! Ai, ai, ai!", 1.05, 0.6],
+    ["narrador", "Tia Nastácia ouviu o grito e veio correndo. Sentou Narizinho no colo.", 1.0, 0.4],
+    ["nastacia", "Calma, menina. Põe a língua para fora, que eu tiro o ferrão. Dói, mas passa.", 0.95, 0.6],
+    ["narrador", "Com uma pinça, Tia Nastácia tirou o ferrãozinho, bem devagar. Narizinho chorou um pouco, de língua inchada. Depois a dor passou.", 0.95, 0.6],
+    ["narrador", "Ela foi contar tudo para a Emília.", 1.0, 0.4],
+    ["emilia", "Bem feito! Se fosse eu, olhava cada fruta com o binóculo da Dona Benta antes de comer.", 1.05, 0.8],
+    ["narrador", "Narizinho não aguentou e deu uma gargalhada. E daí a pouco já estava na árvore de novo: tloc, pluf, nhoc!", 1.05, 1.0],
+
+    ["narrador", "Resumindo: Narizinho levou uma picada de vespa, Tia Nastácia cuidou dela, e a Emília deu um conselho bem maluco.", 0.95, 0.8],
+    ["narrador", "Mas naquela noite, Narizinho esqueceu a Emília debaixo da jabuticabeira, sozinha no escuro.", 0.9, 0.8],
+    ["narrador", "E lá, a boneca viu uma coisa muito curiosa acontecer com aquela vespa...", 0.9, 1.0],
+    ["narrador", "O que será que a Emília viu? Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}

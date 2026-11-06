@@ -1,0 +1,60 @@
+{
+  "livro": "Reinações de Narizinho",
+  "pasta": "narizinho",
+  "capitulo": 11,
+  "titulo": "O Visconde de Sabugosa",
+  "ambiente": "nenhum",
+  "nota": "Adaptação de As Reinações de Narizinho (1931): O Marquês de Rabicó, partes I e II. Texto conferido com a 1ª edição no Wikisource. Suavizado o destino dos leitões.",
+  "vozes": {
+    "visconde": {"voz": "male, elderly, moderate pitch", "semente": 371}
+  },
+  "trechos": [
+    ["narrador", "Reinações de Narizinho. Capítulo onze: O Visconde de Sabugosa.", 0.95, 1.2],
+    ["narrador", "No capítulo passado, Narizinho sonhou uma aventura comprida: o reino das abelhas, o bandido Tom Mix e o feitiço da velha.", 1.0, 0.4],
+    ["narrador", "Quando acordou, ainda tinha um plano: casar a Emília com o Rabicó.", 1.0, 1.0],
+
+    ["narrador", "O Rabicó era um leitãozinho ruivo, com manchas brancas e um rabinho bem curto. Por isso o nome dele era Rabicó.", 1.0, 0.5],
+    ["narrador", "No sítio, quando os leitões ficavam gordinhos, Tia Nastácia levava para a cozinha, para virar comida. Mas o Rabicó tinha uma amiga que protegia ele: Narizinho.", 1.0, 0.6],
+    ["narrador", "Uma tarde, Narizinho ouviu Dona Benta falar com Tia Nastácia.", 1.0, 0.4],
+    ["dona_benta", "Amanhã é aniversário do Pedrinho. Vamos fazer um jantar especial, com leitão assado.", 1.0, 0.5],
+    ["narrador", "Narizinho entendeu tudo e correu atrás do Rabicó. Por que será que ela correu?", 0.95, 2.5],
+    ["narrador", "Porque o único leitão gordinho no sítio era o Rabicó! E ela não queria que o amigo virasse jantar.", 1.0, 0.5],
+    ["narizinho", "Vem comigo, Rabicó. Vou esconder você num lugar que só eu sei. E nada de barulho!", 1.0, 0.5],
+    ["narrador", "Ela deixou o leitão escondido, com milho, uma abóbora e uma lata de água. Tia Nastácia procurou o sítio inteiro e não achou.", 1.0, 0.5],
+    ["narrador", "No jantar do aniversário, comeram galinha. E no dia seguinte, o Rabicó voltou para o terreiro, todo tranquilo.", 1.0, 0.5],
+    ["nastacia", "Olha só quem apareceu! Escapou desta vez, seu danadinho!", 1.0, 1.0, "transicao"],
+
+    ["narrador", "Agora, Narizinho podia cuidar do casamento.", 1.0, 0.4],
+    ["narizinho", "Senhora condessa, está na hora de casar. Que tal o Marquês de Rabicó?", 1.0, 0.5],
+    ["emilia", "Nunca! Ele é um medroso. Fugiu quando o bandido apareceu!", 1.05, 0.6],
+    ["narizinho", "Mas você não sabe o segredo. O Rabicó é um príncipe! Uma fada má virou ele em porco.", 1.0, 0.5],
+    ["narizinho", "Ele só vai virar príncipe de novo quando achar um anel mágico, escondido na barriga de uma minhoca. Por isso ele vive cavando a terra!", 1.0, 0.6],
+    ["narrador", "Era tudo invenção de Narizinho. Mas a Emília sonhava ser princesa. E pensou, pensou, pensou.", 0.95, 0.5],
+    ["emilia", "Está bem, eu aceito. Mas só vou morar com ele quando ele virar príncipe!", 1.05, 0.8],
+    ["narrador", "Narizinho correu até o pomar, onde estava Pedrinho.", 1.05, 0.4],
+    ["narizinho", "Pedrinho, depressa! Faz um visconde de sabugo, com cartola e uma marca de coroa na testa. Ele vai ser o pai do Rabicó!", 1.05, 0.6],
+    ["narrador", "Sabugo é o miolo da espiga de milho, depois que tiram os grãos. É comprido e duro, do tamanho de uma mão.", 1.0, 0.5],
+    ["narrador", "Pedrinho pegou um sabugo e fez braços, pernas e cara. As palhinhas do milho viraram barba. E na cabeça, uma cartolinha, que é um chapéu alto e redondo.", 1.0, 0.8],
+
+    ["narrador", "Até agora: Narizinho salvou o Rabicó, enganou a Emília, e Pedrinho fez um visconde de sabugo de milho.", 0.95, 0.8],
+    ["narrador", "Pedrinho levou o visconde até o quarto da Emília e bateu na porta.", 1.0, 0.8, "porta"],
+    ["visconde", "Sou o Visconde de Sabugosa. Venho pedir a mão da Condessa de Três Estrelinhas para o meu filho, o Marquês de Rabicó.", 0.95, 0.6],
+    ["narizinho", "Entre, senhor visconde. E como vai a sua senhora mãe, Dona Palha-de-Milho?", 1.0, 0.5],
+    ["visconde", "Coitada. Foi comida pela vaca.", 0.9, 0.6],
+    ["narizinho", "Que pena. Mas a vida é assim: a vaca come o milho, e a gente come... bom, deixa para lá!", 1.0, 0.8],
+    ["narrador", "A Emília entrou, de vestido de bolinhas. O visconde tirou a cartola para cumprimentar, e ela viu a marca de coroa na testa dele.", 1.0, 0.5],
+    ["narizinho", "A Emília sabe fazer tudo, visconde. Até este vestido foi ela que costurou!", 1.0, 0.5],
+    ["emilia", "Não fui eu, não. Foi a Tia Nastácia.", 1.0, 0.6],
+    ["narrador", "A Emília ainda não sabia mentir. E isso é uma coisa boa!", 1.0, 0.5],
+    ["visconde", "O meu filho tem bom gênio. Gosta de dormir no sol e de cavar a terra atrás de minhocas. O único defeito é comer tudo o que encontra.", 0.95, 0.5],
+    ["emilia", "Comigo, ele só vai comer coisas limpinhas e cheirosas!", 1.05, 0.5],
+    ["narizinho", "Então, Emília? Aceita ou não aceita o Marquês de Rabicó?", 1.0, 0.8],
+    ["narrador", "A Emília pensou, pensou, e respondeu:", 0.95, 0.6],
+    ["emilia", "Quero!", 1.05, 1.0, "festa"],
+    ["narrador", "O visconde deu um beijo na testa da noiva. E a Emília, vermelhinha de vergonha, saiu correndo para o quarto.", 1.0, 1.0],
+
+    ["narrador", "Resumindo: a Emília aceitou casar com o Rabicó, porque acha que ele é um príncipe encantado.", 0.95, 0.8],
+    ["narrador", "Agora vem o noivado, com doces e festa. Mas o Rabicó é muito guloso. Será que ele vai se comportar?", 1.0, 0.6],
+    ["narrador", "Isso fica para o próximo capítulo de Reinações de Narizinho. Até lá!", 1.0, 0.8]
+  ]
+}
