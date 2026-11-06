@@ -2,7 +2,7 @@
 
 Projeto de audiolivros adaptados para crianças e adolescentes com deficiência visual, síndrome de Down, autismo e TDAH. A narração é gerada por IA no Google Colab (grátis), com o modelo OmniVoice do VoiceStudio.
 
-Esta pasta só tem o projeto de audiolivros. Os sons e falas dos jogos ficam na pasta de cada jogo (`D:\Projetos\Jogos\...\docs\estudio-de-voz`).
+Esta pasta só tem o projeto de audiolivros. Tudo roda no Colab: ele instala o VoiceStudio na nuvem a cada sessão e não usa nada do PC (detalhes no fim de COMO_A_NARRACAO_E_GERADA.md). Os sons e falas dos jogos ficam na pasta de cada jogo (`D:\Projetos\Jogos\...\docs\estudio-de-voz`).
 
 ## Comece por aqui
 

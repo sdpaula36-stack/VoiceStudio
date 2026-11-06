@@ -68,3 +68,20 @@ for repo in ("k2-fsa/OmniVoice", "eustlb/higgs-audio-v2-tokenizer"):
 
 `BASE` é `http://127.0.0.1:3900`. A cada sessão nova do Colab, o servidor começa do zero, então a célula tem de rodar
 de novo. Lembre: OmniVoice é CC-BY-NC, uso só não comercial.
+
+## De onde vem o VoiceStudio (Colab x PC)
+
+O Colab **não usa nada do seu PC**. A cada sessão, na nuvem do Google:
+
+1. a célula 3 clona o código do fork `https://github.com/sdpaula36-stack/VoiceStudio` (branch `main`) em `/content/VoiceStudio` e instala tudo com `uv`;
+2. na primeira geração, o VoiceStudio baixa os modelos do Hugging Face (`k2-fsa/OmniVoice` e `eustlb/higgs-audio-v2-tokenizer`; nos efeitos dos jogos, `stabilityai/stable-audio-open-1.0`) para o disco do Colab;
+3. só o resultado vai para o seu Google Drive. Quando a sessão fecha, a instalação e os modelos somem, e por isso a instalação se repete a cada vez (5 a 8 min).
+
+No PC ficam só:
+
+- `D:\Projetos\Ferramentas\VoiceStudio`: o código do Estúdio de voz (clone do fork). Serve para ler ou mudar o código e não é necessário para o Colab;
+- os projetos (`D:\Projetos\Audiolivros` e `docs\estudio-de-voz` de cada jogo).
+
+Em 06/11/2026 foi apagada a pasta `D:\Projetos\VoiceStudio` (28 GB), com os dados do app VoiceStudio para Windows: Python, pacotes, modelos e o banco `data\omnivoice.db`. Este PC não consegue gerar voz (GT 730 de 2 GB e i3-530 sem AVX). Na tentativa de 05/11, o capítulo passou do tempo limite na CPU e nenhum foi gerado.
+
+**Para reinstalar o app no PC um dia** (num computador com GPU NVIDIA ou CPU moderna): baixe o instalador do Windows em https://github.com/debpalash/VoiceStudio/releases/latest e abra o app. Ele monta tudo de novo, baixando uns 28 GB. O app guarda o local dos dados em `%APPDATA%\VoiceStudio\runtime-location.json`; se ele reclamar da pasta antiga, apague esse arquivo e abra o app de novo.
