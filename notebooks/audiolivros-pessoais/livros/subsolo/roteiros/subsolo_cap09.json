@@ -1,0 +1,232 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 9,
+ "titulo": "Dois e dois são cinco",
+ "original": "Parte I, capítulo IX",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo nove.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "O narrador admite que está brincando, mas avisa que brinca rangendo os dentes. E chega a uma das suas frases mais citadas: dois e dois são quatro já não é a vida, é o começo da morte.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo nove.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Senhores, eu estou brincando, é claro, e sei que a brincadeira não saiu boa; mas nem tudo se pode tomar por brincadeira. Talvez eu brinque rangendo os dentes. Senhores, as perguntas me torturam; respondam-nas para mim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os senhores, por exemplo, querem desacostumar o homem dos velhos hábitos e corrigir a sua vontade, de acordo com as exigências da ciência e do bom senso. Mas como sabem que o homem não só pode, mas deve ser refeito assim?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "De onde concluem que o querer humano precisa tanto ser corrigido? Numa palavra, como sabem que essa correção vai mesmo trazer vantagem ao homem?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, para dizer tudo, por que estão tão seguros de que não ir contra as vantagens normais, garantidas pelos argumentos da razão e pela aritmética, é sempre vantajoso para o homem, e é uma lei para toda a humanidade?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por enquanto, isso é só uma suposição dos senhores. Suponhamos que seja uma lei da lógica; mas talvez não seja, de jeito nenhum, uma lei da humanidade.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Os senhores talvez pensem que eu sou louco? Permitam-me explicar. Concordo: o homem é um animal sobretudo construtor, condenado a buscar um fim conscientemente e a se ocupar da arte da engenharia, isto é, a abrir caminho, eterna e incessantemente, seja para onde for.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas talvez seja justamente por isso que às vezes lhe dá vontade de desviar para o lado: porque está condenado a abrir esse caminho;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e talvez também porque, por mais tolo que seja o homem de ação, às vezes lhe vem à cabeça que o caminho quase sempre vai para onde for, e que o principal não é para onde vai, mas que ele ande,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e que a criança bem-comportada, desprezando a arte da engenharia, não se entregue à ociosidade funesta, que, como se sabe, é a mãe de todos os vícios.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O homem gosta de construir e de abrir estradas, isso é indiscutível. Mas por que ele também ama apaixonadamente a destruição e o caos? Isso é que eu queria que me dissessem!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não será, talvez, que ele ama tanto a destruição e o caos porque tem medo, por instinto, de alcançar o fim e terminar o edifício que constrói?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Como vão saber? Talvez ele ame o edifício só de longe, e nunca de perto; talvez ele só goste de construí-lo, e não de morar nele, deixando-o depois para os animais domésticos, como as formigas, os carneiros, e assim por diante.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "As formigas, sim, são de outro gosto. Elas têm um edifício admirável desse tipo, eternamente indestrutível: o formigueiro. Pelo formigueiro as respeitáveis formigas começaram, e pelo formigueiro com certeza vão terminar, o que honra muito a sua constância e o seu senso positivo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas o homem é uma criatura leviana e de má aparência, e talvez, como o jogador de xadrez, só goste do processo de alcançar o objetivo, e não do próprio objetivo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E quem sabe, não se pode garantir, talvez todo o objetivo na terra a que a humanidade aspira consista só nessa continuidade do processo de alcançar, ou, em outras palavras, na própria vida, e não no objetivo propriamente dito,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "que, naturalmente, só pode ser dois e dois são quatro, isto é, uma fórmula; e dois e dois são quatro, senhores, já não é a vida, mas o começo da morte.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Pelo menos, o homem sempre teve um certo medo desse dois e dois são quatro, e eu tenho medo até hoje. Suponhamos que o homem só faça procurar esse dois e dois são quatro, atravesse oceanos, sacrifique a vida nessa procura; mas encontrar, encontrar de verdade, juro por Deus, ele tem um certo medo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois sente que, quando encontrar, não haverá mais o que procurar. Os operários, terminado o trabalho, pelo menos recebem o dinheiro, vão para a taverna, depois param na delegacia; e aí está a ocupação da semana. Mas o homem, para onde vai?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ele gosta de alcançar, mas de ter alcançado, nem tanto, e isso, é claro, é terrivelmente engraçado. Numa palavra, o homem é feito de um jeito cômico; em tudo isso, evidentemente, há um trocadilho.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas dois e dois são quatro é, mesmo assim, uma coisa insuportável. Dois e dois são quatro é, na minha opinião, só insolência. Dois e dois são quatro fica parado como um janota, de mãos na cintura, atravessado no seu caminho, e cospe.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Concordo que dois e dois são quatro é uma coisa excelente; mas, se é para elogiar tudo, então dois e dois são cinco às vezes também é uma coisinha encantadora.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "E por que os senhores estão tão firme e solenemente convencidos de que só o normal e o positivo, numa palavra, só a prosperidade, é vantajosa para o homem? A razão não estará se enganando sobre as vantagens?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez o homem não ame só a prosperidade? Talvez ele ame, na mesma medida, o sofrimento? Talvez o sofrimento lhe seja tão vantajoso quanto a prosperidade? E o homem às vezes ama terrivelmente o sofrimento, até a paixão, e isso é um fato.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aqui nem é preciso consultar a história universal; perguntem a si mesmos, se forem homens e tiverem vivido um pouco. Quanto à minha opinião pessoal, amar só a prosperidade é até meio indecente. Bom ou ruim, quebrar alguma coisa de vez em quando também é muito agradável.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu, aqui, não defendo propriamente o sofrimento, nem a prosperidade. Defendo... o meu capricho, e que ele me seja garantido quando eu precisar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O sofrimento, por exemplo, não é admitido nos vaudeviles, eu sei. No palácio de cristal, ele é impensável: o sofrimento é dúvida, é negação, e que palácio de cristal é esse, em que se pode duvidar?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, no entanto, tenho certeza de que o homem nunca vai renunciar ao sofrimento verdadeiro, isto é, à destruição e ao caos. O sofrimento é a única causa da consciência.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Embora eu tenha declarado no começo que a consciência, para mim, é a maior infelicidade do homem, sei que o homem a ama e não a troca por satisfação nenhuma. A consciência, por exemplo, é infinitamente superior ao dois e dois.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Depois do dois e dois, naturalmente, não vai sobrar nada, não só para fazer, mas nem para conhecer. Tudo o que se poderá fazer então é tapar os cinco sentidos e mergulhar na contemplação.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Com a consciência, mesmo que o resultado seja o mesmo, isto é, também não haja nada a fazer, pelo menos às vezes se pode açoitar a si mesmo, e isso, mesmo assim, reanima. Ainda que seja retrógrado, é melhor do que nada.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "O dois e dois são cinco que Orwell usaria em 1984 já aparece aqui, oitenta e cinco anos antes, mas com sinal trocado: no subsolo, é o direito de errar; em Orwell, é a mentira imposta pelo Estado.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Dentro da obra de Dostoiévski, este capítulo prepara uma cena famosa de Os Irmãos Karamázov, de 1880: o Grande Inquisidor, que acusa Cristo de ter dado aos homens uma liberdade pesada demais. Uma leitura possível: o homem do subsolo é o primeiro a dizer que prefere essa liberdade, mesmo que doa.",
+   1.0,
+   1.5
+  ]
+ ]
+}

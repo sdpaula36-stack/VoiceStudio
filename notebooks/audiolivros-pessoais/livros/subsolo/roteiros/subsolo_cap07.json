@@ -1,0 +1,361 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 7,
+ "titulo": "O palácio de cristal",
+ "original": "Parte I, capítulo VII",
+ "cortes": [
+  "Parte I, cap. VII: o amigo que fala pela razão e age contra ela (1 parágrafo encurtado).",
+  "Parte I, cap. VII: o exemplo de Cleópatra e dos alfinetes de ouro (3 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo sete.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Aqui começa o centro da Parte um: a discussão com a ideia de que a razão e a ciência vão consertar o ser humano.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo sete.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas tudo isso são sonhos dourados. Oh, digam-me: quem foi o primeiro a anunciar, o primeiro a proclamar que o homem só faz sujeiras porque não conhece os seus verdadeiros interesses;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e que, se o esclarecessem, se lhe abrissem os olhos para os seus interesses verdadeiros e normais, o homem pararia na mesma hora de fazer sujeiras, e ficaria na mesma hora bom e nobre,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "porque, sendo esclarecido e entendendo as suas verdadeiras vantagens, veria justamente no bem a sua própria vantagem; e, como se sabe, nenhum homem pode agir, sabendo o que faz, contra as próprias vantagens; portanto, faria o bem, por assim dizer, por necessidade?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Oh, criancinha! Oh, criança pura e inocente! Mas, em primeiro lugar, quando foi que aconteceu, em todos esses milênios, que o homem agisse só pela própria vantagem?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O que fazer com os milhões de fatos que mostram como as pessoas, sabendo o que faziam, isto é, entendendo perfeitamente as suas verdadeiras vantagens, deixaram-nas em segundo plano e se lançaram por outro caminho, ao risco, à sorte,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "sem que ninguém nem nada as obrigasse, como se justamente não quisessem o caminho indicado, e abriram com teimosia, por capricho, outro caminho, difícil, absurdo, procurando-o quase no escuro?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quer dizer que essa teimosia e esse capricho eram mesmo mais agradáveis para elas do que qualquer vantagem... Vantagem! O que é vantagem? E os senhores se atrevem a definir com toda a exatidão em que consiste a vantagem humana?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E se acontecer que a vantagem humana, às vezes, não só possa, mas até deva consistir justamente em desejar para si, em certos casos, o que é ruim, e não o vantajoso? E, se for assim, se esse caso puder existir, a regra toda vira pó.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Os senhores riem; riam, senhores, mas respondam: as vantagens humanas foram contadas com total exatidão? Não haverá algumas que não só não couberam, como não podem caber em classificação nenhuma?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Afinal, os senhores, pelo que sei, tiraram todo o seu registro das vantagens humanas de médias, de números estatísticos e de fórmulas científico-econômicas. As suas vantagens são a prosperidade, a riqueza, a liberdade, a tranquilidade, e assim por diante;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "de modo que um homem que fosse, de modo claro e consciente, contra todo esse registro seria, na opinião dos senhores, e na minha também, é claro, um obscurantista ou um louco completo, não é?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas o espantoso é isto: por que todos esses estatísticos, sábios e amigos do gênero humano, ao calcular as vantagens humanas, sempre deixam uma de fora? E toda a conta depende dela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não seria grande coisa pegar essa vantagem e pôr na lista. Mas a desgraça é justamente que essa vantagem complicada não entra em classificação nenhuma, não cabe em lista nenhuma.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele descreve um amigo, que é todos nós, que explica com eloquência o que a razão manda fazer e, quinze minutos depois, faz o contrário.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Pois então, senhores, não existirá de fato alguma coisa que é mais cara para quase todo homem do que as suas melhores vantagens? Ou, para não violar a lógica, uma vantagem mais vantajosa de todas, justamente essa que fica de fora,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "mais importante e mais vantajosa que todas as outras, pela qual o homem, se for preciso, está pronto a ir contra todas as leis, isto é, contra a razão, a honra, a tranquilidade, a prosperidade,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "contra todas essas coisas belas e úteis, só para alcançar essa vantagem primeira, a mais vantajosa, que lhe é mais cara que tudo?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Então, é vantagem do mesmo jeito, os senhores me interrompem. Permitam: ainda vamos nos explicar. O que importa não é o trocadilho, mas que essa vantagem é notável justamente porque destrói todas as nossas classificações,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e despedaça sempre todos os sistemas montados pelos amigos do gênero humano para a felicidade do gênero humano. Numa palavra, atrapalha tudo.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas, antes de nomear essa vantagem, quero me comprometer pessoalmente, e por isso declaro com ousadia que todos esses belos sistemas, todas essas teorias que explicam à humanidade os seus interesses normais,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "para que ela, buscando-os por necessidade, fique logo boa e nobre, por enquanto, na minha opinião, são pura logística! Sim, senhor, logística!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Afirmar essa teoria da renovação de todo o gênero humano por meio do sistema das suas próprias vantagens é, para mim, quase o mesmo que afirmar, seguindo Buckle, que a civilização torna o homem mais brando e, portanto, menos sanguinário e menos capaz de guerra.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pela lógica, parece que dá isso mesmo. Mas o homem é tão apegado ao sistema e à conclusão abstrata, que está pronto a deformar a verdade de propósito, a não ver o que vê e não ouvir o que ouve, só para justificar a sua lógica.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Olhem em volta: o sangue corre como um rio, e ainda de um jeito tão alegre, como champanhe. Aí está todo o nosso século dezenove, em que também viveu Buckle.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Aí está Napoleão, o grande e o de agora. Aí está a América do Norte, a união eterna. Aí está, enfim, a caricatura do Schleswig-Holstein... E o que a civilização abranda em nós?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "A civilização só desenvolve no homem a variedade das sensações, e mais nada. E, com o desenvolvimento dessa variedade, o homem talvez chegue a encontrar prazer no sangue. Isso, aliás, já lhe aconteceu.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os senhores já repararam que os derramadores de sangue mais refinados foram quase todos senhores civilizadíssimos, a quem os Átilas e os Stienka Rázin às vezes não chegavam aos pés?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, se eles não saltam tanto aos olhos quanto Átila e Stienka Rázin, é justamente porque são comuns demais, já nos acostumamos com eles.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pelo menos, com a civilização o homem ficou, se não mais sanguinário, com certeza sanguinário de um jeito pior, mais sujo, do que antes. Antes, via justiça no derramamento de sangue, e exterminava quem devia com a consciência tranquila;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "agora, embora consideremos o derramamento de sangue uma sujeira, mesmo assim nos ocupamos dessa sujeira, e mais do que antes. O que é pior? Decidam os senhores.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: o exemplo de Cleópatra, que espetava alfinetes de ouro nas escravas, e a resposta de que hoje também se espetam alfinetes.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas os senhores estão completamente seguros de que o homem vai se acostumar a agir como a razão manda, quando passarem certos velhos maus hábitos, e o bom senso e a ciência tiverem reeducado por completo a natureza humana.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E mais: então, dizem os senhores, a própria ciência vai ensinar ao homem que, na verdade, ele não tem vontade nem capricho, e nunca teve, e que ele mesmo não passa de algo como uma tecla de piano, ou um pino de realejo;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e que, além disso, existem no mundo as leis da natureza; de modo que tudo o que ele faz não é feito pela vontade dele, mas sozinho, pelas leis da natureza.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Portanto, basta descobrir essas leis da natureza, e o homem não vai mais responder pelos seus atos, e viver vai ficar extremamente fácil.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Todos os atos humanos serão então calculados por essas leis, matematicamente, como uma tábua de logaritmos, até cento e oito mil, e registrados num calendário;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "ou, melhor ainda, vão aparecer publicações bem-intencionadas, como os dicionários enciclopédicos de hoje, em que tudo estará tão exatamente calculado e indicado, que não haverá mais no mundo nem atos nem aventuras.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Então, são os senhores que dizem, surgirão novas relações econômicas, prontas e também calculadas com precisão matemática, de modo que num instante vão desaparecer todas as perguntas possíveis, justamente porque haverá para elas todas as respostas possíveis.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Então se erguerá o palácio de cristal. Então... Bem, numa palavra, então chegará voando o pássaro da felicidade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "É claro que não se pode garantir de jeito nenhum, e isto já sou eu quem diz, que então não vá ser, por exemplo, terrivelmente tedioso, porque o que fazer quando tudo estiver calculado numa tabelinha; em compensação, tudo será extremamente sensato.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "É claro que, por tédio, o que não se inventa! Também os alfinetes de ouro são espetados por tédio. O ruim, e de novo sou eu quem diz, é que, quem sabe, então até se fique contente com os alfinetes de ouro.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois o homem é tolo, fenomenalmente tolo. Quer dizer, ele não é nada tolo, mas em compensação é tão ingrato, que procurando outro igual não se acha.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Eu, por exemplo, não vou me espantar nem um pouco se, de repente, sem mais nem menos, no meio da sensatez geral do futuro, surgir um cavalheiro com uma cara pouco nobre, ou melhor, retrógrada e zombeteira,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "puser as mãos na cintura e disser a todos nós: e então, senhores, que tal se derrubássemos toda essa sensatez de uma vez, com um pontapé, só para que todos esses logaritmos fossem para o diabo, e pudéssemos viver de novo pela nossa vontade tola!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Isso ainda não seria nada; o que ofende é que ele vai, com certeza, encontrar seguidores: o homem é feito assim. E tudo pela razão mais vazia, que parece nem valer a pena mencionar:",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "é que o homem, sempre e em toda parte, quem quer que fosse, gostou de agir como queria, e não como lhe mandavam a razão e a vantagem; e pode-se querer contra a própria vantagem, e às vezes até se deve, positivamente. Esta já é a minha ideia.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "O próprio querer, livre e solto, o próprio capricho, ainda que o mais selvagem, a própria fantasia, irritada às vezes até a loucura: é isso a tal vantagem esquecida, a mais vantajosa, que não cabe em classificação nenhuma, e por causa da qual todos os sistemas e teorias vão sempre para o diabo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E de onde esses sábios tiraram que o homem precisa de um querer normal, virtuoso? De onde imaginaram que o homem precisa de um querer sensatamente vantajoso? O homem só precisa de um querer independente, custe o que custar essa independência, e leve aonde levar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E o querer, o diabo sabe...",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Três fatos para situar o capítulo. Henry Thomas Buckle foi um historiador inglês, autor de uma História da Civilização na Inglaterra, muito lida na Rússia dos anos 1860, que via na civilização um progresso da razão.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Os exemplos do narrador são todos da época: Napoleão primeiro e Napoleão terceiro; a Guerra Civil americana, de 1861 a 1865; e a guerra pelo Schleswig-Holstein, travada justamente em 1864, enquanto o livro saía.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E o palácio de cristal existia de verdade. Foi o prédio de ferro e vidro da Exposição Universal de Londres, de 1851. Dostoiévski o viu em 1862 e escreveu sobre ele. Em O que fazer?, de Tchernychévski, um palácio assim aparece num sonho da heroína como a imagem da sociedade futura.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Uma leitura possível: para o narrador, o palácio de cristal é um mundo sem pergunta nenhuma. E é justamente por isso que ele o teme.",
+   1.0,
+   1.5
+  ]
+ ]
+}

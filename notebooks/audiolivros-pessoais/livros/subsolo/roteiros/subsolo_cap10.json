@@ -1,0 +1,160 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 10,
+ "titulo": "O galinheiro",
+ "original": "Parte I, capítulo X",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo dez.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Um capítulo curto, e com uma história de censura por trás. Vamos contá-la no fim.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo dez.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Os senhores acreditam no edifício de cristal, eternamente indestrutível, isto é, num edifício para o qual não se poderá nem mostrar a língua às escondidas, nem fazer uma figa no bolso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois eu, talvez, tenha medo desse edifício justamente porque ele é de cristal e eternamente indestrutível, e porque não se poderá nem mostrar a língua para ele às escondidas.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Vejam: se, em vez de um palácio, houver um galinheiro, e começar a chover, eu talvez entre no galinheiro para não me molhar; mas, mesmo assim, não vou tomar o galinheiro por um palácio, por gratidão por ele ter me protegido da chuva.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os senhores riem, dizem até que, nesse caso, galinheiro e palacete dão no mesmo. Sim, eu respondo, se fosse preciso viver só para não se molhar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas o que fazer, se eu meti na cabeça que não se vive só para isso, e que, se é para viver, então que seja num palacete? Este é o meu querer, este é o meu desejo. Os senhores só vão raspá-lo de mim quando mudarem os meus desejos.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois mudem, seduzam-me com outra coisa, deem-me outro ideal. Enquanto isso, não vou tomar o galinheiro por um palácio.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que seja até que o edifício de cristal é uma balela, que pelas leis da natureza ele nem está previsto, e que eu o inventei só por causa da minha própria tolice, de certos hábitos antiquados e irracionais da nossa geração.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas que me importa que ele não esteja previsto? Não dá no mesmo, se ele existe nos meus desejos, ou melhor, existe enquanto existirem os meus desejos?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez os senhores riam de novo? Podem rir; aceito todas as zombarias, e mesmo assim não vou dizer que estou satisfeito quando tenho fome; mesmo assim sei que não vou me acalmar com um meio-termo, com um zero periódico sem fim, só porque ele existe pelas leis da natureza, e existe de verdade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não vou aceitar como coroa dos meus desejos um prédio de alvenaria, com apartamentos para inquilinos pobres, com contrato de mil anos, e, por via das dúvidas, com a placa do dentista Wagenheim na porta.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Destruam os meus desejos, apaguem os meus ideais, mostrem-me alguma coisa melhor, e eu sigo os senhores. Os senhores talvez digam que nem vale a pena se envolver; mas, nesse caso, eu posso responder o mesmo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Estamos raciocinando a sério; e, se não querem me honrar com a sua atenção, não vou fazer reverências. Eu tenho o subsolo.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "E, enquanto eu ainda vivo e desejo, que me seque a mão se eu levar um único tijolinho para um prédio desses! Não reparem que eu mesmo, há pouco, rejeitei o edifício de cristal só porque não se poderá provocá-lo com a língua.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não disse isso porque goste tanto de mostrar a língua. Talvez eu só estivesse com raiva porque, entre todos os edifícios dos senhores, até hoje não se encontra um para o qual não desse vontade de mostrar a língua.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ao contrário: eu deixaria que me cortassem a língua de vez, só por gratidão, se as coisas se arranjassem de modo que eu mesmo nunca mais tivesse vontade de mostrá-la.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Que me importa que seja impossível arranjar isso, e que seja preciso se contentar com apartamentos? Por que, então, eu fui feito com desejos assim? Será que fui feito só para chegar à conclusão de que toda a minha construção é uma fraude? Será que todo o objetivo é esse? Não acredito.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Mas, aliás, sabem de uma coisa: estou convencido de que gente como nós, do subsolo, precisa ser mantida de rédea curta. Embora seja capaz de ficar quarenta anos calado no subsolo, quando sai para a luz e desanda, aí fala, fala, fala...",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "A história de censura: em março de 1864, Dostoiévski escreveu ao irmão Mikhail reclamando que os censores tinham cortado justamente o trecho deste capítulo em que ele deduzia, de tudo isso, a necessidade da fé e de Cristo. Por isso o capítulo parece terminar de repente.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "O texto cortado nunca foi recuperado, e Dostoiévski não o devolveu nas edições seguintes. O que sobrou é a pergunta, sem a resposta: será que fui feito só para descobrir que sou uma fraude? Não acredito.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E o prédio de apartamentos com contrato de mil anos é, segundo os comentadores, uma caricatura dos falanstérios de Fourier, as moradias coletivas que inspiravam os socialistas russos. O dentista Wagenheim, do capítulo quatro, volta na placa da porta.",
+   1.0,
+   1.5
+  ]
+ ]
+}

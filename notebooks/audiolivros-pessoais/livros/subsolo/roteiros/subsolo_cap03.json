@@ -1,0 +1,312 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 3,
+ "titulo": "A parede",
+ "original": "Parte I, capítulo III",
+ "cortes": [
+  "Parte I, cap. III: o rato que se vê como rato sem que ninguém peça (2 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo três.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "O capítulo anterior terminou com uma pergunta: por que o narrador não conseguiria se vingar? A resposta traz a imagem mais famosa do livro: a parede.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo três.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Pois as pessoas que sabem se vingar, e em geral se defender, como é que fazem isso? Quando o sentimento de vingança toma conta delas, nada mais resta em todo o seu ser, naquele momento, além desse sentimento.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Um senhor desses vai direto ao alvo, como um touro enfurecido, de chifres baixos, e só uma parede, talvez, consegue pará-lo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(A propósito: diante da parede, esses senhores, isto é, as pessoas espontâneas e os homens de ação, se rendem sinceramente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Para eles, a parede não é uma desculpa, como para nós, as pessoas que pensam e, portanto, não fazem nada; não é um pretexto para voltar atrás, pretexto em que a gente como nós em geral nem acredita, mas que sempre recebe com alegria.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Não, eles se rendem com toda a sinceridade. A parede tem para eles algo de tranquilizador, de moralmente libertador e definitivo, talvez até algo de místico... Mas da parede eu falo depois.)",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois bem, é esse homem espontâneo que eu considero o homem verdadeiro, normal, como o quis ver a própria mãe natureza, tão carinhosa, ao fazê-lo nascer na terra. Invejo esse homem até a última gota de bile.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ele é tolo, nisso eu não discuto com os senhores; mas talvez o homem normal deva mesmo ser tolo, como é que os senhores sabem? Talvez isso seja até muito bonito.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E estou ainda mais convencido dessa suspeita, digamos, maldosa, porque, se pegarmos o contrário do homem normal, isto é, o homem de consciência aguda, que saiu, é claro, não do seio da natureza, mas de uma retorta de laboratório",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(isso já é quase misticismo, senhores, mas eu suspeito também disso), esse homem de retorta às vezes se rende tanto diante do seu contrário, que ele mesmo, com toda a sua consciência aguda, se considera honestamente um rato, e não um homem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele insiste que é um rato de consciência aguda, mas um rato, e que ninguém lhe pediu para se ver assim.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Vejamos agora esse rato em ação. Suponhamos, por exemplo, que ele também foi ofendido (e ele quase sempre está ofendido) e que também quer se vingar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez se acumule nele ainda mais raiva do que no homem da natureza e da verdade. O desejozinho sujo e baixo de pagar ao ofensor com o mesmo mal talvez arranhe dentro dele de um jeito ainda mais sujo do que no homem da natureza e da verdade,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "porque o homem da natureza e da verdade, por sua tolice de nascença, considera a sua vingança simplesmente justiça; já o rato, por causa da consciência aguda, nega que ali haja justiça.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Chega-se finalmente ao ato, ao próprio ato da vingança. O infeliz rato, além da sujeira inicial, já conseguiu amontoar à sua volta, na forma de perguntas e dúvidas, tantas outras sujeiras; ligou a uma pergunta tantas perguntas sem resposta,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "que, sem querer, junta-se ao seu redor uma lavagem fatal, uma lama fedorenta, feita das suas dúvidas, das suas agitações e, por fim, das cusparadas que caem sobre ele vindas dos homens de ação, que o rodeiam solenemente como juízes e ditadores, e riem dele a plenos pulmões.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "É claro que só lhe resta abanar a patinha para tudo e, com um sorriso de falso desprezo, em que nem ele mesmo acredita, enfiar-se vergonhosamente na sua fresta.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Lá, no seu subsolo nojento e fedorento, o nosso rato ofendido, surrado e ridicularizado mergulha imediatamente numa raiva fria, venenosa e, principalmente, eterna.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Durante quarenta anos seguidos vai relembrar a ofensa até os últimos detalhes, os mais vergonhosos, e a cada vez vai acrescentar por conta própria detalhes ainda mais vergonhosos, provocando e irritando a si mesmo, com raiva, com a própria fantasia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vai ter vergonha da própria fantasia, mas mesmo assim vai relembrar tudo, revirar tudo, inventar contra si coisas que nunca aconteceram, com o pretexto de que também poderiam ter acontecido, e não vai perdoar nada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Talvez até comece a se vingar, mas aos pedaços, com mesquinharias, escondido atrás do fogão, incógnito, sem acreditar nem no seu direito de se vingar, nem no sucesso da vingança,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e sabendo de antemão que, com todas as suas tentativas, vai sofrer cem vezes mais do que aquele de quem se vinga, e que este talvez nem se coce. No leito de morte vai relembrar tudo de novo, com os juros acumulados de todo esse tempo, e...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas é justamente nesse meio desespero frio e repugnante, nessa meia fé, nesse enterrar-se vivo de propósito, de desgosto, no subsolo por quarenta anos,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "nessa situação sem saída criada com esforço e ainda assim um pouco duvidosa, em todo esse veneno de desejos não satisfeitos que se voltaram para dentro, em toda essa febre de hesitações, de decisões tomadas para sempre e de arrependimentos que voltam um minuto depois,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "é aí que está o suco daquele estranho prazer de que eu falava. Ele é tão sutil, às vezes escapa tanto à consciência, que pessoas um pouquinho limitadas, ou simplesmente pessoas de nervos fortes, não vão entender nele um único traço.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Talvez também não entendam, os senhores vão acrescentar, rindo, aqueles que nunca levaram uma bofetada. E assim vão insinuar, educadamente, que eu talvez já tenha levado uma bofetada na vida, e por isso falo como entendido. Aposto que os senhores pensam isso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas fiquem tranquilos, senhores: eu nunca levei bofetadas, embora para mim tanto faz o que os senhores pensem disso. Talvez eu até lamente ter distribuído poucas bofetadas na vida. Mas chega, nem mais uma palavra sobre esse tema tão interessante para os senhores.",
+   0.95,
+   1.2
+  ],
+  [
+   "comentarista",
+   "O homem da natureza e da verdade aparece em francês no original: l'homme de la nature et de la vérité. Os comentadores ligam a expressão a Rousseau, que nas Confissões se propõe mostrar um homem em toda a verdade da natureza.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Repare na troca de imagem: o narrador deixou de ser inseto e virou rato. E o rato mora numa fresta, no subsolo. É daqui que vem o título do livro.",
+   1.0,
+   1.2
+  ],
+  [
+   "leitor",
+   "Continuo, com calma, a falar das pessoas de nervos fortes, que não entendem certo refinamento dos prazeres. Esses senhores, em certas ocasiões, berram como touros a plenos pulmões, e isso, digamos, até lhes dá muita honra; mas, como eu já disse, diante do impossível eles logo se resignam.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O impossível quer dizer a parede de pedra? Que parede de pedra? Ora, é claro: as leis da natureza, as conclusões das ciências naturais, a matemática.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quando lhe provarem, por exemplo, que você descende do macaco, não adianta franzir a testa: aceite como é.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quando lhe provarem que, no fundo, uma gotinha da sua própria gordura deve lhe ser mais cara do que cem mil semelhantes seus, e que nesse resultado se resolvem, no fim, todas as chamadas virtudes e obrigações e outros delírios e preconceitos,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "aceite assim mesmo, não há o que fazer, porque dois e dois é matemática. Tentem contestar.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Ora, por favor, vão gritar para os senhores, não se pode revoltar-se: isto é dois e dois são quatro! A natureza não pede a sua opinião; ela não quer saber dos seus desejos, nem se as leis dela lhe agradam ou não.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os senhores são obrigados a aceitá-la como ela é, e, portanto, também todos os seus resultados. A parede, então, é a parede... e assim por diante.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Meu Deus, mas o que me importam as leis da natureza e da aritmética, se por algum motivo essas leis e o dois e dois são quatro não me agradam?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "É claro que não vou derrubar uma parede dessas com a testa, se de fato não tiver forças para derrubá-la; mas também não vou me conformar com ela só porque tenho uma parede de pedra e não tive forças.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Como se uma parede de pedra dessas fosse mesmo um consolo, e contivesse de fato alguma palavra de paz, unicamente porque ela é dois e dois são quatro. Oh, absurdo dos absurdos!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Muito melhor é entender tudo, ter consciência de tudo, de todas as impossibilidades e paredes de pedra; não se conformar com nenhuma dessas impossibilidades e paredes de pedra, se lhe dá nojo se conformar;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "chegar, pelas combinações lógicas mais inevitáveis, às conclusões mais repugnantes sobre o tema eterno de que até da parede de pedra você é, de algum modo, culpado, embora, de novo, seja claro como o dia que você não tem culpa nenhuma;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e, por isso, rangendo os dentes em silêncio e impotente, ficar parado na inércia com volúpia, sonhando que nem ter raiva você pode, porque não há de quem; que o objeto não se encontra, e talvez nunca se encontre;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "que ali há uma troca, uma trapaça, uma batota, que ali é só uma lavagem, não se sabe o quê nem se sabe quem; mas, apesar de todas essas incertezas e trapaças, mesmo assim dói, e quanto mais incerto, mais dói!",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Para situar a parede: em 1863, um ano antes deste livro, Tchernychévski publicou o romance O que fazer?, que defendia o egoísmo racional: a ideia de que o homem, bem informado pela ciência, sempre escolhe o próprio interesse, e daí nasce o bem comum.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "A gotinha de gordura mais cara que cem mil semelhantes é uma caricatura dessa ideia. E o macaco lembra Darwin: A Origem das Espécies é de 1859, e a primeira tradução russa saiu justamente em 1864.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Um eco de outro livro: em 1984, de George Orwell, o regime obriga Winston a aceitar que dois e dois são cinco. Aqui é o contrário: o dois e dois são quatro é que parece a prisão. Uma leitura possível é que os dois livros defendem a mesma coisa, a liberdade de não ser reduzido a uma conta.",
+   1.0,
+   1.5
+  ]
+ ]
+}

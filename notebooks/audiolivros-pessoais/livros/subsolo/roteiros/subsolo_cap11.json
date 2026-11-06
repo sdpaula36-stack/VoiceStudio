@@ -1,0 +1,264 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 11,
+ "titulo": "A propósito da neve molhada",
+ "original": "Parte I, capítulo XI",
+ "cortes": [
+  "Parte I, cap. XI: o aviso de escrever sem ordem e a discussão sobre por que se explica (5 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo onze, o último da primeira parte.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Depois de dez capítulos de discussão, o narrador desmonta tudo o que disse, e anuncia a segunda parte.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo onze.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Conclusão final, senhores: é melhor não fazer nada! Melhor a inércia consciente! Portanto, viva o subsolo!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Embora eu tenha dito que invejo o homem normal até a última gota de bile, nas condições em que o vejo não quero ser ele (embora, mesmo assim, não vá parar de invejá-lo. Não, não, o subsolo, em todo caso, é mais vantajoso!). Lá, pelo menos, pode-se...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ah! Mas aqui também estou mentindo! Minto, porque eu mesmo sei, como dois e dois, que o melhor não é de jeito nenhum o subsolo, mas outra coisa, completamente outra, de que tenho sede, mas que não consigo encontrar de jeito nenhum! Ao diabo o subsolo!",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Sabem o que seria até melhor? Se eu mesmo acreditasse em pelo menos alguma coisa de tudo o que escrevi agora. Juro-lhes, senhores, que não acredito em nenhuma, nenhuma palavrinha do que rabisquei!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quer dizer, talvez eu até acredite, mas, ao mesmo tempo, não se sabe por quê, sinto e desconfio que estou mentindo como um sapateiro.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Então para que escreveu tudo isso? os senhores me dizem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois eu queria pôr os senhores quarenta anos sem nenhuma ocupação, e depois de quarenta anos vir ao subsolo visitá-los, para ver aonde chegaram. Será que se pode deixar um homem sozinho, sem ter o que fazer, por quarenta anos?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E isso não é vergonhoso, e isso não é humilhante! talvez os senhores me digam, balançando a cabeça com desprezo. O senhor tem sede de vida, e resolve as questões da vida com uma confusão lógica.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E como são insistentes, como são insolentes as suas tiradas, e ao mesmo tempo como o senhor tem medo! O senhor diz disparates e fica contente com eles; diz insolências, e ao mesmo tempo tem medo delas sem parar, e pede desculpas.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Garante que não tem medo de nada, e ao mesmo tempo bajula a nossa opinião. Garante que range os dentes, e ao mesmo tempo faz graça para nos fazer rir.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Sabe que as suas graças não têm graça, mas, evidentemente, está muito satisfeito com o valor literário delas. Talvez o senhor tenha mesmo sofrido, mas não respeita nem um pouco o seu sofrimento.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "No senhor há verdade, mas não há pudor; por vaidade mesquinha, o senhor leva a verdade para a vitrine, para a vergonha, para a feira...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor quer de fato dizer alguma coisa, mas, por medo, esconde a sua última palavra, porque não tem coragem de dizê-la, só tem insolência covarde.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O senhor se gaba da consciência, mas só hesita, porque, embora a sua cabeça trabalhe, o seu coração está escurecido pela depravação, e sem um coração puro não haverá consciência plena e correta.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E quanta insistência no senhor, como se oferece, como faz caretas! Mentira, mentira e mentira!",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "É claro que todas essas palavras dos senhores fui eu mesmo que compus agora. Isso também vem do subsolo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Lá, por quarenta anos seguidos, eu escutei essas palavras dos senhores pela fresta. Eu mesmo as inventei; era só isso que se inventava. Não é de admirar que eu as tenha decorado e que tenham ganhado forma literária...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Mas será, será que os senhores são de fato tão levianos a ponto de imaginar que eu vou publicar tudo isso, e ainda dar para os senhores lerem? E aqui está mais um problema para mim: para que, de fato, chamo os senhores de senhores, para que me dirijo aos senhores como se fossem mesmo leitores?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Confissões como as que pretendo começar a expor não se publicam, nem se dão aos outros para ler. Mas vejam: me veio à cabeça uma fantasia, e quero realizá-la custe o que custar. É disto que se trata.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Há nas lembranças de cada homem coisas que ele não revela a todos, mas só aos amigos. Há também coisas que ele não revela nem aos amigos, mas só a si mesmo, e ainda assim em segredo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas há, enfim, coisas que o homem tem medo de revelar até a si mesmo, e todo homem decente acumula uma boa quantidade delas. Quer dizer, até assim: quanto mais decente é o homem, mais delas ele tem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pelo menos, eu mesmo só há pouco me decidi a relembrar certas aventuras minhas de antes, e até agora sempre as contornei, até com certa inquietação.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Agora, que não só relembro, mas até me decidi a escrevê-las, agora quero justamente pôr à prova: será possível ser completamente franco ao menos consigo mesmo, e não ter medo de toda a verdade?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Observo, a propósito: Heine afirma que autobiografias fiéis são quase impossíveis, e que o homem com certeza vai mentir sobre si mesmo. Na opinião dele, Rousseau, por exemplo, mentiu sobre si na sua confissão, e mentiu de propósito, por vaidade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Tenho certeza de que Heine tem razão; entendo muito bem como, às vezes, só por vaidade, se pode atribuir a si crimes inteiros, e compreendo muito bem até que tipo de vaidade pode ser essa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas Heine julgava um homem que se confessava diante do público. Eu escrevo só para mim, e declaro de uma vez por todas que, se escrevo como quem se dirige a leitores, é só para efeito, porque assim me é mais fácil escrever. É forma, só uma forma vazia; leitores eu nunca terei.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele avisa que vai escrever sem ordem nem sistema, e discute consigo mesmo por que ainda assim se explica e se desculpa.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Mas há mais isto: para que, exatamente, eu quero escrever? Se não é para o público, eu poderia relembrar tudo de cabeça, sem passar para o papel.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois é; mas no papel fica mais solene. Há nisso algo que impõe, haverá mais julgamento sobre mim mesmo, o estilo vai ganhar. Além disso, talvez eu de fato encontre alívio ao escrever.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Hoje, por exemplo, uma lembrança antiga me oprime especialmente. Ela me veio com clareza há poucos dias, e desde então ficou comigo, como um motivo musical irritante, que não quer me largar. E, no entanto, é preciso me livrar dela.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Tenho centenas de lembranças assim; mas, de vez em quando, uma delas se destaca entre as cem e oprime. Por algum motivo acredito que, se eu a escrever, ela vai me largar. Por que não tentar?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Por fim: estou entediado, e não faço nada, sempre. E escrever, de fato, é como um trabalho. Dizem que o trabalho torna o homem bom e honesto. Pois aí está, pelo menos, uma chance.",
+   0.95,
+   1.0
+  ],
+  [
+   "leitor",
+   "Hoje está caindo neve, quase molhada, amarela, turva. Ontem também caiu, e nesses dias também caiu. Acho que foi a propósito da neve molhada que eu me lembrei daquela história que agora não quer me largar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Então, que seja uma novela a propósito da neve molhada.",
+   0.95,
+   2.0
+  ],
+  [
+   "comentarista",
+   "Com isso termina a Parte um. A Parte dois se chama justamente A propósito da neve molhada, e é outra coisa: não mais um monólogo, mas uma história, passada uns dezesseis anos antes, quando o narrador tinha vinte e quatro.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Sobre Heine: o poeta alemão escreveu nas suas Confissões, de 1854, que Rousseau mentiu nas dele. O narrador entra assim numa linha de livros de confissão, que vai de Santo Agostinho a Rousseau. A diferença, numa leitura possível, é que ele promete a verdade justamente porque diz que ninguém vai ler.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E repare que o leitor imaginado, os senhores, já foi desmascarado: o próprio narrador confessa que inventou as nossas objeções. Desde o primeiro capítulo, quem fala com ele somos nós, e somos uma invenção dele.",
+   1.0,
+   2.0
+  ]
+ ]
+}

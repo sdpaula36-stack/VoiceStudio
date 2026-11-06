@@ -1,0 +1,142 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 4,
+ "titulo": "A dor de dente",
+ "original": "Parte I, capítulo IV",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo quatro.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Um capítulo curto, com um exemplo bem concreto do prazer na dor: a dor de dente.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo quatro.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Ha, ha, ha! Então, depois disso, o senhor vai achar prazer até na dor de dente! os senhores vão exclamar, rindo.",
+   0.95,
+   0.6
+  ],
+  [
+   "leitor",
+   "E por que não? Também na dor de dente há prazer, eu respondo. Fiquei com dor de dente um mês inteiro; sei que há. Aí, é claro, não se tem raiva em silêncio: geme-se. Mas não são gemidos francos, são gemidos com malícia, e na malícia é que está tudo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "É nesses gemidos que se expressa o prazer de quem sofre; se não sentisse prazer neles, nem gemeria. É um bom exemplo, senhores, e vou desenvolvê-lo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Nesses gemidos se expressa, em primeiro lugar, toda a falta de sentido da sua dor, humilhante para a nossa consciência; toda a legalidade da natureza, para a qual os senhores, naturalmente, estão pouco ligando, mas pela qual sofrem mesmo assim, e ela não.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Expressa-se a consciência de que não se encontra um inimigo, mas a dor existe; a consciência de que, com todos os dentistas do mundo, os senhores são completamente escravos dos seus dentes;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "de que, se alguém quiser, os dentes param de doer, e, se não quiser, vão doer mais três meses; e de que, por fim, se os senhores ainda não concordam e protestam, só lhes resta, para consolo próprio, açoitar a si mesmos ou bater com mais força o punho na sua parede, e mais nada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois bem: é dessas ofensas sangrentas, dessas zombarias de não se sabe quem, que começa enfim o prazer, que às vezes chega à mais alta volúpia.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Peço-lhes, senhores: escutem um dia os gemidos de um homem culto do século dezenove que sofre dos dentes, lá pelo segundo ou terceiro dia, quando já não geme como gemia no primeiro dia, isto é, não simplesmente porque os dentes doem;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "não como um mujique grosseiro qualquer, mas como geme um homem tocado pelo desenvolvimento e pela civilização europeia, um homem separado do solo e das raízes do povo, como se diz hoje em dia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Os gemidos dele ficam ruins, maldosos de um jeito sórdido, e duram dias e noites inteiros. E ele mesmo sabe que não vai ganhar nada gemendo; sabe melhor que ninguém que só está esgotando e irritando a si e aos outros à toa;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "sabe que até o público para quem se esforça, e toda a sua família, já o escutam com nojo, não acreditam nele nem um tostão, e entendem por dentro que ele poderia gemer de outro jeito, mais simples, sem floreios, e que só faz isso por raiva e malícia.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois é em todas essas consciências e vergonhas que está a volúpia. Como quem diz: eu incomodo vocês, despedaço o coração de vocês, não deixo ninguém dormir na casa. Pois então não durmam, sintam vocês também, a cada minuto, que os meus dentes doem.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Para vocês eu já não sou o herói que antes queria parecer, mas simplesmente um homenzinho sujo, um canalha. Pois que seja! Fico muito contente que vocês tenham me desmascarado. É ruim ouvir os meus gemidozinhos mesquinhos? Pois que seja ruim; agora mesmo vou fazer um floreio ainda pior...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Nem agora entendem, senhores? Não, pelo jeito é preciso desenvolver-se e tomar consciência muito a fundo para entender todas as curvas dessa volúpia! Os senhores riem? Fico muito contente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "As minhas piadas, senhores, são de mau gosto, é claro, irregulares, confusas, cheias de desconfiança de mim mesmo. Mas é porque eu não respeito a mim mesmo. Será que um homem consciente pode respeitar a si mesmo, por pouco que seja?",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "No original, o narrador fala de todos os Wagenheim do mundo. Wagenheim, segundo os comentadores, era o nome de um dentista de Petersburgo, cujas placas estavam por toda a cidade. Por isso traduzimos como todos os dentistas do mundo.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E a expressão separado do solo e das raízes do povo era vocabulário do próprio grupo de Dostoiévski. As revistas dos irmãos, O Tempo e a Época, defendiam a volta ao solo russo. Aqui o narrador usa o bordão com ironia, e o alvo é o próprio campo do autor.",
+   1.0,
+   1.5
+  ]
+ ]
+}

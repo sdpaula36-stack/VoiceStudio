@@ -22,7 +22,7 @@ Proposta completa: https://claude.ai/artifact/XH9TDPjEGpiCR8HCyPtVgX
 
 | Livro | Situação |
 | --- | --- |
-| Memórias do Subsolo (Dostoiévski, 1864), tradução nossa do russo | Piloto: Parte I, caps 1-2 roteirizados |
+| Memórias do Subsolo (Dostoiévski, 1864), tradução nossa do russo | Parte I completa (caps 1-11) roteirizada; caps 1-2 narrados e aprovados |
 
 ## Narrar no Colab
 
@@ -33,5 +33,5 @@ Os MP3 vão para `MyDrive/Audiolivros-pessoais/<livro>/capNN/`.
 Para gerar de novo o notebook depois de editar um roteiro:
 
 ```
-python -I ferramentas/make_audiolivro_pessoal.py colab/Subsolo_Colab.ipynb livros/subsolo/roteiros/subsolo_cap01.json livros/subsolo/roteiros/subsolo_cap02.json
+python -I ferramentas/make_audiolivro_pessoal.py colab/Subsolo_Colab.ipynb livros/subsolo/roteiros/subsolo_cap*.json
 ```

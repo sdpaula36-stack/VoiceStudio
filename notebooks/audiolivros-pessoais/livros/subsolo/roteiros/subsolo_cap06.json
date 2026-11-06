@@ -1,0 +1,124 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 6,
+ "titulo": "O preguiçoso",
+ "original": "Parte I, capítulo VI",
+ "cortes": [],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo seis.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "O mais curto e o mais engraçado da primeira parte. O narrador sonha com uma qualidade bem simples, que ele não tem: ser preguiçoso.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo seis.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Ah, se eu não fizesse nada só por preguiça! Meu Deus, como eu me respeitaria então. Respeitaria justamente porque pelo menos preguiça eu seria capaz de ter; ao menos uma qualidade em mim seria positiva, uma de que eu mesmo teria certeza.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pergunta: quem é ele? Resposta: um preguiçoso. Mas isso seria agradabilíssimo de ouvir a meu respeito. Quer dizer que estou definido de modo positivo, quer dizer que há algo a dizer sobre mim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Preguiçoso! Mas isso é um título e uma vocação, é uma carreira. Não brinquem, é assim. Eu seria então, por direito, membro do clube mais importante, e só me ocuparia de me respeitar sem parar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Conheci um senhor que a vida inteira se orgulhou de entender de vinho Lafite. Ele considerava isso uma virtude positiva e nunca duvidou de si. Morreu não só com a consciência tranquila, mas triunfante, e tinha toda a razão.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E eu então escolheria para mim uma carreira: seria preguiçoso e comilão, mas não um qualquer, e sim, por exemplo, um que se comove com tudo o que é belo e sublime. Que tal? Faz tempo que sonho com isso.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Esse belo e sublime pesou bastante na minha nuca nos meus quarenta anos; mas isso nos meus quarenta anos, e naquela época, oh, naquela época seria diferente!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu logo encontraria uma atividade adequada: beber à saúde de tudo o que é belo e sublime. Aproveitaria qualquer ocasião para primeiro derramar uma lágrima no meu cálice, e depois bebê-lo por tudo o que é belo e sublime.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu transformaria tudo no mundo em belo e sublime; na porcaria mais sórdida e indiscutível eu encontraria o belo e sublime. Ficaria lacrimoso como uma esponja molhada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Um pintor, por exemplo, pintou um quadro de Gue. Imediatamente bebo à saúde do pintor que pintou o quadro de Gue, porque amo tudo o que é belo e sublime. Um autor escreveu Como quiserem; imediatamente bebo à saúde de quem quiserem, porque amo tudo o que é belo e sublime.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Por isso exigirei respeito, e perseguirei quem não me respeitar. Vivo tranquilo, morro solenemente; mas isso é uma delícia, uma delícia completa!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E eu deixaria crescer uma barriga tal, construiria um queixo triplo tal, desenvolveria um nariz cor de vinho tal, que qualquer um que me encontrasse diria, olhando para mim: Isso é que é um mais! Isso é que é positivo de verdade!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, digam o que quiserem, senhores, é agradabilíssimo ouvir essas opiniões no nosso século negativo.",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Duas referências da época, segundo os comentadores. O quadro de Gue é A Última Ceia, de Nikolai Gue, exposto em Petersburgo em 1863, que causou polêmica. E Como quiserem é um conto de Saltykov-Chtchedrin, publicado no mesmo ano na revista O Contemporâneo, dos radicais.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "Repare que o belo e sublime do capítulo dois voltou, agora como piada de mesa de bar. E repare no positivo e no negativo: o narrador chama o seu tempo de século negativo. Ele quer ser alguma coisa, qualquer coisa, nem que seja um gordo satisfeito.",
+   1.0,
+   1.5
+  ]
+ ]
+}

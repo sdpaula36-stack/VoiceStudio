@@ -1,0 +1,192 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 5,
+ "titulo": "O tédio e a inércia",
+ "original": "Parte I, capítulo V",
+ "cortes": [
+  "Parte I, cap. V: as leis da natureza não podiam ser culpadas por isso (2 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo cinco.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "Aqui o narrador explica por que quem pensa demais não age. É o capítulo mais filosófico até agora.",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo cinco.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Será possível, será possível que um homem respeite a si mesmo, por pouco que seja, se até no próprio sentimento de humilhação ele tentou encontrar prazer? Não digo isso agora por algum arrependimento açucarado.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, em geral, eu nunca suportei dizer: Desculpe, papai, não faço mais. Não porque fosse incapaz de dizer isso, mas, ao contrário, talvez justamente porque era capaz demais, e como!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Como de propósito, eu me metia em encrenca justamente quando não tinha culpa nenhuma, nem em sonho. Isso era o mais sórdido de tudo. E nessas horas eu de novo me comovia de alma, me arrependia, derramava lágrimas e, é claro, enganava a mim mesmo, embora não estivesse fingindo de jeito nenhum.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: ele diz que nem podia culpar as leis da natureza por isso, embora elas o ofendessem a vida inteira.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "É sórdido lembrar tudo isso, e já era sórdido naquela época. Pois, um minuto depois, eu já percebia com raiva que tudo aquilo era mentira, mentira, uma mentira repugnante e fingida: todos esses arrependimentos, todas essas comoções, todas essas promessas de renascimento.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, se me perguntarem para que eu me retorcia e me torturava assim, a resposta é: porque era muito tedioso ficar de braços cruzados; então eu partia para as invenções. Palavra, é assim. Observem melhor a si mesmos, senhores, e vão entender que é assim.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu mesmo inventava aventuras para mim e compunha uma vida, só para viver de algum jeito. Quantas vezes me aconteceu, por exemplo, de me ofender assim, sem motivo, de propósito;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "e a gente mesmo sabe que se ofendeu sem motivo, que fingiu, mas vai se levando a tal ponto que, no fim, palavra, se ofende de verdade. A vida inteira tive vontade de aprontar essas coisas, a ponto de, no fim, já não ter domínio sobre mim mesmo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Outra vez quis me apaixonar à força, e foram até duas vezes. E eu sofria, senhores, garanto. No fundo da alma não se acredita que se sofre, a zombaria se mexe, mas mesmo assim eu sofria, e de um jeito verdadeiro, legítimo; sentia ciúme, perdia a cabeça...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E tudo por tédio, senhores, tudo por tédio; a inércia me esmagou. Pois o fruto direto, legítimo, imediato da consciência é a inércia, isto é, ficar de braços cruzados de propósito. Já mencionei isso acima.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Repito, repito com força: todas as pessoas espontâneas e os homens de ação são ativos justamente porque são obtusos e limitados. Como explicar isso? Assim:",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "por causa da sua limitação, eles tomam as causas mais próximas e secundárias pelas primeiras, e assim se convencem mais depressa e mais fácil que os outros de que encontraram um fundamento indiscutível para o que fazem, e ficam tranquilos; e isso é o principal.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois, para começar a agir, é preciso antes estar completamente tranquilo, sem nenhuma dúvida. Mas como é que eu, por exemplo, vou me tranquilizar? Onde estão as minhas causas primeiras, em que vou me apoiar, onde estão os fundamentos? De onde vou tirá-los?",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu me exercito no pensamento, e, portanto, toda causa primeira logo arrasta consigo outra, ainda mais primeira, e assim por diante, até o infinito. Esta é justamente a essência de toda consciência e de todo pensamento. Isso, então, de novo são as leis da natureza.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E qual é, enfim, o resultado? O mesmo de sempre. Lembrem: há pouco eu falava da vingança. (Os senhores, com certeza, não prestaram atenção.) Foi dito: o homem se vinga porque encontra nisso justiça.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quer dizer que ele encontrou a causa primeira, encontrou o fundamento: a justiça. Então ele está tranquilo de todos os lados, e, portanto, se vinga com calma e com sucesso, convencido de que faz uma coisa honesta e justa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas eu não vejo justiça nisso, nem encontro nenhuma virtude, e, portanto, se eu for me vingar, será só por raiva. A raiva, é claro, poderia vencer tudo, todas as minhas dúvidas, e poderia muito bem servir no lugar da causa primeira, justamente porque ela não é uma causa.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas o que fazer, se eu nem raiva tenho? (Foi por aí mesmo que eu comecei.) A minha raiva, de novo por causa dessas malditas leis da consciência, sofre uma decomposição química.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Quando se vê, o objeto se evapora, as razões se volatilizam, o culpado não se encontra, a ofensa vira não uma ofensa, mas um destino, algo como uma dor de dente, de que ninguém tem culpa; e, portanto, de novo só resta a mesma saída: bater com mais força na parede.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E a gente desiste, porque não encontrou a causa primeira. Experimente se deixar levar pelo sentimento às cegas, sem raciocinar, sem causa primeira, afastando a consciência ao menos por um tempo; odeie ou ame, só para não ficar de braços cruzados.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Depois de amanhã, no mais tardar, você vai começar a desprezar a si mesmo por ter enganado a si mesmo, sabendo o que fazia. Resultado: bolha de sabão e inércia.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Oh, senhores, talvez eu me considere um homem inteligente só porque a vida inteira não consegui nem começar nem terminar nada. Que seja, que eu seja um tagarela, um tagarela inofensivo e aborrecido, como todos nós.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas o que fazer, se a vocação direta e única de todo homem inteligente é a tagarelice, isto é, despejar de propósito do vazio para o oco?",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "Este capítulo conversa com uma peça que Dostoiévski conhecia bem: Hamlet, de Shakespeare. No monólogo do ser ou não ser, Hamlet diz que a consciência faz de todos nós covardes, e que a reflexão tira das grandes empresas o nome de ação.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "A diferença, numa leitura possível: Hamlet sofre por não agir e ainda quer agir. O homem do subsolo transformou a inação em teoria, e quase em orgulho.",
+   1.0,
+   1.5
+  ]
+ ]
+}

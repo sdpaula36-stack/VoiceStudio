@@ -1,0 +1,278 @@
+{
+ "livro": "Memórias do Subsolo",
+ "pasta": "subsolo",
+ "autor": "Fiódor Dostoiévski (1864, domínio público)",
+ "fonte": "Записки из подполья, Часть I, Викитека (ru.wikisource.org), texto da revista Эпоха, 1864. Tradução nossa do russo, conferida com a tradução inglesa de Constance Garnett (1918, domínio público).",
+ "capitulo": 8,
+ "titulo": "A tecla de piano",
+ "original": "Parte I, capítulo VIII",
+ "cortes": [
+  "Parte I, cap. VIII: a figa prevista numa tabela e a aceitação da retorta (meio parágrafo).",
+  "Parte I, cap. VIII: o querer que às vezes combina com a razão (3 frases).",
+  "Parte I, cap. VIII: as piadas sobre o Colosso de Rodes, os uniformes e os sábios que acabam fazendo escândalo (6 frases)."
+ ],
+ "vozes": {
+  "leitor": {
+   "voz": "male, middle-aged, low pitch",
+   "semente": 601
+  },
+  "comentarista": {
+   "voz": "female, young adult, moderate pitch",
+   "semente": 611
+  }
+ },
+ "trechos": [
+  [
+   "comentarista",
+   "Memórias do Subsolo. Parte um, capítulo oito.",
+   1.0,
+   0.8
+  ],
+  [
+   "comentarista",
+   "O narrador continua a discussão. A pergunta agora é: e se a ciência provar que a vontade livre não existe?",
+   1.0,
+   1.0
+  ],
+  [
+   "leitor",
+   "Capítulo oito.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Ha, ha, ha! Mas o querer, no fundo, se o senhor quer saber, nem existe! os senhores me interrompem, gargalhando. A ciência até hoje já conseguiu dissecar tanto o homem, que já sabemos que o querer e a chamada vontade livre não são outra coisa senão...",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Esperem, senhores, eu mesmo queria começar assim. Confesso que até me assustei. Eu ia gritar que o querer depende o diabo sabe de quê, e que isso talvez seja uma graça de Deus, mas me lembrei da ciência e... murchei. E aí os senhores começaram a falar.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Pois, de fato, se algum dia encontrarem a fórmula de todos os nossos quereres e caprichos, isto é, de que eles dependem, por quais leis acontecem, como se espalham, para onde tendem neste ou naquele caso, uma verdadeira fórmula matemática,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "então o homem talvez pare na mesma hora de querer, e com certeza vai parar. Que graça tem querer por uma tabelinha? E mais: na mesma hora ele vai se transformar de homem num pino de realejo, ou coisa parecida;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "porque o que é um homem sem desejos, sem vontade e sem quereres, senão um pino no cilindro de um realejo? O que acham? Vamos calcular as probabilidades: isso pode acontecer ou não?",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Hum, os senhores decidem. Os nossos quereres, na maior parte, são errados por causa de uma visão errada das nossas vantagens. Às vezes queremos puro disparate justamente porque, por tolice, vemos nesse disparate o caminho mais fácil para alguma vantagem prevista.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, quando tudo isso estiver explicado, calculado no papel, não haverá mais os chamados desejos. Se um dia o querer combinar por completo com a razão, então vamos raciocinar, e não querer, porque não se pode, conservando a razão, querer um absurdo, e ir contra a razão sabendo o que se faz.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: os interlocutores insistem que, descobertas as leis da vontade, cada gesto, até uma figa, estará previsto numa tabela, e que será preciso aceitar até a retorta.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Sim, senhor, mas é aí que, para mim, está o problema! Senhores, desculpem-me por filosofar tanto: são quarenta anos de subsolo! Permitam-me fantasiar um pouco.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vejam: a razão, senhores, é uma coisa boa, isso é indiscutível; mas a razão é só razão, e satisfaz só a capacidade racional do homem, enquanto o querer é a manifestação da vida inteira, isto é, de toda a vida humana, com a razão e com todas as coçadas.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, embora a nossa vida, nessa manifestação, muitas vezes saia uma porcariazinha, mesmo assim é vida, e não só a extração de uma raiz quadrada.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu, por exemplo, quero viver, naturalmente, para satisfazer toda a minha capacidade de viver, e não só a minha capacidade racional, isto é, alguma vigésima parte da minha capacidade de viver.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "O que a razão sabe? A razão só sabe o que conseguiu aprender; e a natureza humana age inteira, com tudo o que há nela, consciente e inconscientemente, e, embora minta, vive.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Desconfio, senhores, que me olham com pena; repetem que um homem esclarecido e desenvolvido, numa palavra, como será o homem do futuro, não pode querer, sabendo o que faz, nada que lhe seja desvantajoso; que isso é matemática.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Concordo completamente, é matemática. Mas repito pela centésima vez: há um caso, só um, em que o homem pode, de propósito, conscientemente, desejar para si até o nocivo, o tolo, até o mais tolo:",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "é para ter o direito de desejar para si até o mais tolo, e não ficar preso à obrigação de desejar só o inteligente.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Porque esse mais tolo, esse capricho próprio, pode ser, de fato, senhores, a coisa mais vantajosa de todas que há na terra para gente como nós, mesmo quando nos traz dano evidente e contradiz as conclusões mais sensatas da nossa razão;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "porque, em todo caso, ele nos conserva o mais importante e o mais caro, isto é, a nossa pessoa e a nossa individualidade.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "(Corte: ele admite que o querer às vezes combina com a razão, e diz que discordar dela também pode ser útil, e até louvável.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Senhores, suponhamos que o homem não seja tolo. (De fato, não se pode dizer isso dele, nem que seja só porque, se ele for tolo, quem então será inteligente?)",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas, se não é tolo, é monstruosamente ingrato! Fenomenalmente ingrato. Acho até que a melhor definição do homem é esta: criatura de duas pernas, e ingrata.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Mas isso não é tudo; não é o seu defeito principal. O defeito principal é a falta constante de bons modos, constante, desde o Dilúvio Universal até o período Schleswig-Holstein dos destinos humanos. Falta de bons modos e, portanto, falta de sensatez.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Experimentem lançar um olhar sobre a história da humanidade; o que vão ver? Grandiosa? Talvez, grandiosa. Variada? Talvez, variada. Monótona? Bem, talvez, monótona: brigam e brigam, brigam agora, brigavam antes e vão brigar depois; convenham que é monótono até demais.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "(Corte: piadas sobre o Colosso de Rodes, sobre os uniformes de gala de todos os povos e sobre os sábios virtuosos que, no fim da vida, acabam fazendo algum escândalo.)",
+   1.0,
+   0.6
+  ],
+  [
+   "leitor",
+   "Numa palavra, pode-se dizer tudo da história universal, tudo o que vier à cabeça da imaginação mais transtornada. Só uma coisa não se pode dizer: que é sensata. Engasga-se na primeira palavra.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Agora eu pergunto: o que se pode esperar do homem, uma criatura dotada de qualidades tão estranhas? Cubram-no de todos os bens da terra, afoguem-no de felicidade até a cabeça, de modo que só subam bolhinhas à superfície da felicidade, como na água;",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "deem-lhe tamanha fartura econômica, que não lhe reste mais nada a fazer senão dormir, comer biscoitos de mel e cuidar para que a história universal não acabe; e ainda assim o homem, mesmo aí, só por ingratidão, só por zombaria, vai fazer uma sujeira.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vai arriscar até os biscoitos e desejar de propósito o disparate mais destrutivo, o absurdo mais antieconômico, só para misturar a toda essa sensatez positiva o seu elemento fantástico e destrutivo.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Vai querer conservar justamente os seus sonhos fantásticos, a sua tolice mais vulgar, só para confirmar a si mesmo, como se isso fosse tão necessário, que os homens ainda são homens, e não teclas de piano.",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "E mais: mesmo que ele de fato fosse uma tecla de piano, e lhe provassem isso pelas ciências naturais e pela matemática, nem assim ele criaria juízo, mas faria de propósito alguma coisa ao contrário, só por ingratidão, para impor a sua vontade.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, se não tiver meios, vai inventar a destruição e o caos, vai inventar sofrimentos variados, e vai impor a sua vontade! Vai lançar uma maldição pelo mundo, e, como só o homem pode amaldiçoar, este é o seu privilégio, o que mais o distingue dos outros animais,",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "talvez ele consiga o que quer só com a maldição, isto é, vai se convencer de verdade de que é um homem, e não uma tecla de piano!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Se os senhores disserem que também tudo isso se pode calcular numa tabelinha, o caos, a treva e a maldição, de modo que a simples possibilidade do cálculo prévio vai parar tudo e a razão vai vencer, então o homem vai ficar louco de propósito, para não ter razão e impor a sua vontade!",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Eu acredito nisso, eu respondo por isso, porque, ao que parece, toda a questão humana consiste mesmo só em que o homem prove a si mesmo, a cada minuto, que é um homem, e não um pino! Ainda que com as próprias costelas, mas que prove; ainda que como um troglodita, mas que prove.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "E, depois disso, como não pecar, como não louvar que isso ainda não existe, e que o querer, por enquanto, ainda depende o diabo sabe de quê...",
+   0.95,
+   0.8
+  ],
+  [
+   "leitor",
+   "Os senhores me gritam, se ainda me derem a honra do seu grito, que ninguém está tirando a minha vontade; que só estão cuidando de arranjar as coisas para que a minha vontade, por sua própria vontade, coincida com os meus interesses normais, com as leis da natureza e com a aritmética.",
+   0.95,
+   0.5
+  ],
+  [
+   "leitor",
+   "Ah, senhores, que vontade própria vai haver, quando a coisa chegar à tabelinha e à aritmética, quando só estiver valendo o dois e dois são quatro? Dois e dois serão quatro mesmo sem a minha vontade. Isso lá é vontade própria!",
+   0.95,
+   1.5
+  ],
+  [
+   "comentarista",
+   "A definição do homem como criatura de duas pernas, e ingrata, brinca com uma anedota antiga. Diógenes Laércio conta que Platão definiu o homem como um bípede sem penas, e que Diógenes, o cínico, depenou uma galinha e a levou à escola dizendo: eis o homem de Platão.",
+   1.0,
+   0.5
+  ],
+  [
+   "comentarista",
+   "E o pino de realejo, a tecla de piano, volta muitas vezes. Uma leitura possível: para o narrador, ser previsível é deixar de ser pessoa. Daí a frase central do capítulo: o capricho nos conserva a individualidade, mesmo quando nos faz mal.",
+   1.0,
+   1.5
+  ]
+ ]
+}
